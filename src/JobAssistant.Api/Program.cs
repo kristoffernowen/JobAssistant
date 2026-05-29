@@ -37,3 +37,5 @@ ads.MapGetAdsByFilter();
 ads.MapGetAds();
 
 app.Run();
+
+public partial class Program;
