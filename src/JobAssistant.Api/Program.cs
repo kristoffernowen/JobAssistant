@@ -1,4 +1,6 @@
 using JobAssistant.Api.ErrorHandling;
+using JobAssistant.Api.Features.Users.AddSkillsOnUser;
+using JobAssistant.Api.Features.Users.CreateUser;
 using JobAssistant.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,5 +21,9 @@ app.UseExceptionHandler();
 app.UseHttpsRedirection();
 
 app.MapGet("/health", () => Results.Ok(new { status = "ok" }));
+
+var users = app.MapGroup("/users");
+users.MapCreateUser();
+users.MapAddSkillsOnUser();
 
 app.Run();
