@@ -1,4 +1,5 @@
 using JobAssistant.Api.ErrorHandling;
+using JobAssistant.Api.Features.Ads.LoadJobStreamAds;
 using JobAssistant.Api.Features.Users.AddSkillsOnUser;
 using JobAssistant.Api.Features.Users.CreateUser;
 using JobAssistant.Infrastructure;
@@ -25,5 +26,8 @@ app.MapGet("/health", () => Results.Ok(new { status = "ok" }));
 var users = app.MapGroup("/users");
 users.MapCreateUser();
 users.MapAddSkillsOnUser();
+
+var jobStreamAds = app.MapGroup("/jobstream-ads");
+jobStreamAds.MapLoadJobStreamAds();
 
 app.Run();

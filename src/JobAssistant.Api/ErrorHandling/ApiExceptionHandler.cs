@@ -65,6 +65,14 @@ public sealed class ApiExceptionHandler(ILogger<ApiExceptionHandler> logger) : I
                 Detail = externalService.Message,
                 Instance = path
             },
+            RateLimitExceededException rateLimited => new ProblemDetails
+            {
+                Type = "https://jobassistant/errors/external-service",
+                Title = "Rate limit exceeded",
+                Status = StatusCodes.Status429TooManyRequests,
+                Detail = rateLimited.Message,
+                Instance = path
+            },
             _ => new ProblemDetails
             {
                 Type = "https://jobassistant/errors/unexpected",

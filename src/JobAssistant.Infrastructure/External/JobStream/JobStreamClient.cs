@@ -30,7 +30,7 @@ public sealed class JobStreamClient(HttpClient httpClient) : IJobStreamClient
 
         if (response.StatusCode == System.Net.HttpStatusCode.TooManyRequests)
         {
-            throw new ExternalServiceException("JobStream rate limit exceeded.");
+            throw new RateLimitExceededException("JobStream rate limit exceeded.");
         }
 
         if (!response.IsSuccessStatusCode)
