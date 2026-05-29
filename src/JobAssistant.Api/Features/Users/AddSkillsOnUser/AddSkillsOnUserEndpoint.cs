@@ -38,12 +38,13 @@ public static class AddSkillsOnUserEndpoint
                         continue;
                     }
 
-                    user.Skills.Add(new UserSkill
+                    var newSkill = new UserSkill
                     {
-                        Id = Guid.NewGuid(),
                         UserProfileId = user.Id,
                         Value = skill
-                    });
+                    };
+
+                    dbContext.UserSkills.Add(newSkill);
                 }
 
                 await dbContext.SaveChangesAsync(cancellationToken);
