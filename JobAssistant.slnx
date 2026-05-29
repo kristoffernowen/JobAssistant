@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JobAssistant.Api/JobAssistant.Api.csproj" />
+    <Project Path="src/JobAssistant.Application/JobAssistant.Application.csproj" />
+    <Project Path="src/JobAssistant.Infrastructure/JobAssistant.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/JobAssistant.Api.Tests/JobAssistant.Api.Tests.csproj" />
+    <Project Path="tests/JobAssistant.Application.Tests/JobAssistant.Application.Tests.csproj" />
+    <Project Path="tests/JobAssistant.IntegrationTests/JobAssistant.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
