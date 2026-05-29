@@ -1,4 +1,5 @@
 using JobAssistant.Application.Common.Interfaces;
+using JobAssistant.Infrastructure.External.JobStream;
 using JobAssistant.Infrastructure.Persistence;
 using JobAssistant.Infrastructure.Services;
 using Microsoft.EntityFrameworkCore;
@@ -18,6 +19,12 @@ public static class DependencyInjection
             options.UseSqlServer(connectionString));
 
         services.AddSingleton<ILocationConceptMapper, VastmanlandLocationConceptMapper>();
+        services.AddHttpClient<IJobStreamClient, JobStreamClient>(client =>
+        {
+            client.BaseAddress = new Uri("https://jobstream.api.jobtechdev.se/");
+            client.Timeout = TimeSpan.FromSeconds(30);
+            client.DefaultRequestHeaders.Accept.ParseAdd("application/json");
+        });
 
         return services;
     }
