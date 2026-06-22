@@ -8,6 +8,8 @@ namespace JobAssistant.Infrastructure.External.JobStream;
 
 public sealed class JobStreamClient(HttpClient httpClient) : IJobStreamClient
 {
+    private const string LogDirectory = "Logs";
+
     public async Task<IReadOnlyCollection<JobStreamAdDto>> GetStreamAdsAsync(
         DateTime fromUtc,
         DateTime toUtc,
@@ -38,12 +40,54 @@ public sealed class JobStreamClient(HttpClient httpClient) : IJobStreamClient
             throw new ExternalServiceException($"JobStream returned status {(int)response.StatusCode}.");
         }
 
-        await using var stream = await response.Content.ReadAsStreamAsync(cancellationToken);
-        var ads = await JsonSerializer.DeserializeAsync<List<JobStreamAdDto>>(
-            stream,
-            new JsonSerializerOptions { PropertyNameCaseInsensitive = true },
-            cancellationToken);
+        var jsonContent = await response.Content.ReadAsStringAsync(cancellationToken);
+
+        await LogRawJobStreamResponse(jsonContent);
+
+        var ads = JsonSerializer.Deserialize<List<JobStreamAdDto>>(
+            jsonContent,
+            new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
 
         return ads ?? [];
+    }
+
+    private static async Task LogRawJobStreamResponse(string jsonContent)
+    {
+        try
+        {
+            var baseDirectory = AppContext.BaseDirectory;
+            var projectRoot = Directory.GetParent(baseDirectory)?.Parent?.Parent?.Parent?.FullName;
+
+            if (projectRoot == null)
+            {
+                return;
+            }
+
+            var logDirectory = Path.Combine(projectRoot, LogDirectory);
+
+            if (!Directory.Exists(logDirectory))
+            {
+                Directory.CreateDirectory(logDirectory);
+            }
+
+            using var doc = JsonDocument.Parse(jsonContent);
+            var root = doc.RootElement;
+
+            var firstThree = root.EnumerateArray().Take(3).ToList();
+
+            var logContent = JsonSerializer.Serialize(firstThree, new JsonSerializerOptions 
+            { 
+                WriteIndented = true 
+            });
+
+            var timestamp = DateTime.UtcNow.ToString("yyyyMMdd_HHmmss", CultureInfo.InvariantCulture);
+            var logFilePath = Path.Combine(logDirectory, $"jobstream_raw_{timestamp}.json");
+
+            await File.WriteAllTextAsync(logFilePath, logContent);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Failed to log JobStream response: {ex.Message}");
+        }
     }
 }
