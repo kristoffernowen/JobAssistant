@@ -32,11 +32,23 @@ public sealed class JobAdConfiguration : IEntityTypeConfiguration<JobAd>
             .HasMaxLength(200)
             .IsRequired();
 
-        builder.Property(x => x.Category)
+        builder.Property(x => x.OccupationGroup)
             .HasMaxLength(200)
             .IsRequired();
 
+        builder.Property(x => x.OccupationField)
+            .HasMaxLength(200)
+            .IsRequired();
+
+        builder.Property(x => x.FullData)
+            .HasColumnType("nvarchar(max)")
+            .HasConversion(
+                v => System.Text.Json.JsonSerializer.Serialize(v, (System.Text.Json.JsonSerializerOptions?)null),
+                v => System.Text.Json.JsonSerializer.Deserialize<JobAssistant.Application.JobStream.JobStreamAdDto>(v, (System.Text.Json.JsonSerializerOptions?)null));
+
         builder.HasIndex(x => x.Loaded);
-        builder.HasIndex(x => new { x.Location, x.Category });
+        builder.HasIndex(x => x.PublicationDate);
+        builder.HasIndex(x => new { x.Location, x.OccupationGroup });
+        builder.HasIndex(x => new { x.Location, x.OccupationField });
     }
 }

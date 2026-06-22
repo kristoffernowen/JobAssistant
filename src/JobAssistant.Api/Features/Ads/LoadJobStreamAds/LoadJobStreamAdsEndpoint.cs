@@ -83,9 +83,13 @@ public static class LoadJobStreamAdsEndpoint
                     jobAd.Location = ad.WorkplaceAddress?.Municipality
                         ?? ad.WorkplaceAddress?.Region
                         ?? request.Location.Trim();
-                    jobAd.Category = ad.OccupationField?.Label ?? "Unknown";
+                    jobAd.OccupationGroup = ad.OccupationGroup?.Label ?? "Unknown";
+                    jobAd.OccupationField = ad.OccupationField?.Label ?? "Unknown";
+                    jobAd.PublicationDate = ad.PublicationDate;
+                    jobAd.Removed = ad.Removed;
                     jobAd.Loaded = loadedUtc;
                     jobAd.Inactive = ad.Removed;
+                    jobAd.FullData = ad;
                 }
 
                 dbContext.ImportWindows.Add(new ImportWindow

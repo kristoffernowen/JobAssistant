@@ -16,8 +16,14 @@ public sealed class JobStreamAdDto
     [JsonPropertyName("workplace_address")]
     public JobStreamWorkplaceAddressDto? WorkplaceAddress { get; set; }
 
+    [JsonPropertyName("occupation_group")]
+    public JobStreamOccupationGroupDto? OccupationGroup { get; set; }
+
     [JsonPropertyName("occupation_field")]
     public JobStreamOccupationFieldDto? OccupationField { get; set; }
+
+    [JsonPropertyName("publication_date")]
+    public DateTime PublicationDate { get; set; }
 
     [JsonPropertyName("removed")]
     public bool Removed { get; set; }
@@ -27,6 +33,9 @@ public sealed class JobStreamDescriptionDto
 {
     [JsonPropertyName("text")]
     public string? Text { get; set; }
+
+    [JsonPropertyName("text_formatted")]
+    public string? TextFormatted { get; set; }
 }
 
 public sealed class JobStreamWorkplaceAddressDto
@@ -39,6 +48,12 @@ public sealed class JobStreamWorkplaceAddressDto
 }
 
 public sealed class JobStreamOccupationFieldDto
+{
+    [JsonPropertyName("label")]
+    public string? Label { get; set; }
+}
+
+public sealed class JobStreamOccupationGroupDto
 {
     [JsonPropertyName("label")]
     public string? Label { get; set; }

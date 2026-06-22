@@ -26,7 +26,12 @@ public static class GetAdsEndpoint
                     .Where(x => !x.Inactive)
                     .OrderByDescending(x => x.Loaded)
                     .Take(10)
-                    .Select(x => new AdItem(x.Title, x.Description))
+                    .Select(x => new AdItem(
+                        x.Title, 
+                        x.Description, 
+                        x.Location, 
+                        x.OccupationGroup, 
+                        x.OccupationField))
                     .ToListAsync(cancellationToken);
 
                 return Results.Ok(new GetAdsResponse(ads));

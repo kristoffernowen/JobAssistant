@@ -14,12 +14,12 @@ public static class GetAdsByFilterEndpoint
             "/filter",
             async (
                 [FromQuery] string? location,
-                [FromQuery] string? category,
+                [FromQuery] string? occupationField,
                 [FromQuery] int numberOfAds,
                 ApplicationDbContext dbContext,
                 CancellationToken cancellationToken) =>
             {
-                ValidateRequest(location, category, numberOfAds);
+                ValidateRequest(location, occupationField, numberOfAds);
 
                 var hasAnyAds = await dbContext.JobAds
                     .AsNoTracking()
@@ -31,28 +31,33 @@ public static class GetAdsByFilterEndpoint
                 }
 
                 var normalizedLocation = location!.Trim();
-                var normalizedCategory = category!.Trim();
+                var normalizedOccupationField = occupationField!.Trim();
 
                 var ads = await dbContext.JobAds
                     .AsNoTracking()
                     .Where(x =>
                         !x.Inactive
                         && x.Location.ToLower() == normalizedLocation.ToLower()
-                        && x.Category.ToLower() == normalizedCategory.ToLower())
+                        && x.OccupationField.ToLower() == normalizedOccupationField.ToLower())
                     .OrderByDescending(x => x.Loaded)
                     .Take(numberOfAds)
-                    .Select(x => new AdItem(x.Title, x.Description))
+                    .Select(x => new AdItem(
+                        x.Title, 
+                        x.Description, 
+                        x.Location, 
+                        x.OccupationGroup, 
+                        x.OccupationField))
                     .ToListAsync(cancellationToken);
 
                 return Results.Ok(new GetAdsResponse(ads));
             })
             .WithName("GetAdsByFilter")
-            .WithSummary("Get active ads filtered by location and category.");
+            .WithSummary("Get active ads filtered by location and occupation field.");
 
         return group;
     }
 
-    private static void ValidateRequest(string? location, string? category, int numberOfAds)
+    private static void ValidateRequest(string? location, string? occupationField, int numberOfAds)
     {
         Dictionary<string, string[]>? errors = null;
 
@@ -62,10 +67,10 @@ public static class GetAdsByFilterEndpoint
             errors["location"] = ["Location is required."];
         }
 
-        if (string.IsNullOrWhiteSpace(category))
+        if (string.IsNullOrWhiteSpace(occupationField))
         {
             errors ??= new Dictionary<string, string[]>();
-            errors["category"] = ["Category is required."];
+            errors["occupationField"] = ["OccupationField is required."];
         }
 
         if (numberOfAds <= 0)

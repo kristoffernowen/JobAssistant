@@ -41,7 +41,10 @@ public sealed class AdsEndpointsTests
                 Title = $"Title {i}",
                 Description = $"Description {i}",
                 Location = "Vasteras",
-                Category = "IT",
+                OccupationGroup = "IT-utvecklare",
+                OccupationField = "IT",
+                PublicationDate = now.AddMinutes(i),
+                Removed = false,
                 Loaded = now.AddMinutes(i),
                 Inactive = false
             })
@@ -54,7 +57,10 @@ public sealed class AdsEndpointsTests
             Title = "Inactive",
             Description = "Should not be returned",
             Location = "Vasteras",
-            Category = "IT",
+            OccupationGroup = "IT-utvecklare",
+            OccupationField = "IT",
+            PublicationDate = now.AddDays(1),
+            Removed = true,
             Loaded = now.AddDays(1),
             Inactive = true
         });
@@ -78,7 +84,7 @@ public sealed class AdsEndpointsTests
         using var factory = new ApiTestFactory();
         using var client = factory.CreateClient();
 
-        var response = await client.GetAsync("/ads/filter?location=&category=&numberOfAds=0");
+        var response = await client.GetAsync("/ads/filter?location=&occupationField=&numberOfAds=0");
 
         Assert.Equal(HttpStatusCode.BadRequest, response.StatusCode);
         var payload = await response.Content.ReadFromJsonAsync<JsonElement>();
@@ -89,7 +95,7 @@ public sealed class AdsEndpointsTests
         Assert.Equal("/ads/filter", payload.GetProperty("instance").GetString());
         var errors = payload.GetProperty("errors");
         Assert.True(errors.TryGetProperty("location", out _));
-        Assert.True(errors.TryGetProperty("category", out _));
+        Assert.True(errors.TryGetProperty("occupationField", out _));
         Assert.True(errors.TryGetProperty("numberOfAds", out _));
     }
 }
