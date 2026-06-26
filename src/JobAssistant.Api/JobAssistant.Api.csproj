@@ -19,4 +19,10 @@
     <ProjectReference Include="..\JobAssistant.Infrastructure\JobAssistant.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="Data\Taxonomy\*.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>

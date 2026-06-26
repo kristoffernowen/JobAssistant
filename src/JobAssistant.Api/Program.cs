@@ -2,6 +2,7 @@ using JobAssistant.Api.ErrorHandling;
 using JobAssistant.Api.Features.Ads.GetAds;
 using JobAssistant.Api.Features.Ads.GetAdsByFilter;
 using JobAssistant.Api.Features.Ads.LoadJobStreamAds;
+using JobAssistant.Api.Features.Ads.SearchAds;
 using JobAssistant.Api.Features.Users.AddSkillsOnUser;
 using JobAssistant.Api.Features.Users.CreateUser;
 using JobAssistant.Infrastructure;
@@ -35,6 +36,7 @@ jobStreamAds.MapLoadJobStreamAds();
 var ads = app.MapGroup("/ads");
 ads.MapGetAdsByFilter();
 ads.MapGetAds();
+ads.MapSearchAds();
 
 app.Run();
 

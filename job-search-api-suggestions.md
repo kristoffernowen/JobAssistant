@@ -154,3 +154,90 @@ Focus on:
 
 Proceed with runtime Job Search integration now, with static concept-id validation and optional in-memory session cache.
 This gives the best balance of speed, control, and low complexity while you explore filtering and ad-data usage before deciding on long-term persistence.
+
+## Copilot questions
+
+Det jag behöver att du bekräftar innan implementation:
+
+Endpoint-kontrakt för steg 1:
+Vill du att vi använder befintliga sökvägen /ads/filter eller inför ny, exempelvis /ads/search?
+Obligatoriska vs frivilliga fält:
+Ska published-after vara obligatorisk? Ska municipality och occupation-group krävas samtidigt, eller räcker minst en av dem?
+Interna filter i GET:
+Vilka vill du börja med konkret? Exempelvis keyword i title/description, max age på annons, krav på remote, must-have skills.
+Sortering och paging:
+Default sort pubdate-desc? Default limit? Max limit?
+Response-shape:
+Ska vi returnera ett förenklat AdItem, eller även metadata som total hits och query time från AF?
+No-result-beteende:
+Ska tom träfflista ge 200 med tom lista, eller 404 i vissa fall?
+Validering av concept ids:
+Vill du skicka in concept ids direkt, eller labels som mappas till ids via statisk fil?
+Statisk taxonomy-källa:
+Var vill du lägga filerna i projektet och hur ofta ska de uppdateras manuellt?
+För steg 2 (Option B) är designen också genomförbar med samma GET återanvänd:
+
+GET /ads/search fortsätter vara stateless.
+Ny POST, exempelvis /ads/sessions/{sessionId}/refine, tar ett filterobjekt för mer komplex logik.
+Alternativt en POST /ads/sessions för att skapa session från samma basfilter som GET använder.
+
+## Clarifications to Copilot
+
+1. Använd sökväg /ads/search för endpoint för steg 1.
+2. Published after ska vara obligatorisk. Det räcker med municipality eller occupation-group.
+3. Interna filter i GET: börja med optional keyword måste finnas i description.
+4. Default sort pubdate-desc. Vi återkommer till paging. Lägg till en optional max-limit i parametrarna.
+5. Returnera en enkelt AdItem, men låt det inkludera title, location, occupation-group, id (det som af använder om man vill göra en query mot enskild ad) och webpage_url som visar var annonsen finns.
+6. Ge 200 och tom lista.
+7. Jag lägger in concept och municipality ids filer. Vi kan jobba med id direkt tillsvidare.
+8. I JobAssistant.Api/Data/Taxonomy. Ingen rutin för uppdatering av filerna nu. Jag hämtar nya manuellt vid behov.
+
+Två små antaganden jag (copilot) annars sätter själv vid implementation:
+
+toDateTime/published-before är optional.
+keyword-match görs case-insensitive substring på description.text.
+
+## Implemented by copilot
+
+1. Ny endpoint byggd: GET /ads/search.
+2. Request-validering byggd:
+
+- publishedAfter är obligatorisk.
+- minst en av municipality eller occupationGroup krävs.
+- maxLimit valideras till 1-100 om satt.
+
+3. Koncept-id-validering byggd mot statiska taxonomy-filer i JobAssistant.Api/Data/Taxonomy.
+4. Ny JobSearch-klient byggd mot https://jobsearch.api.jobtechdev.se/search.
+5. Outbound query stöder:
+
+- published-after
+- optional published-before
+- municipality (repeatable)
+- occupation-group (repeatable)
+- sort=pubdate-desc
+- optional limit
+
+6. Internt filter byggt:
+
+- optional keyword matchar case-insensitive mot description.text.
+
+7. Response-shape byggd enligt beslut:
+
+- title
+- location
+- occupation-group
+- id
+- webpage_url
+
+8. No-result-beteende byggt:
+
+- 200 OK med tom lista.
+
+9. Felmappning byggd för upstream:
+
+- 429 från AF -> 429 ProblemDetails
+- övriga upstream-fel -> 502 ProblemDetails
+
+10. DI och nya kontrakt kopplade i API/Application/Infrastructure.
+11. Tester tillagda för /ads/search (validering, tom lista, keyword-filter och fältmappning).
+12. Verifierat lokalt med dotnet test: alla tester gröna.

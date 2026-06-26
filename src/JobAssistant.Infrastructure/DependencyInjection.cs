@@ -1,4 +1,5 @@
 using JobAssistant.Application.Common.Interfaces;
+using JobAssistant.Infrastructure.External.JobSearch;
 using JobAssistant.Infrastructure.External.JobStream;
 using JobAssistant.Infrastructure.Persistence;
 using JobAssistant.Infrastructure.Services;
@@ -19,6 +20,15 @@ public static class DependencyInjection
             options.UseSqlServer(connectionString));
 
         services.AddSingleton<ILocationConceptMapper, VastmanlandLocationConceptMapper>();
+        services.AddSingleton<ITaxonomyConceptValidator, FileBasedTaxonomyConceptValidator>();
+
+        services.AddHttpClient<IJobSearchClient, JobSearchClient>(client =>
+        {
+            client.BaseAddress = new Uri("https://jobsearch.api.jobtechdev.se/");
+            client.Timeout = TimeSpan.FromSeconds(30);
+            client.DefaultRequestHeaders.Accept.ParseAdd("application/json");
+        });
+
         services.AddHttpClient<IJobStreamClient, JobStreamClient>(client =>
         {
             client.BaseAddress = new Uri("https://jobstream.api.jobtechdev.se/");
