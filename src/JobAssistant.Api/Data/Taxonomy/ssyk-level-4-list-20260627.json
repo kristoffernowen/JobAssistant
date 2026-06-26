@@ -1,0 +1,2814 @@
+[
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Borrar och transporterar malm från gruva. Borrar och förstärker berg vid anläggningsarbeten.",
+    "taxonomy/id": "f71c_gjL_RDq",
+    "taxonomy/ssyk-code-2012": "8111",
+    "taxonomy/preferred-label": "Gruv- och stenbrottsarbetare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Behandlar och rehabiliterar klienter och patienter inom psykiatrisk vård, missbruksvård och kriminalvård. Arbetar med insatser till stöd för flyktingar.",
+    "taxonomy/id": "BWwk_fYX_S5B",
+    "taxonomy/ssyk-code-2012": "3411",
+    "taxonomy/preferred-label": "Behandlingsassistenter och socialpedagoger m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför tekniskt arbete vid utvinning av metaller, olja och gas eller vid framställning av metaller, legeringar och metallurgiska produkter samt vid underhåll och reparation av gruvinstallationer. Utför kvalitets- och produktkontroller i samband med stål- och metallframställning m.m.\n\nHit hör inte\nCivilingenjörsyrken inom gruvteknik och metallurgi (2146)",
+    "taxonomy/id": "3jEy_yuT_aVo",
+    "taxonomy/ssyk-code-2012": "3116",
+    "taxonomy/preferred-label": "Ingenjörer och tekniker inom gruvteknik och metallurgi"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Underlättar för person med funktionsnedsättning att sköta sin skolgång eller sitt arbete. Ger stöd vid vardagssysslor samt fritidsaktiviteter. Ger personlig ledsagning.\r\n\r\nHit hör inte\r\nVårdare/Arbetshandledare/Boendestödjare (5342)",
+    "taxonomy/id": "sq3e_WVv_Fjd",
+    "taxonomy/ssyk-code-2012": "5343",
+    "taxonomy/preferred-label": "Personliga assistenter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Säljer frukt, grönsaker, mat och andra varor på torg och allmänna platser t.ex. vid marknader.",
+    "taxonomy/id": "xyW2_toA_Skh",
+    "taxonomy/ssyk-code-2012": "9520",
+    "taxonomy/preferred-label": "Torg- och marknadsförsäljare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ansvarar för de praktiska detaljerna i arbetet med att sätta upp en teaterföreställning eller vid inspelning. Ser till att personer och föremål finns på rätt plats vid rätt tidpunkt. Läser manus, antecknar önskemål om ljus, effekter, musik m.m. Handlägger licens- och royaltyfrågor.",
+    "taxonomy/id": "PH2M_uV4_r72",
+    "taxonomy/ssyk-code-2012": "3433",
+    "taxonomy/preferred-label": "Inspicienter och scriptor m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Registrerar, kontrollerar och styr material- och varuflöden. Planerar och kontrollerar leveranser samt planerar lagerhållning och utnyttjande av lagerkapacitet. Tar emot gods samt plockar, packar och lastar gods med hjälp av exempelvis truck. Kontrollerar och registrerar varor.\r\n\r\nHit hör inte\r\nHamnarbetare/Stuveriarbetare (9331)\r\nLastare (9332) \r\nLogistiker (2141)\r\nPackare (9320)\r\nReservdelsspecialist/Bildelsspecialist (7231)\r\n",
+    "taxonomy/id": "kLyY_rwr_aJr",
+    "taxonomy/ssyk-code-2012": "4322",
+    "taxonomy/preferred-label": "Lager- och terminalpersonal"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Svarar för vård och tillsyn av intagna på kriminalvårdsanstalter och allmänna häkten. Övervakar ordning och säkerhet. Aktiverar de intagna i olika fritidsverksamheter samt bedriver motivationsarbete.",
+    "taxonomy/id": "hgAg_gLr_YGg",
+    "taxonomy/ssyk-code-2012": "5412",
+    "taxonomy/preferred-label": "Kriminalvårdare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Organiserar, leder och svarar för att politiska beslut verkställs. Planerar, leder och samordnar myndigheters, kommuners och landstings verksamhet. Ger den politiska ledningen råd i sakfrågor.",
+    "taxonomy/id": "ddGt_fEH_432",
+    "taxonomy/ssyk-code-2012": "1112",
+    "taxonomy/preferred-label": "General-, landstings- och kommundirektörer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ger stöd, service och omsorg till barn och vuxna med funktionsnedsättning. Fungerar som stöd för individens självständighet genom att bistå i vardagliga sysslor i hemmet, i grupp- eller serviceboende eller inom daglig verksamhet. Ger stöd även vid hygien och kommunikation samt med fritidsaktiviteter.\r\n\r\nHit hör inte\r\nPersonlig assistent (5343)",
+    "taxonomy/id": "7pz9_eY9_D2s",
+    "taxonomy/ssyk-code-2012": "5342",
+    "taxonomy/preferred-label": "Vårdare, boendestödjare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför ansikts- och kroppsbehandlingar. Gör hudanalyser, djuprengör huden, ger massage och lägger masker och krämer. Ger råd och föreslår lämpliga behandlingar och produkter.\r\n \r\nHit hör inte\r\nManikyrist/Manikurist (5149)\r\nNagelterapeut/Nagelteknolog (5149)\r\nPedikyrist/Pedikurist (5149)\r\n",
+    "taxonomy/id": "xr7w_N6Q_QMA",
+    "taxonomy/ssyk-code-2012": "5142",
+    "taxonomy/preferred-label": "Hudterapeuter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tar emot, samordnar och förmedlar larm om inträffade eller befarade olyckor i luften, på land och till sjöss. Leder arbetet med räddningsinsatser. Tar emot inbrottslarm, överfallslarm, driftlarm och trygghetslarm på larmcentral eller ledningscentral för bevakningsföretag.\r\n",
+    "taxonomy/id": "kZwz_D8K_bKs",
+    "taxonomy/ssyk-code-2012": "5414",
+    "taxonomy/preferred-label": "SOS-operatörer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Behandlar förhårdnader, nageltrång och andra besvär på fötter. Utför medicinsk fotvård. Ger råd om egenvård, skor och hjälpmedel.\r\n\r\nHit hör inte\r\nPedikyrist/Pedikurist (5149)\r\nPodiatriker/Podiater (2289)\r\n",
+    "taxonomy/id": "HATH_AfN_RRz",
+    "taxonomy/ssyk-code-2012": "5144",
+    "taxonomy/preferred-label": "Fotterapeuter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Undervisar och organiserar aktiviteter i förskola eller i förskoleklass. Planerar och genomför undervisning i enlighet med läroplan.",
+    "taxonomy/id": "5ek3_Cgq_WeZ",
+    "taxonomy/ssyk-code-2012": "2343",
+    "taxonomy/preferred-label": "Förskollärare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Planerar, leder och samordnar verksamhet i intresseorganisationer. Svarar för förhandlingar, intressebevakning och information. Representerar organisationen och dess medlemmar i utredningar, uppvaktningar, remisser och dyl.",
+    "taxonomy/id": "ajwx_FvL_YuY",
+    "taxonomy/ssyk-code-2012": "1113",
+    "taxonomy/preferred-label": "Chefstjänstemän i intresseorganisationer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för verksamhet inom skogsbruk eller på större lantbruk. Utformar riktlinjer och följer upp och utvärderar verksamheten mot uppsatta mål. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.\r\n\r\nHit hör inte\r\nDriftchef, jordbruk (6111)\r\nDriftchef, trädgård (6112)\r\n\r\n\r\n",
+    "taxonomy/id": "9QMD_sZ3_ZjX",
+    "taxonomy/ssyk-code-2012": "1380",
+    "taxonomy/preferred-label": "Förvaltare inom skogsbruk och lantbruk m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Leder och planerar församlingsarbete i Svenska kyrkan eller annat trossamfund utom frikyrkoförsamlingar. Leder gudstjänst eller mässa samt predikar och förrättar altartjänst. Förrättar dop, vigslar och begravningar. Uttolkar heliga skrifter samt ansvarar för kyrkans lära och undervisar i trosfrågor. Mottar bikt och utövar själavård.",
+    "taxonomy/id": "2L2s_EU8_PzR",
+    "taxonomy/ssyk-code-2012": "2671",
+    "taxonomy/preferred-label": "Präster"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ger omvårdnad till äldre människor för att förebygga och behandla åldersrelaterade sjukdomar.\r\n",
+    "taxonomy/id": "6eAB_cbY_i9T",
+    "taxonomy/ssyk-code-2012": "2227",
+    "taxonomy/preferred-label": "Geriatriksjuksköterskor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför kliniska analyser vid sjukhus, läkemedelsindustrin eller laboratorium. Gör kemiska och biokemiska analyser samt tar prover. Hanterar teknisk apparatur och annan utrustning för provtagning och analys. Tar fram underlag som läkare behöver för att fastställa rätt diagnos. Deltar i forskning och utvecklingsarbete. Genomför analyser och dokumenterar bevis vid brottsutredningar.",
+    "taxonomy/id": "wNrt_Ysj_WuT",
+    "taxonomy/ssyk-code-2012": "3212",
+    "taxonomy/preferred-label": "Biomedicinska analytiker m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Installerar, underhåller och reparerar elektriska anläggningar i exempelvis industrilokaler. Underhåller och utför felsökning av utrustningar som styr olika processer inom industrin. Felsöker och reparerar elsystem i fordon, flygplan och på fartyg.\r\n \r\nHit hör inte\r\nDistributionselektriker (7413)\r\nInstallationselektriker (7411)",
+    "taxonomy/id": "a75S_eLg_JWH",
+    "taxonomy/ssyk-code-2012": "7412",
+    "taxonomy/preferred-label": "Industrielektriker",
+    "taxonomy/deprecated": false
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Skriver och hanterar patientjournaler utifrån information från läkare eller annan vårdgivare. Sköter administration, remisshantering och tar emot patienter.",
+    "taxonomy/id": "2kLc_pto_DpV",
+    "taxonomy/ssyk-code-2012": "4117",
+    "taxonomy/preferred-label": "Medicinska sekreterare, vårdadministratörer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Upprättar, utarbetar och granskar planer för nya stadsdelar, bostadsområden, industriområden samt översiktliga planer och program för utveckling av fysisk miljö. Planerar för förnyelse och förändring av befintliga områden. Väger samman funktionella, tekniska, ekonomiska, miljötekniska och estetiska krav och önskemål till en fungerande helhetslösning i dialog med uppdragsgivare och myndigheter. Utarbetar förslag i form av modeller, texter och ritningar.",
+    "taxonomy/id": "Pd51_xnr_KCY",
+    "taxonomy/ssyk-code-2012": "2163",
+    "taxonomy/preferred-label": "Planeringsarkitekter m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Hyr ut fordon, maskiner och andra varor och produkter.",
+    "taxonomy/id": "M47D_MU2_dhS",
+    "taxonomy/ssyk-code-2012": "5226",
+    "taxonomy/preferred-label": "Uthyrare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Studerar, analyserar, utvecklar och förklarar ekonomiska drivkrafter utifrån nationalekonomiska teorier och modeller. Jämför samhällsekonomiska teorier och modeller för att analysera och prognostisera beteenden och fenomen på individ-, företags- och samhällsnivå exempelvis arbetslöshet, inflation, investeringar och ekonomisk tillväxt. Analyserar stora världshändelser och länders förhållanden. Föreslår och värderar utfallet av politiska reformer och åtgärder. Utvecklar nya ekonomiska modeller.",
+    "taxonomy/id": "WZCM_nfS_eAk",
+    "taxonomy/ssyk-code-2012": "2415",
+    "taxonomy/preferred-label": "Nationalekonomer och makroanalytiker m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Leder, planerar och samordnar behandling av försäkringsärenden. Besiktigar och värderar försäkringsskador samt utreder skadeersättning. Uppskattar förluster som täcks av försäkringsavtal. Värderar egendom och tillhörigheter i samband med försäljning, försäkringsärende m.m.",
+    "taxonomy/id": "Ru4W_zn2_LEz",
+    "taxonomy/ssyk-code-2012": "3314",
+    "taxonomy/preferred-label": "Skadereglerare och värderare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Planerar, leder och samordnar verksamhet i företag och affärsverk med stöd från andra chefer, efter riktlinjer fastställda av en styrelse eller ledning. Formulerar och beslutar om mål och policy. Fattar beslut om arbetsorganisation och större investeringar. Representerar företaget i dess förehavanden med andra företag, organisationer och myndigheter. Redovisar resultat till styrelsen eller ledningen.\r\n\r\nHit hör inte\r\nGeneraldirektör, myndighet (1112)\r\nVerkställande direktör i företag utan chefshierarki (se respektive verksamhet)\r\n",
+    "taxonomy/id": "3i4a_Ufc_qpp",
+    "taxonomy/ssyk-code-2012": "1120",
+    "taxonomy/preferred-label": "Verkställande direktörer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Leder utflykter, sightseeingturer och andra arrangemang, både för enskilda besökare och turister eller i grupp. Informerar om sevärdheter m.m. Representerar reseföretag på plats.",
+    "taxonomy/id": "A6X3_efC_VNy",
+    "taxonomy/ssyk-code-2012": "5113",
+    "taxonomy/preferred-label": "Guider och reseledare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tillverkar, monterar och reparerar produkter och konstruktioner av tunnplåt. Reparerar skador och byter plåtdetaljer på fordon. Kontrollerar, reparerar och rengör cisterner. Framställer och reparerar föremål i koppar, mässing och tenn.",
+    "taxonomy/id": "L4hA_SJP_SFi",
+    "taxonomy/ssyk-code-2012": "7214",
+    "taxonomy/preferred-label": "Tunnplåtslagare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formger, tillverkar, graverar och reparerar guld- och silversmedsvaror, konsthantverk och andra föremål i ädelmetall. Slipar ädelstenar samt infattar och monterar stenar och pärlor.",
+    "taxonomy/id": "nwSm_phw_sPo",
+    "taxonomy/ssyk-code-2012": "7312",
+    "taxonomy/preferred-label": "Guld- och silversmeder"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för verksamhet inom övrig samhällsservice, t.ex. bibliotek, kultur och rättsväsende. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.",
+    "taxonomy/id": "sWzF_6pd_Y6L",
+    "taxonomy/ssyk-code-2012": "1590",
+    "taxonomy/preferred-label": "Övriga chefer inom samhällsservice"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för verksamhet inom övriga servicenäringar t.ex. camping och resebyrå. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.\r\n",
+    "taxonomy/id": "NQTS_fou_E6u",
+    "taxonomy/ssyk-code-2012": "1790",
+    "taxonomy/preferred-label": "Övriga chefer inom övrig servicenäring"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Vårdar patienter med akuta sjukdomar och skador. Har det medicinska ansvaret i en ambulans.",
+    "taxonomy/id": "PHJN_fva_yxs",
+    "taxonomy/ssyk-code-2012": "2226",
+    "taxonomy/preferred-label": "Ambulanssjuksköterskor m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Gör en tidsbegränsad specialisttjänstgöring bestående av utbildning samt läkararbete under handledning. Undersöker patienter, ställer diagnoser och gör behandlingsplaner.",
+    "taxonomy/id": "seu9_VoQ_VNo",
+    "taxonomy/ssyk-code-2012": "2212",
+    "taxonomy/preferred-label": "ST-läkare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Framför klassisk musik, populär- eller kyrkomusik som sångare eller instrumentmusiker. Komponerar musikaliska verk, leder och instruerar orkestrar, körer m.m.",
+    "taxonomy/id": "AWJF_wqZ_va9",
+    "taxonomy/ssyk-code-2012": "2652",
+    "taxonomy/preferred-label": "Musiker, sångare och kompositörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tränar och instruerar professionella idrottsutövare, amatörer och motionärer. Arrangerar, leder eller övervakar tävlingar och olika idrottsevenemang. Sätter poäng, kontrollerar utrustning och tävlingsplatser m.m.",
+    "taxonomy/id": "EA6o_N1N_QtT",
+    "taxonomy/ssyk-code-2012": "3422",
+    "taxonomy/preferred-label": "Idrottstränare och instruktörer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat biträdande arbete inom vård och omsorg än inom 5341–5343. Exempel på arbetsuppgifter: Biträder vid obduktioner och på laboratorium.",
+    "taxonomy/id": "GiNX_ESA_AL1",
+    "taxonomy/ssyk-code-2012": "5349",
+    "taxonomy/preferred-label": "Övrig vård- och omsorgspersonal"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Planerar och organiserar rekrytering, utveckling omplacering och avveckling av personal. Upprättar personalbudget och utbildningsplaner. Deltar i förhandlingar om löner, anställningsvillkor samt tolkar och informerar om arbetsrättsliga lagar och avtal.\r\n\r\nHit hör inte\r\nPersonalansvarig (2423)",
+    "taxonomy/id": "bjqk_F3A_5Hk",
+    "taxonomy/ssyk-code-2012": "2423",
+    "taxonomy/preferred-label": "Personal- och HR-specialister"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utformar och projekterar yttre miljö t.ex. torg, gator, bostadsområden, parker, lekplatser och trädgårdar. Väger samman naturresursbevarande aspekter med funktionella, tekniska, ekonomiska och estetiska krav och önskemål till en fungerande helhetslösning i dialog med uppdragsgivare. Gör växt- och materialsammanställningar. Utarbetar förslag i form av modeller, texter och ritningar.\r\n",
+    "taxonomy/id": "ETAR_ggZ_Wuw",
+    "taxonomy/ssyk-code-2012": "2162",
+    "taxonomy/preferred-label": "Landskapsarkitekter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Sätter i seriemässig tillverkning samman komponenter av metall, gummi och plast till olika produkter som t.ex. leksaker, sportartiklar och cyklar. Lagar punkteringar, monterar nya däck och balanserar hjul.\r\n\r\nHit hör inte\r\nDäcksbyggare (8213)\r\nKantpressare (7223)\r\nPlastarbetare (8142)",
+    "taxonomy/id": "Kxm9_N3V_shF",
+    "taxonomy/ssyk-code-2012": "8213",
+    "taxonomy/preferred-label": "Montörer, metall-, gummi- och plastprodukter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utreder och bedömer hörselbesvär och anpassar hörhjälpmedel. Informerar och utbildar om hörselsvårigheter. Undersöker, ställer diagnos och behandlar röst-, tal- och språkstörningar. Leder träning och ordinerar kommunikationshjälpmedel.",
+    "taxonomy/id": "pzch_NRY_9ZF",
+    "taxonomy/ssyk-code-2012": "2283",
+    "taxonomy/preferred-label": "Audionomer och logopeder"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för verksamhet inom förskolan eller annan omsorg för barn. Planerar och ansvarar för pedagogisk verksamhet. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Ser till att myndighetsregler efterlevs. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.",
+    "taxonomy/id": "1uau_t1u_rDL",
+    "taxonomy/ssyk-code-2012": "1420",
+    "taxonomy/preferred-label": "Chefer inom förskoleverksamhet"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Fattar beslut, leder och påverkar verksamheten i demokratiskt valda organ på nationell, regional eller lokal nivå. Utformar, stadfäster, ändrar och upphäver lagar, förordningar och andra författningar.",
+    "taxonomy/id": "qVHD_Hj5_PXh",
+    "taxonomy/ssyk-code-2012": "1111",
+    "taxonomy/preferred-label": "Politiker"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat förmedlingsarbete än inom 3331 – 3335. Exempel på arbetsuppgifter: Säljer varor eller fast egendom på auktion. Bokar engagemang och förhandlar kontrakt m.m. för artister, musiker, författare, idrottsutövare m.fl. Säljer annonser i media. Ger råd om butiksekonomi och marknadsföring.\r\n",
+    "taxonomy/id": "dUuh_wwa_FGj",
+    "taxonomy/ssyk-code-2012": "3339",
+    "taxonomy/preferred-label": "Övriga förmedlare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat monteringsarbete än inom 8211-8214. Exempel på arbetsuppgifter: Sätter i seriemässig tillverkning samman komponenter av exempelvis papp, textil, läder och liknande material till olika produkter.",
+    "taxonomy/id": "HXzD_qvt_HV6",
+    "taxonomy/ssyk-code-2012": "8219",
+    "taxonomy/preferred-label": "Övriga montörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar processtyrda ugnar m.m. för smältning, omvandling och raffinering av malm och metall.\r\n\r\nHit hör inte\r\nProcessoperatör, värmebehandling (8129)\r\n",
+    "taxonomy/id": "E87t_egE_pjA",
+    "taxonomy/ssyk-code-2012": "8193",
+    "taxonomy/preferred-label": "Processövervakare, metallproduktion"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Monterar och styr maskiner och aggregat för borrning efter vatten, olja, mineral m.m. Monterar och sköter pumpanläggning.",
+    "taxonomy/id": "7zKm_4NW_eey",
+    "taxonomy/ssyk-code-2012": "8113",
+    "taxonomy/preferred-label": "Brunnsborrare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ansvarar för och leder dagligt arbete i köket på ett internat eller inom storhushåll, exempelvis på en sjukhusrestaurang eller i en skolmatsal. Planerar matsedlar samt köper in varor.",
+    "taxonomy/id": "h324_DPT_7Tw",
+    "taxonomy/ssyk-code-2012": "3452",
+    "taxonomy/preferred-label": "Storhushållsföreståndare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Svarar för passagerares säkerhet ombord på flygplanet. Informerar om säkerhetsföreskrifter m.m. Serverar måltider och drycker samt säljer olika varor. Planerar och samordnar service och aktiviteter på fartyg.",
+    "taxonomy/id": "1Tso_4TB_RkE",
+    "taxonomy/ssyk-code-2012": "5111",
+    "taxonomy/preferred-label": "Kabinpersonal m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför tekniskt arbete i samband med kemiteknisk produktion. Organiserar, leder och samordnar det praktiska arbetet vid tillverkning av petroleumprodukter, kemikalier, kemiska och kemitekniska produkter, läkemedel, syntetiska material eller livsmedel. Utför kvalitets- och produktionskontroller av kemiska och kemitekniska produkter under produktionsprocessen.\r\n \r\nHit hör inte\r\nCivilingenjörsyrken inom kemi och kemiteknik (2145)\r\n",
+    "taxonomy/id": "v9nU_6Fw_4Qg",
+    "taxonomy/ssyk-code-2012": "3115",
+    "taxonomy/preferred-label": "Ingenjörer och tekniker inom kemi och kemiteknik"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat handläggningsarbete än inom 3351-3355. Exempel på arbetsuppgifter: Utfärdar föreskrifter, certifikat och tillstånd. Handlägger och förbereder ärenden, utreder och fattar beslut.",
+    "taxonomy/id": "oEmP_NC1_sXE",
+    "taxonomy/ssyk-code-2012": "3359",
+    "taxonomy/preferred-label": "Övriga handläggare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat maskin- och processoperatörsarbete inom stål och metall än inom 8121-8122. Exempel på arbetsuppgifter: Styr och övervakar maskiner som drar, pressar och formar metall för att tillverka tråd, spik, stållinor, rör, stänger och liknande produkter. Övervakar och kontrollerar automatiska anläggningar för gjutning. Sköter maskiner för tillverkning av gjutformar och gjutkärnor. \n\nHit hör inte\nGjutare (7211)\nStränggjutare, stålverk (8121)\nVärmare, valsverk (8123)\nUgnsoperatör (8193)",
+    "taxonomy/id": "UcNa_inr_snV",
+    "taxonomy/ssyk-code-2012": "8129",
+    "taxonomy/preferred-label": "Övriga maskin- och processoperatörer vid stål- och metallverk"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Samordnar, leder och följer upp arbete vid tillverkningsprocesser.",
+    "taxonomy/id": "dMVD_VYy_kgg",
+    "taxonomy/ssyk-code-2012": "3122",
+    "taxonomy/preferred-label": "Arbetsledare inom tillverkning"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Gör elinstallationer i byggnader. Utför felsökning och reparationer på elektriska anläggningar.\r\n\r\nHit hör inte\r\nDistributionselektriker (7413)\r\nIndustrielektriker (7412)\r\n",
+    "taxonomy/id": "yyF7_jsW_EeP",
+    "taxonomy/ssyk-code-2012": "7411",
+    "taxonomy/preferred-label": "Installations- och serviceelektriker"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar och programmerar spel och andra interaktiva medier som innefattar grafik och digitala animationer.",
+    "taxonomy/id": "Q5DF_juj_8do",
+    "taxonomy/ssyk-code-2012": "2513",
+    "taxonomy/preferred-label": "Utvecklare inom spel och digitala media"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Kör taxi- och personbilar samt minibussar för att transportera passagerare. Assisterar passagerare vid behov. \r\n\r\nHit hör inte\r\nBudbilsförare (8329)\r\nTestförare (8329)",
+    "taxonomy/id": "ffz2_2n3_R7g",
+    "taxonomy/ssyk-code-2012": "8321",
+    "taxonomy/preferred-label": "Taxiförare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Sköter, styr och övervakar hel- och halvautomatiska maskiner som bearbetar arbetsstycken av metall eller liknande material genom borrning, hyvling, svarvning, fräsning, gängning, slipning, svetsning m.m. Programmerar datorstyrda maskiner och korrigerar program. Sköter maskiner som bearbetar och skär material med hjälp av elektroner. Hanterar maskiner som formar detaljer i metall genom pressning eller tryck samt maskiner som kapar eller klipper metallprodukter. Sätter upp, utprovar och besiktigar verktyg. Ställer in och programmerar hel- och halvautomatiska verktygsmaskiner.\n\nHit hör inte\nSlipare, metall (7224)\nSvetsare, manuell (7212)",
+    "taxonomy/id": "vaEp_iBS_c5h",
+    "taxonomy/ssyk-code-2012": "7223",
+    "taxonomy/preferred-label": "Maskinställare och maskinoperatörer, metallarbete"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Säljer drivmedel, tillbehör, biltvätt och livsmedel. Bereder och serverar snabbmat och dryck. Hyr ut bilar, lastbilar och släpvagnar.\r\n\r\nHit hör inte\r\nBiluthyrare (5226)\r\n",
+    "taxonomy/id": "JnTF_wXr_6Eh",
+    "taxonomy/ssyk-code-2012": "5225",
+    "taxonomy/preferred-label": "Bensinstationspersonal"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Matchar lediga platser mot arbetssökande. Fångar upp arbetsmarknadens rekryteringsbehov. Ger råd och stöd till arbetsgivare hur de rekryterar personal och till arbetssökande hur de får arbete.",
+    "taxonomy/id": "fsnw_ZCu_v2U",
+    "taxonomy/ssyk-code-2012": "3333",
+    "taxonomy/preferred-label": "Arbetsförmedlare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ansvarar för och leder service- och underhållsarbete på flygplan och helikoptrar. Gör felsökning, inspektioner och funktionskontroller.",
+    "taxonomy/id": "eRkT_cTv_H9v",
+    "taxonomy/ssyk-code-2012": "3155",
+    "taxonomy/preferred-label": "Flygtekniker"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Undersöker, ställer diagnos och behandlar sjuka och skadade djur. Ger råd om djurhälsovård och avel. Kontrollerar djurbesättningar och slaktdjur. Ger råd och kontrollerar livsmedelshygien, djurskydd, smittskydd och import av djur och livsmedel.",
+    "taxonomy/id": "WL4E_r4b_ek4",
+    "taxonomy/ssyk-code-2012": "2250",
+    "taxonomy/preferred-label": "Veterinärer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Skapar konst i olika former t.ex. måleri, grafik, teckning och skulptur, video och film, relationell konst, objekt, installation, miljögestaltning, performance, ljuskonst m.m. Vårdar, konserverar, restaurerar och preparerar föremål och material. Gör bokomslag, bokillustrationer, skisser till kläder m.m.\r\n",
+    "taxonomy/id": "34Tn_BQQ_tfo",
+    "taxonomy/ssyk-code-2012": "2651",
+    "taxonomy/preferred-label": "Bildkonstnärer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Navigerar och styr fartyg. Leder arbete på däck och kommandobrygga samt ansvarar för att säkerhetsföreskrifter följs ombord. \r\n\r\nHit hör inte \r\nFiskeskeppare (6222)\r\nMatros (8350)",
+    "taxonomy/id": "kDnq_Q98_sD3",
+    "taxonomy/ssyk-code-2012": "3152",
+    "taxonomy/preferred-label": "Fartygsbefäl m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Sköter, ställer in och anpassar tryckpressen. Övervakar, mäter och kontrollerar tryckprocessen.",
+    "taxonomy/id": "XeJB_bkn_mRn",
+    "taxonomy/ssyk-code-2012": "7322",
+    "taxonomy/preferred-label": "Tryckare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ansvarar för drift och underhåll av maskinell, elektrisk och elektronisk utrustning ombord på fartyg.\r\n \r\nHit hör inte\r\nMotorman (7233)\r\n",
+    "taxonomy/id": "Rsoy_sS6_6c4",
+    "taxonomy/ssyk-code-2012": "3151",
+    "taxonomy/preferred-label": "Maskinbefäl"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Vårdar och sköter sjuka djur på djursjukhus, djurklinik m.m. Assisterar veterinär vid undersökningar och operationer. Tar prover och röntgenbilder. Informerar och ger råd samt utför enklare behandlingar.",
+    "taxonomy/id": "8q1B_5AR_CEM",
+    "taxonomy/ssyk-code-2012": "3240",
+    "taxonomy/preferred-label": "Djursjukskötare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ger teknisk support. Genomför felsökningar, analyserar och åtgärdar uppkomna fel. Ger service och support i samband med installation och underhåll av system. Löser problem som uppstår t.ex. med användares lösenord.",
+    "taxonomy/id": "hmaC_cfi_UKg",
+    "taxonomy/ssyk-code-2012": "3512",
+    "taxonomy/preferred-label": "Supporttekniker, IT"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ansvarar för och sköter IT-system som är i drift. Underhåller och förbättrar IT-system.",
+    "taxonomy/id": "cBBa_ngH_fCx",
+    "taxonomy/ssyk-code-2012": "2515",
+    "taxonomy/preferred-label": "Systemförvaltare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför röntgenundersökningar eller andra radiologiska undersökningar inför diagnostik och behandling. Ställer i ordning och kontrollerar medicinteknisk apparatur och utrustning.\r\n",
+    "taxonomy/id": "1tGC_fXC_mxX",
+    "taxonomy/ssyk-code-2012": "2235",
+    "taxonomy/preferred-label": "Röntgensjuksköterskor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Handlägger tekniska, ekonomiska och juridiska frågor i samband med fastighetsbildning. Svarar för värdering och registrering av fastigheter. Ansvarar för mätnings- och kartläggningsarbete samt för framställning och uppdatering av kartor. Analyserar flyg- och satellitbilder. Ger råd bl.a. vid fastighetsbildning, mark- och fastighetsvärdering samt vid samverkan mellan fastigheter.\r\n\r\nHit hör inte\r\nKartingenjör (3117)\r\nMätningsingenjör/MBK-ingenjör (3112) \r\n",
+    "taxonomy/id": "GMDo_DVo_Yzh",
+    "taxonomy/ssyk-code-2012": "2164",
+    "taxonomy/preferred-label": "Lantmätare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat socialt arbete än inom 2661-2663. Exempel på arbetsuppgifter: Handlägger mottagande och introduktion av nyanlända i kommun. Gör personutredningar och deltar i utslussningen vid intagnas återanpassning till samhället.",
+    "taxonomy/id": "n6iX_f2z_XfE",
+    "taxonomy/ssyk-code-2012": "2669",
+    "taxonomy/preferred-label": "Övriga yrken inom socialt arbete"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Täcker yttertak med tätskikt av olika material och monterar värmeisolering. Sätter upp innetak.",
+    "taxonomy/id": "3g5x_Tm7_8QH",
+    "taxonomy/ssyk-code-2012": "7121",
+    "taxonomy/preferred-label": "Takmontörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Inreder, väljer möbler och dekorerar t.ex. affärer, kaféer, restauranger, kontor och hem. Ställer i ordning scendekorer, skyltfönster m.m.\r\n\r\nHit hör inte\r\nInredningsarkitekt (2161)\r\n",
+    "taxonomy/id": "CSUf_ZVM_a7Z",
+    "taxonomy/ssyk-code-2012": "3432",
+    "taxonomy/preferred-label": "Inredare, dekoratörer och scenografer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ger råd om och säljer egenvårdsprodukter och receptfria läkemedel. Packar upp, prismärker samt fyller på varor i apotek.\r\n",
+    "taxonomy/id": "41Az_ioZ_rmH",
+    "taxonomy/ssyk-code-2012": "5227",
+    "taxonomy/preferred-label": "Apotekstekniker"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Säljer sällanköpsvaror i affärer, varuhus och andra försäljningsställen. Informerar kunder om varor och priser samt ger råd om användning och skötsel. Beställer, packar upp, prismärker, fyller på och tar betalt för varor.\r\n\r\nHit hör inte\r\nReservdelsspecialist/Bildelsspecialist (7231)\r\nOptikerassistent (5224)",
+    "taxonomy/id": "YKL2_FCB_1yr",
+    "taxonomy/ssyk-code-2012": "5223",
+    "taxonomy/preferred-label": "Butikssäljare, fackhandel"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat arbete än inom 9621-9622. Exempel på arbetsuppgifter: Fyller på varuautomater samt tömmer myntboxar och parkeringsautomater. Avläser el-, gas- och vattenmätare samt kontrollerar TV-licenser.",
+    "taxonomy/id": "ieVp_d5L_rS9",
+    "taxonomy/ssyk-code-2012": "9629",
+    "taxonomy/preferred-label": "Övriga servicearbetare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Organiserar och leder serveringspersonals arbete. Tar emot bordsreservationer samt beställningar på mat och dryck på restauranger eller hotell. Ansvarar för drycker på en restaurang. Serverar gäster mat och dryck på restauranger, konferensanläggningar, passagerarfartyg m.m.",
+    "taxonomy/id": "UjoW_meY_Zwt",
+    "taxonomy/ssyk-code-2012": "5131",
+    "taxonomy/preferred-label": "Hovmästare och servitörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför övrigt arbete inom kultur och underhållning än inom 3431-3433. Exempel på arbetsuppgifter: Framför cirkuskonster och illusionsnummer. Jonglerar, imiterar m.m. Agerar i farliga sekvenser på film. Presenterar program i radio och TV.\r\n",
+    "taxonomy/id": "xuSE_mtB_Mir",
+    "taxonomy/ssyk-code-2012": "3439",
+    "taxonomy/preferred-label": "Övriga yrken inom kultur och underhållning"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ansvarar för att upprätta budget samt för redovisning och bokslut. Kontrollerar att verksamhetens resurser används på ett effektivt sätt. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta ekonomiska mål. Redovisar resultat och rapporterar till företagsledningen eller motsvarande. Har personalansvar.",
+    "taxonomy/id": "mZsb_A1K_Gec",
+    "taxonomy/ssyk-code-2012": "1210",
+    "taxonomy/preferred-label": "Ekonomi- och finanschefer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bedriver avel, uppfödning och skötsel av andra djur än inom 6121-6122 för produktion av livsmedel, pälsskinn m.m. Sköter, dresserar eller tränar djur i djurpark, på cirkus m.m.\r\n",
+    "taxonomy/id": "Lrsj_wRZ_sFV",
+    "taxonomy/ssyk-code-2012": "6129",
+    "taxonomy/preferred-label": "Övriga djuruppfödare och djurskötare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat skönhets- och kroppsterapeutiskt arbete än inom 5141-5144 Exempel på arbetsuppgifter: Ger vårdande behandlingar på händer, naglar och nagelband. Bygger upp, förstärker, förlänger och lagar naglar med olika metoder, material och hjälpmedel. Utför spa-behandlingar. Ger råd om kläder och smink. Lägger makeup. Maskerar skådespelare m.m.",
+    "taxonomy/id": "ezKk_kss_CiQ",
+    "taxonomy/ssyk-code-2012": "5149",
+    "taxonomy/preferred-label": "Övriga skönhets- och kroppsterapeuter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Leder, planerar och samordnar verksamhet vid bankkontor eller bankavdelning. Gör kredit- och riskbedömningar vid exempelvis långivning. Svarar för ekonomisk rådgivning till företag och privatpersoner. Upprättar deklarationer, testamenten och andra ekonomiska handlingar.",
+    "taxonomy/id": "FfMN_Bw1_qYR",
+    "taxonomy/ssyk-code-2012": "3312",
+    "taxonomy/preferred-label": "Banktjänstemän"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Röjer upp, rengör och återställer platser och lokaler efter olyckor, utsläpp eller skadeangrepp. Sanerar fastigheter från t.ex. asbest eller mögel samt rengör ventilationsaggregat.\r\n",
+    "taxonomy/id": "idjo_2Wr_a3E",
+    "taxonomy/ssyk-code-2012": "7134",
+    "taxonomy/preferred-label": "Saneringsarbetare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Samlar in, sorterar och delar ut post och paket m.m. Ansvarar för kontorsmaterial samt underhåller vissa kontorsmaskiner. Hjälper till vid omflyttningar. Utför enklare reparationer. Bär bagage på hotell. Tar emot entrébiljetter och ansvarar för gästers ytterkläder.",
+    "taxonomy/id": "9DdK_AZY_ZNK",
+    "taxonomy/ssyk-code-2012": "9622",
+    "taxonomy/preferred-label": "Vaktmästare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Fyller och tillsluter förpackningar för hand. Etiketterar, packar, emballerar och väger gods manuellt samt sorterar produkter. Hanterar och rengör material och produkter i samband med tillverkning.",
+    "taxonomy/id": "DxiF_hTo_b3X",
+    "taxonomy/ssyk-code-2012": "9320",
+    "taxonomy/preferred-label": "Handpaketerare och andra fabriksarbetare",
+    "taxonomy/deprecated": false
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför tekniskt arbete i samband med konstruktion, nybyggnation, underhåll och reparation av byggnader och anläggningar. Utför mätnings-, konstruktions- och beräkningsarbete samt upprättar arbets- och detaljritningar. Deltar i kontroll och slutgranskning av bygg- och anläggningsprojekt. Utvecklar drift- och underhållsverksamheten för att optimera fastigheters tekniska system. \r\n\r\nHit hör inte\r\nCivilingenjörsyrken inom bygg och anläggning (2142)\t\r\n",
+    "taxonomy/id": "thZP_oR7_WrY",
+    "taxonomy/ssyk-code-2012": "3112",
+    "taxonomy/preferred-label": "Ingenjörer och tekniker inom bygg och anläggning"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar maskiner som monterar ammunition eller bearbetar kemikalier och andra ämnen för tillverkning av ammunition, sprängämnen och fyrverkerier. Styr och övervakar maskiner inom kemisk-teknisk industri som tillverkar kemikaliebaserade produkter som laminat, lim, linoleum, stearinljus, halogengaser och liknande. Styr och övervakar maskiner och utrustning som framställer och förstorar fotografiska bilder eller kopierar text, bild eller ritning.\n\nHit hör inte\nProcessoperatör, kemisk industri (8192)",
+    "taxonomy/id": "Vfum_e6B_7Bw",
+    "taxonomy/ssyk-code-2012": "8132",
+    "taxonomy/preferred-label": "Maskinoperatörer, kemisktekniska och fotografiska produkter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Förbereder distribution samt distribuerar post t.ex. brev, tidskrifter och direktreklam. Maskinsorterar post.\r\n \r\nHit hör inte\r\nReklamdistributör/Reklamutdelare (9621)\r\nTidningsbud (9621)\r\n",
+    "taxonomy/id": "gaBh_1vR_tNE",
+    "taxonomy/ssyk-code-2012": "4420",
+    "taxonomy/preferred-label": "Brevbärare och postterminalarbetare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Serverar drycker på restauranger, hotell, nattklubbar, diskotek eller pubar. Lämnar ut drycker till serveringspersonal efter gästers beställningar. Tillreder och serverar kaffebaserade drycker på kaféer och konditorier.",
+    "taxonomy/id": "XFXX_Jq9_Y2a",
+    "taxonomy/ssyk-code-2012": "5132",
+    "taxonomy/preferred-label": "Bartendrar"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tillverkar tandställning, tandprotes och annan tandersättning. Analyserar behov och önskemål samt utformar och tillverkar ortoped- och hörseltekniska hjälpmedel m.m.",
+    "taxonomy/id": "39yB_xPQ_ozd",
+    "taxonomy/ssyk-code-2012": "3214",
+    "taxonomy/preferred-label": "Tandtekniker och ortopedingenjörer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Övervakar person- och godstrafik vid rikets gränser och kontrollerar att tullbestämmelser efterlevs. Bevakar att tull, mervärdesskatt och andra avgifter betalas vid import. Övervakar sjötrafik samt säkerheten och miljöskyddet till sjöss. Kontrollerar att fiskeregler följs.",
+    "taxonomy/id": "FKCE_Anf_zGH",
+    "taxonomy/ssyk-code-2012": "3351",
+    "taxonomy/preferred-label": "Tull- och kustbevakningstjänstemän"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför tekniskt arbete i samband med konstruktion, tillverkning, montering, drift, underhåll och reparation av elektroteknisk utrustning och system. Utför konstruktions-, ritnings- och beräkningsarbete. Organiserar, leder och samordnar det praktiska arbetet vid tillverkning av elektrotekniska produkter. Provar och kontrollerar elektrotekniska produkter och anläggningar.\r\n\r\nHit hör inte\r\nCivilingenjörsyrken inom elektroteknik (2143)",
+    "taxonomy/id": "nDaB_vdy_eAy",
+    "taxonomy/ssyk-code-2012": "3113",
+    "taxonomy/preferred-label": "Ingenjörer och tekniker inom elektroteknik"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Uppför byggnadsstommar. Klär väggar med fasadtegel. Murar skorstenar, öppna spisar och kakelugnar. Putsar väggar, tak och fasader samt sätter plattor på väggar och golv. Tillverkar och monterar inredningsdetaljer av gips och gör fasadutsmyckningar.\r\n\r\nHit hör inte\r\nStensättare (7114)\r\n",
+    "taxonomy/id": "NnB3_eWH_auo",
+    "taxonomy/ssyk-code-2012": "7112",
+    "taxonomy/preferred-label": "Murare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Gör beställningar samt kontrollerar varor och fakturor. Granskar offerter och skriver ut inköpsorder. Sköter leverantörsregister och lagerlistor. Begär in offerter, pris och leverantörsuppgifter.",
+    "taxonomy/id": "iWcY_mko_rq2",
+    "taxonomy/ssyk-code-2012": "4115",
+    "taxonomy/preferred-label": "Inköps- och orderassistenter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utformar, projekterar och ritar nyproduktion av byggnader samt om- och tillbyggnad. Utformar planer och underlag till planer. Väger samman funktionella, tekniska, ekonomiska, miljötekniska och estetiska krav och önskemål till en fungerande helhetslösning i dialog med uppdragsgivare. Utformar den inre miljön t.ex. privata hem, offentliga lokaler och kontor. Gör materialsammanställningar. Utarbetar förslag i form av modeller, texter och ritningar. \r\n\r\nHit hör inte\r\nInredare (3432)\r\nDekoratör (3432)",
+    "taxonomy/id": "41KB_bfk_5jR",
+    "taxonomy/ssyk-code-2012": "2161",
+    "taxonomy/preferred-label": "Arkitekter m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Sammanställer, rapporterar, utvärderar och redovisar företags eller myndigheters ekonomiska resultat. Sammanställer budgetunderlag. Bistår revisor med att granska företags och myndigheters redovisning och förvaltning.",
+    "taxonomy/id": "q81z_3oD_1qu",
+    "taxonomy/ssyk-code-2012": "3313",
+    "taxonomy/preferred-label": "Redovisningsekonomer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat hushållsnära arbete än inom 9111. Exempel på arbetsuppgifter: Handlar, lagar mat, städar och passar barn m.m.",
+    "taxonomy/id": "o1gn_FoS_fB7",
+    "taxonomy/ssyk-code-2012": "9119",
+    "taxonomy/preferred-label": "Övrig hemservicepersonal m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför övrigt arbete inom finmekanik och konsthantverk än inom 7311-7312. Exempel på arbetsuppgifter: Tillverkar, reparerar och stämmer musikinstrument. Tillverkar bruks- eller prydnadsföremål av glas, keramik, trä, halm, garn, läder, sten, horn m.m. på hantverksmässigt sätt. Slöjdar, täljer, stickar, broderar, väver, knypplar etc.",
+    "taxonomy/id": "aKdV_u7V_R5j",
+    "taxonomy/ssyk-code-2012": "7319",
+    "taxonomy/preferred-label": "Musikinstrumentmakare och övriga konsthantverkare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar maskiner för behandling av mjölk samt för tillverkning av ost, smör och andra mejeriprodukter.",
+    "taxonomy/id": "yJk6_azD_ywF",
+    "taxonomy/ssyk-code-2012": "8162",
+    "taxonomy/preferred-label": "Maskinoperatörer, mejeri"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Vårdar och behandlar sjuka och skadade barn och ungdomar inom akutsjukvård, barnmedicin, barnkirurgi, spädbarnsvård eller på barnavårdscentral. Ger råd och stöd till föräldrar samt genomför hälsokontroller.",
+    "taxonomy/id": "NFUg_y9y_1TY",
+    "taxonomy/ssyk-code-2012": "2232",
+    "taxonomy/preferred-label": "Barnsjuksköterskor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Distribuerar tidningar och reklamblad till hushåll och inrättningar. \r\n\r\nHit hör inte\r\nBrevbärare (4420)",
+    "taxonomy/id": "qhbP_JEJ_HtK",
+    "taxonomy/ssyk-code-2012": "9621",
+    "taxonomy/preferred-label": "Reklamutdelare och tidningsdistributörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar maskiner som tappar på flaskor, försluter, emballerar, packar, väger samt märker och fäster fraktsedlar m.m. på produkter, förpackningar och behållare.\n \nHit hör inte\nHandpaketerare (9320)\nVarumärkare (9320)",
+    "taxonomy/id": "aU9p_ekE_Fqf",
+    "taxonomy/ssyk-code-2012": "8181",
+    "taxonomy/preferred-label": "Maskinoperatörer, påfyllning, packning och märkning"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Hjälper, stödjer och stimulerar elever i grund- och gymnasieskola med behov av särskilt stöd i skolarbetet, enskilt och i gruppsammanhang. Bistår lärare i undervisningen.\r\n\r\nHit hör inte\r\nBarnskötare (5311)",
+    "taxonomy/id": "XW9L_tA9_WaX",
+    "taxonomy/ssyk-code-2012": "5312",
+    "taxonomy/preferred-label": "Elevassistenter m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Manövrerar och styr kranar och lyftanordningar. Sköter och övervakar linbanor och skidliftar m.m.",
+    "taxonomy/id": "XYzP_5Tn_7Ep",
+    "taxonomy/ssyk-code-2012": "8343",
+    "taxonomy/preferred-label": "Kranförare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Städar och rengör lokaler som t.ex. affärer, bostäder, hotell, industrier, kontor, restauranger och skolor. Städar fordon som t.ex. bussar, tunnelbane- och järnvägsvagnar samt fartyg och flygplan.\r\n\r\nHit hör inte\r\nFönsterputsare (9120)",
+    "taxonomy/id": "Z6TY_xDf_Yup",
+    "taxonomy/ssyk-code-2012": "9111",
+    "taxonomy/preferred-label": "Städare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Lägger ner och sammanfogar rör av betong, metall eller plast till vatten- och avloppsledningar, fjärrvärme och fjärrkyla. Lägger ut asfalt eller betong på vägbanor m.m. Lägger ut räls, utför spårjustering och monterar växlar. Sätter kantsten och gatsten eller lägger sten- och betongplattor på gång- och körbanor. Monterar lekredskap, trappor och stödmurar samt räcken, skyltar och andra vägmarkeringar.",
+    "taxonomy/id": "bZ4J_riZ_zK6",
+    "taxonomy/ssyk-code-2012": "7114",
+    "taxonomy/preferred-label": "Anläggningsarbetare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar teorier, modeller och metoder som behandlar cellens beståndsdelar och struktur. Samlar in och analyserar cellprover för att studera hur molekyler och system i cellen interagerar, hur olika substanser påverkar cellers utveckling och hur processerna regleras. Studerar funktionerna hos olika delar av arvsmassa. Utvecklar och kvalitetssäkrar mikro- och molekylärbiologiska analysmetoder.\r\n\r\nHit hör inte \r\nFarmakolog (2133)\r\nBiomedicinare (2133)\r\n",
+    "taxonomy/id": "Z2MZ_eYc_Lfv",
+    "taxonomy/ssyk-code-2012": "2131",
+    "taxonomy/preferred-label": "Cell- och molekylärbiologer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Vårdar patienter med svåra sjukdomstillstånd på intensivvårdsavdelning och postoperativa avdelningar.\r\n",
+    "taxonomy/id": "dyWo_sDb_MLQ",
+    "taxonomy/ssyk-code-2012": "2228",
+    "taxonomy/preferred-label": "Intensivvårdssjuksköterskor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bevakar, förbereder, samordnar och följer upp ärenden och beslut som stöd till chefer, ledningsgrupp och koncernledning m.fl.. Förbereder rapporter. Medverkar vid utredningsarbete. Förbereder och arrangerar styrelsemöten, konferenser och liknande. Upprättar protokoll, gör sammanfattningar och översättningar.",
+    "taxonomy/id": "vCAb_uuo_ek5",
+    "taxonomy/ssyk-code-2012": "3343",
+    "taxonomy/preferred-label": "Chefssekreterare och VD-assistenter m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat maskinoperatörsarbete inom textil-, skinn och läderindustri än inom 8151. Exempel på arbetsuppgifter: Hanterar maskiner för att dela hudar samt färgar och mjukar upp skinn. Ytbehandlar och polerar skinn och läder. Styr och övervakar maskiner som tillverkar skor, väskor och andra produkter i läder, skinn, garn, textil eller syntetmaterial. Styr och övervakar maskiner som tillverkar trossar, nät och snören av natur- eller syntetmaterial. Sköter maskiner som spinner, tvinnar, nystar och spolar garn och tråd. \n\nHit hör inte\nAteljésömmerska (7531)\nPälssömmerska (7531)\nSadelmakare (7534)\nSkomakare/Skoreparatör (7534)",
+    "taxonomy/id": "skLS_kpa_Ui1",
+    "taxonomy/ssyk-code-2012": "8159",
+    "taxonomy/preferred-label": "Övriga maskinoperatörer, textil-, skinn- och läderindustri"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Säljer livsmedel, drycker och andra dagligvaror i affärer, livsmedelshallar, stormarknader och andra försäljningsställen. Beställer, packar upp, prismärker samt fyller på varor.\r\n\r\nHit hör inte\r\nKassapersonal (5230)\r\nKioskbiträde (5230) \r\nTorgförsäljare/Marknadsförsäljare (9520)\r\n",
+    "taxonomy/id": "s1Qk_o98_2o1",
+    "taxonomy/ssyk-code-2012": "5222",
+    "taxonomy/preferred-label": "Butikssäljare, dagligvaror"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat bilförararbete än inom 8321. Exempel på arbetsuppgifter: Kör personbil, motorcykel, cykel eller minibuss för att transportera varor. \r\n\r\nHit hör inte\r\nFlyttkarl/Stadsbud (9332)",
+    "taxonomy/id": "P7Ay_ooF_pri",
+    "taxonomy/ssyk-code-2012": "8329",
+    "taxonomy/preferred-label": "Övriga bil-, motorcykel- och cykelförare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Undersöker, diagnostiserar och behandlar i syfte att återställa normal funktion i leder, muskler och nervsystem. Behandlar ryggbesvär, muskelbesvär, huvudvärk, nackspärr, ischias, idrottsskador och arbetsrelaterade besvär m.m. Återställer funktionen och lindrar smärta genom manuella tekniker som manipulation, stretching och massage.",
+    "taxonomy/id": "aWki_4uA_adn",
+    "taxonomy/ssyk-code-2012": "2271",
+    "taxonomy/preferred-label": "Kiropraktorer och naprapater m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utreder, granskar och bedömer företags, organisationers och myndigheters redovisning och förvaltning. Ger råd i boksluts-, redovisnings-, skatte-, finansierings- och försäkringsfrågor. Leder företags eller grupp av företags ekonomistyrning. Ansvarar för uppläggning och uppföljning av budget samt analyserar resultat. Bedömer om ledningens intentioner följs och om företagets resurser utnyttjas effektivt. Granskar och utvärderar företagets rutiner och interna kontroll. \r\n\r\nHit hör inte\r\nRedovisningskonsult (3313)",
+    "taxonomy/id": "cRmd_536_pT1",
+    "taxonomy/ssyk-code-2012": "2411",
+    "taxonomy/preferred-label": "Revisorer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Sköter den dagliga omvårdnaden av barn på sjukhusens barnavdelningar. Tar prover, kontrollerar kroppstemperatur och puls m.m.\r\n\r\nHit hör inte\r\nBarnskötare (5311)\r\n",
+    "taxonomy/id": "kHgb_AHf_vrY",
+    "taxonomy/ssyk-code-2012": "5325",
+    "taxonomy/preferred-label": "Barnsköterskor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför andra servicetjänster. \r\n\r\nHit hör inte\r\nHemservicepersonal (9119)",
+    "taxonomy/id": "DSGC_nw7_WnH",
+    "taxonomy/ssyk-code-2012": "5169",
+    "taxonomy/preferred-label": "Övrig servicepersonal"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tar betalt för kunders inköp i affärer, stormarknader och andra försäljningsställen. Säljer biljetter till teatrar, bio, konserter, museer, utställningar m.m. Säljer och växlar valuta.",
+    "taxonomy/id": "WNVp_RYe_zLX",
+    "taxonomy/ssyk-code-2012": "5230",
+    "taxonomy/preferred-label": "Kassapersonal m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Analyserar, följer upp och bevakar företags, organisationers och myndigheters resultat, lönsamhet, verksamhetsplan och hållbarhetsstrategier. Formulerar mål, gör prognoser och anger riktlinjer för ekonomiarbetet. Utvecklar planerings- och uppföljningssystem.",
+    "taxonomy/id": "Uw4n_UB2_RCW",
+    "taxonomy/ssyk-code-2012": "2412",
+    "taxonomy/preferred-label": "Controller"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Lastar och lossar gods samt dirigerar trafik i hamnar.\r\n \r\nHit hör inte\r\nDepåman/Depåtekniker (4322)\r\nTerminalarbetare (4322)\r\nTruckförare (8344)",
+    "taxonomy/id": "SZ7Q_2zF_nFy",
+    "taxonomy/ssyk-code-2012": "9331",
+    "taxonomy/preferred-label": "Hamnarbetare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Deltar i planering och genomförande av militära operationer, nationellt och internationellt. Utbildar samt är specialist inom sitt tjänsteområde inom teknisk tjänst, sjöstrid, luftstrid, markstrid, ledning eller logistik. Leder lägre militära förband.",
+    "taxonomy/id": "dhgR_9jk_95r",
+    "taxonomy/ssyk-code-2012": "0210",
+    "taxonomy/preferred-label": "Specialistofficerare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Leder olika kasinospel. Säljer spelbrickor och ropar ut nummer under bingospelets gång. Beräknar matematiska sannolikheter och tar fram statistik för oddssättning.",
+    "taxonomy/id": "YHwG_fk2_MDL",
+    "taxonomy/ssyk-code-2012": "4211",
+    "taxonomy/preferred-label": "Croupierer och oddssättare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Förvaltar fastigheter, svarar för uthyrning och besiktning samt skriver underhållsplaner. Förhandlar om hyror samt ansvarar för ekonomiska kalkyler och upprättar kontrakt. Tar in och granskar offerter.\r\n\r\nHit hör inte\r\nFastighetsingenjör (3112)",
+    "taxonomy/id": "U8HK_Jdi_GuC",
+    "taxonomy/ssyk-code-2012": "3335",
+    "taxonomy/preferred-label": "Fastighetsförvaltare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ställer in hel- och halvautomatiska träbearbetningsmaskiner samt utför bearbetning.",
+    "taxonomy/id": "VKKg_e4t_t46",
+    "taxonomy/ssyk-code-2012": "7523",
+    "taxonomy/preferred-label": "Maskinsnickare och maskinoperatörer, träindustri"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bedriver växtodling kombinerat med avel och uppfödning av lantbrukets husdjur eller sällskapsdjur. Odlar och skördar jordbruksväxter samt sköter djur för att använda som lantbrukets husdjur för produktion av mjölk, kött, ägg, pälsskinn m.m. eller som sällskapsdjur.",
+    "taxonomy/id": "RYCQ_ogb_uUY",
+    "taxonomy/ssyk-code-2012": "6130",
+    "taxonomy/preferred-label": "Växtodlare och djuruppfödare, blandad drift"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utreder företags och organisationers verksamhet. Föreslår och planerar åtgärder för att utveckla och rationalisera verksamheten.",
+    "taxonomy/id": "Qo7p_wjf_gtv",
+    "taxonomy/ssyk-code-2012": "2421",
+    "taxonomy/preferred-label": "Lednings- och organisationsutvecklare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för verksamhet inom grund- och gymnasieskola samt vuxenutbildning och motsvarande skolform. Planerar och ansvarar för utbildningsverksamhet utifrån styrdokument fastställd av regering, riksdag och skolmyndigheter. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.",
+    "taxonomy/id": "z8di_AqX_GBr",
+    "taxonomy/ssyk-code-2012": "1410",
+    "taxonomy/preferred-label": "Chefer inom grund- och gymnasieskola samt vuxenutbildning"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar metoder och produkter inom kemi, kemiteknik, livsmedelsteknik m.m. Svarar för produktionsprocess och teknisk utveckling vid tillverkning av petroleumprodukter, kemikalier, kemiska och kemitekniska produkter, läkemedel, syntetiska material eller livsmedel. Ansvarar för kvalitets-, frisläpps- och slutkontroll av kemitekniska produkter.\r\n \r\nHit hör inte\r\n- Yrken inom kemi och kemiteknik med arbetsuppgifter motsvarande ingenjör- eller teknikernivå (3115)",
+    "taxonomy/id": "qn2U_dB9_Cmh",
+    "taxonomy/ssyk-code-2012": "2145",
+    "taxonomy/preferred-label": "Civilingenjörsyrken inom kemi och kemiteknik"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Förmedlar köp, försäljning eller uthyrning av hus, bostadsrätter, industribyggnader m.m. Marknadsför och visar objekt.",
+    "taxonomy/id": "Fghp_zje_WA8",
+    "taxonomy/ssyk-code-2012": "3334",
+    "taxonomy/preferred-label": "Fastighetsmäklare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Klyver sten till hällar eller block. Hugger, sågar, slipar och putsar sten samt graverar inskriptioner m.m. i sten.",
+    "taxonomy/id": "vCBT_Pnd_8UB",
+    "taxonomy/ssyk-code-2012": "8116",
+    "taxonomy/preferred-label": "Stenhuggare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Applicerar i maskinell process färg och lack på trä eller träbaserat skivmaterial.",
+    "taxonomy/id": "AUs8_M5f_dLt",
+    "taxonomy/ssyk-code-2012": "8174",
+    "taxonomy/preferred-label": "Maskinoperatörer inom ytbehandling, trä"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Medverkar i militära operationer och övningar nationellt och internationellt med främst väpnad strid som huvuduppgift.",
+    "taxonomy/id": "jXUQ_rUV_iBv",
+    "taxonomy/ssyk-code-2012": "0310",
+    "taxonomy/preferred-label": "Soldater m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ger individuell vård och omsorg till äldre i eget eller särskilt boende.\r\n",
+    "taxonomy/id": "tAJS_JNb_hDH",
+    "taxonomy/ssyk-code-2012": "5330",
+    "taxonomy/preferred-label": "Vårdbiträden"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför karttekniskt arbete. Utför utredningar och beräkningar samt sammanställer och analyserar mätdata. Framställer kartor av olika slag.\r\n",
+    "taxonomy/id": "ketV_G9W_GeR",
+    "taxonomy/ssyk-code-2012": "3117",
+    "taxonomy/preferred-label": "GIS- och kartingenjörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Leder, planerar och samordnar det dagliga städarbetet samt följer upp och utvecklar instruktioner och rutiner. Ansvarar för städmaterial, gästartiklar, linne och annat material.",
+    "taxonomy/id": "FtyZ_Joo_tB8",
+    "taxonomy/ssyk-code-2012": "5151",
+    "taxonomy/preferred-label": "Städledare och husfruar"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Inspekterar och besiktigar byggnader, anläggningar m.m. Inspekterar brandskyddssystem. Informerar och ger råd vid ny- och ombyggnationer. Gör olycksutredningar och arbetar i operativ räddningstjänst i samband med räddningsinsatser.\r\n\r\nHit hör inte\r\nBrandbefäl/Räddningsledare/Insatsledare (5411)\r\n",
+    "taxonomy/id": "wCx8_rY3_XUT",
+    "taxonomy/ssyk-code-2012": "3355",
+    "taxonomy/preferred-label": "Brandingenjörer och byggnadsinspektörer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför rekonditioneringsarbete och fordonsvård. Rengör fönster, skyltfönster och glasväggar. Utför övrigt rengöringsarbete.",
+    "taxonomy/id": "FjdF_H2e_tAG",
+    "taxonomy/ssyk-code-2012": "9120",
+    "taxonomy/preferred-label": "Bilrekonditionerare, fönsterputsare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ansvarar för teknik och leder arbete vid sändning av TV-program från studio eller inspelningsbuss. Planerar och hanterar utrustning för redigering och mixning av ljud- och bildinspelningar. Gör mixbearbetning av inspelningar samt överför ljud till och från olika media.",
+    "taxonomy/id": "CkRH_4Qn_iX3",
+    "taxonomy/ssyk-code-2012": "3521",
+    "taxonomy/preferred-label": "Bild- och sändningstekniker"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Driver skogsbruk. Vårdar och avverkar skog.",
+    "taxonomy/id": "qouP_wtb_93q",
+    "taxonomy/ssyk-code-2012": "6210",
+    "taxonomy/preferred-label": "Skogsarbetare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Skapar och utformar konstnärlig dans. Tränar in och uppträder i dansuppsättningar.",
+    "taxonomy/id": "gmRr_7tt_eHj",
+    "taxonomy/ssyk-code-2012": "2653",
+    "taxonomy/preferred-label": "Koreografer och dansare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Underhåller och reparerar flygmotorer, flygplan och helikoptrar. Funktionsprovar instrument, manöversystem och motorer.\r\n\r\nHit hör inte\r\nFlyginstrumentmekaniker (7311)\r\nFlygtekniker (3155)",
+    "taxonomy/id": "iGTu_bYL_2T7",
+    "taxonomy/ssyk-code-2012": "7232",
+    "taxonomy/preferred-label": "Flygmekaniker m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bakar matbröd och kaffebröd i ett bageri, konditori eller livsmedelsbutik. Tillverkar tårtor, bakelser och kakor samt desserter, handgjord choklad och konfekt.\r\n\r\nHit hör inte\r\nMaskinoperatör, bageri (8163)",
+    "taxonomy/id": "5qT8_z9d_8rw",
+    "taxonomy/ssyk-code-2012": "7612",
+    "taxonomy/preferred-label": "Bagare och konditorer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar teorier, modeller och metoder som rör materia, rum, tid, energi, krafter och fält samt samverkan mellan dessa fenomen. Utformar praktiska tillämpningar inom fysik, astronomi, och radiofysik. Studerar fenomen, leder experiment, analyserar och värderar data. Utför beräkningar, informerar, inspekterar, samt utfärdar anvisningar och tillstånd.",
+    "taxonomy/id": "KM7d_Z6Y_LCJ",
+    "taxonomy/ssyk-code-2012": "2111",
+    "taxonomy/preferred-label": "Fysiker och astronomer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Växlar och iordningställer tåg på bangårdar samt säkerhetssynar och provbromsar dem. Sköter vagnupptagningen, rangeringen, vagnexpediering och godshantering. Utför enklare underhåll av fordon.",
+    "taxonomy/id": "nk6Z_5oD_QoM",
+    "taxonomy/ssyk-code-2012": "8312",
+    "taxonomy/preferred-label": "Bangårdspersonal"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Slipar verktyg samt hyvlar och polerar metallytor med hjälp av handverktyg och maskiner.",
+    "taxonomy/id": "4bxV_58E_P9N",
+    "taxonomy/ssyk-code-2012": "7224",
+    "taxonomy/preferred-label": "Slipare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Sköter daglig drift av informations- och kommunikationssystem, kringutrustning, maskinvara, programvara och annan datorutrustning för att identifiera och förebygga fel och driftstörningar.",
+    "taxonomy/id": "13md_uyV_BNG",
+    "taxonomy/ssyk-code-2012": "3511",
+    "taxonomy/preferred-label": "Drifttekniker, IT"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Lämnar upplysningar om resor, resmål, logi och evenemang. Förmedlar och säljer resor. Gör upp resplaner och bokar biljetter, hotellrum m.m. Svarar för passagerarservice på flygplatser samt på färje- och bussterminaler. Informerar om avgångstider, biljettpriser, linjesträckningar, restider m.m. Kontrollerar färdbevis och registrerar bagage.\r\n\r\nHit hör inte\r\nFlygplatskontrollant (5413)\r\n",
+    "taxonomy/id": "fdLf_oPp_wVw",
+    "taxonomy/ssyk-code-2012": "4221",
+    "taxonomy/preferred-label": "Resesäljare och trafikassistenter m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tillverkar, installerar, justerar och reparerar tekniska och vetenskapliga precisionsinstrument. Tillverkar och reparerar lås och vapen. Justerar och reparerar hjälpmedel och utrustning för personer med funktionsnedsättning. Monterar och utför service på lås och inpasseringssystem samt dyrkar upp lås och tillverkar nycklar. Reparerar, rengör, justerar och säljer ur.",
+    "taxonomy/id": "e6nk_AGp_y28",
+    "taxonomy/ssyk-code-2012": "7311",
+    "taxonomy/preferred-label": "Finmekaniker"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Planerar och gör research för och skriver exempelvis böcker, manus och pjäser för publicering eller presentation. Korrekturläser och redigerar texter.",
+    "taxonomy/id": "zfve_s6G_tpc",
+    "taxonomy/ssyk-code-2012": "2641",
+    "taxonomy/preferred-label": "Författare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Gör en tidsbegränsad allmäntjänstgöring bestående av utbildning samt läkararbete under handledning. Undersöker patienter, ställer diagnoser och gör behandlingsplaner.\r\n",
+    "taxonomy/id": "ek9W_qqp_XpF",
+    "taxonomy/ssyk-code-2012": "2213",
+    "taxonomy/preferred-label": "AT-läkare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Informerar och ger råd till studerande om studieval, yrken och yrkesval. Organiserar elevernas arbetsplatspraktik.",
+    "taxonomy/id": "jJF3_qaQ_Zsh",
+    "taxonomy/ssyk-code-2012": "2352",
+    "taxonomy/preferred-label": "Studie- och yrkesvägledare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Överlämnar delgivningshandlingar. Inkasserar utestående fordringar samt undersöker tillgångar. Gör upp avbetalningsplaner och medverkar i förlikningar. Upprättar ansökningshandlingar till Kronofogden samt ansöker om verkställighet såsom utmätningar och avhysningar. Lånar ut pengar mot pant. Värderar panter eller annan säkerhet. Informerar om lånevillkor och beräknar ränta.",
+    "taxonomy/id": "JAFv_ZaP_tDG",
+    "taxonomy/ssyk-code-2012": "4212",
+    "taxonomy/preferred-label": "Inkasserare och pantlånare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Analyserar, designar och utvecklar IT-system eller delar av system. Utformar och utvecklar lösningar för programvara, applikationer, system och databaser.",
+    "taxonomy/id": "DJh5_yyF_hEM",
+    "taxonomy/ssyk-code-2012": "2512",
+    "taxonomy/preferred-label": "Mjukvaru- och systemutvecklare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Leder och planerar arbetet i frikyrkoförsamling. Leder gudstjänst och håller möten. Förrättar dop, vigslar och begravningar. Uttolkar bibliska skrifter och undervisar i trosfrågor. Utövar själavård.",
+    "taxonomy/id": "x5rn_vga_gRK",
+    "taxonomy/ssyk-code-2012": "3412",
+    "taxonomy/preferred-label": "Pastorer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bygger och uppför träkonstruktioner inom husbyggnad, anläggning eller gruva. Bygger formar inför betonggjutning. \r\n\r\nHit hör inte\r\nInredningsskickare (7522)\r\nMaskinsnickare (7523)\r\nStällningsbyggare (7116)\r\n",
+    "taxonomy/id": "9mJN_VwW_Xjg",
+    "taxonomy/ssyk-code-2012": "7111",
+    "taxonomy/preferred-label": "Träarbetare, snickare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Kör tung lastbil och transporterar och hanterar gods. Beräknar godsets vikt och volym och medverkar i lastning och lossning. Transporterar och bärgar fordon. Kör bokbuss.",
+    "taxonomy/id": "3MBw_pDA_P2F",
+    "taxonomy/ssyk-code-2012": "8332",
+    "taxonomy/preferred-label": "Lastbilsförare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Förebygger, förbättrar och kompenserar nedsatt aktivitetsförmåga. Tränar fysiska och psykiska förmågor samt förändrar arbetsmetoder. Föreskriver och anpassar hjälpmedel, t.ex. IT-baserade hjälpprogram, specialdesignade redskap m.m. Medverkar i frågor om tillgänglighet i den fysiska miljön, t.ex. anpassning av bostad, arbetsplats och skola.",
+    "taxonomy/id": "TPH4_2AM_isT",
+    "taxonomy/ssyk-code-2012": "2273",
+    "taxonomy/preferred-label": "Arbetsterapeuter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Hanterar personal- och elevregister, diarieföring, arkivering, statistik, posthantering och frånvarohantering vid förskolor eller skolor. Beställer läromedel och förbrukningsmaterial. Assisterar förskolechef eller rektor.",
+    "taxonomy/id": "ZQTR_hVC_QhJ",
+    "taxonomy/ssyk-code-2012": "4116",
+    "taxonomy/preferred-label": "Skolassistenter m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Har vårdansvar vid förlossningar. Vårdar nyblivna mammor och barn på sjukhusens förlossnings- och BB-avdelningar samt mödravårdscentraler. Gör hälsoundersökningar samt svarar för föräldrautbildning. Informerar om sex och samlevnad samt skriver ut preventivmedel.",
+    "taxonomy/id": "7XXd_4St_nit",
+    "taxonomy/ssyk-code-2012": "2222",
+    "taxonomy/preferred-label": "Barnmorskor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat specialistarbete än inom 2141-2146. Exempel på arbetsuppgifter: Utvecklar metoder och produkter samt ansvarar för produktion och teknisk utveckling vid tillverkning av metall-, glas-, keramik, pappers-, läder, textil- och träprodukter. Ansvarar för kvalitets- och produktkontroller.",
+    "taxonomy/id": "mp2Y_vyC_RFV",
+    "taxonomy/ssyk-code-2012": "2149",
+    "taxonomy/preferred-label": "Övriga civilingenjörsyrken"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar exempelvis pumpar och kompressorer på anläggningar för raffinering och annan behandling av petroleum eller petroleumbaserade produkter. Sköter anläggningar för behandling av kemikalier genom krossning, upphettning, blandning, destillering, filtrering m.m.",
+    "taxonomy/id": "QEBd_qHu_vGr",
+    "taxonomy/ssyk-code-2012": "8192",
+    "taxonomy/preferred-label": "Processövervakare, kemisk industri"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för verksamhet inom socialt och kurativt arbete. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.\r\n",
+    "taxonomy/id": "NxXz_fBh_w7j",
+    "taxonomy/ssyk-code-2012": "1520",
+    "taxonomy/preferred-label": "Chefer inom socialt och kurativt arbete"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utreder, analyserar, designar och utvecklar produkter för tillverkning. Fastställer mål och restriktioner för designuppdraget i samråd med kunder och intressenter. Samordnar tekniska, ekonomiska och estetiska förutsättningar. Förbereder design och specifikationer för tillverkning.",
+    "taxonomy/id": "DqLe_pH6_jyj",
+    "taxonomy/ssyk-code-2012": "2171",
+    "taxonomy/preferred-label": "Industridesigner"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ansvarar och planerar för drift och löpande verksamhet i butik. Leder, fördelar, kontrollerar och följer upp arbetet i butiken. Anställer och introducerar medarbetare. Deltar i den dagliga säljverksamheten. Driver kaféverksamhet.\n\nHit hör inte\nAdministrativ butikschef (1730)\nRegionchef, butik (1730)",
+    "taxonomy/id": "Fp7x_Yqt_bx9",
+    "taxonomy/ssyk-code-2012": "5221",
+    "taxonomy/preferred-label": "Säljande butikschefer och avdelningschefer i butik"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Sköter och övervakar driften av anläggningar för framställning av betong eller asfalt. Sköter maskiner som genom klyvning, pressning, formning etc. framställer sten-, cement- och betongvaror samt asfalt, asbest, grafit m.m. Gör gjutformar, armerar, gjuter och efterbehandlar betongvaror.",
+    "taxonomy/id": "o31g_CX1_qhQ",
+    "taxonomy/ssyk-code-2012": "8114",
+    "taxonomy/preferred-label": "Maskinoperatörer, cement-, sten- och betongvaror"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Installerar, reparerar och utför service på industrimaskiner och mekanisk utrustning. Underhåller och reparerar fartygsmotorer och andra motorer (utom motorfordons- och flygmotorer) samt rälsfordon.\r\n\r\nHit hör inte\r\nFordonsmontör (8211)\r\nMotorbyggare (8211)\r\nMotormontör (8211)",
+    "taxonomy/id": "KttZ_Skc_bMR",
+    "taxonomy/ssyk-code-2012": "7233",
+    "taxonomy/preferred-label": "Underhållsmekaniker och maskinreparatörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Underbehandlar och målar byggnader in- och utvändigt. Spänner väv och tapetserar. Underbehandlar och målar anläggningar och konstruktioner av olika slag.",
+    "taxonomy/id": "QKvX_v7r_PNL",
+    "taxonomy/ssyk-code-2012": "7131",
+    "taxonomy/preferred-label": "Målare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier inom tillverkningsindustri. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Förhandlar med leverantörer, kunder och andra företag. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.\r\n\r\nHit hör inte\r\nArbetsledare inom tillverkning (3122)",
+    "taxonomy/id": "pf1K_PTz_frm",
+    "taxonomy/ssyk-code-2012": "1370",
+    "taxonomy/preferred-label": "Produktionschefer inom tillverkning"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för verksamhet inom handel. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar. \r\n\r\nHit hör inte\r\nSäljande butikschef (5222)\r\nAvdelningschef, butik (5222)\r\n",
+    "taxonomy/id": "Fu4x_7KG_YgC",
+    "taxonomy/ssyk-code-2012": "1730",
+    "taxonomy/preferred-label": "Chefer inom handel"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för verksamhet inom arkitekt- och ingenjörsföretag. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål för försäljning och utförandekvalitet. Beslutar om marknadsföring och förhandlar med större kunder. Deltar i förhandlingar med leverantörer. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.\r\n",
+    "taxonomy/id": "8SPu_K1k_5qR",
+    "taxonomy/ssyk-code-2012": "1340",
+    "taxonomy/preferred-label": "Chefer inom arkitekt- och ingenjörsverksamhet"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Svarar för öppen hälso- och sjukvård inom ett geografiskt område. Ger råd och behandlingar på egen mottagning eller vid hembesök. Gör bedömningar av patienters hälso- och sjukdomstillstånd och vårdbehov.\r\n",
+    "taxonomy/id": "oj4c_P4b_cja",
+    "taxonomy/ssyk-code-2012": "2224",
+    "taxonomy/preferred-label": "Distriktssköterskor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar teorier och metoder, samt bedriver försök och ger råd inom agronomi och trädgårdsvetenskap. Analyserar och värderar data. Utvecklar och utformar praktiska tillämpningar inom jordbruk, livsmedelskedjan och trädgårdsodling.",
+    "taxonomy/id": "XurM_DVs_ggn",
+    "taxonomy/ssyk-code-2012": "2134",
+    "taxonomy/preferred-label": "Specialister och rådgivare inom lantbruk m.m."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Håller utkik samt manövrerar och styr fartyg enligt instruktioner. Sköter däcksutrustning, rengör och målar däck och skrov.\r\n",
+    "taxonomy/id": "CbQK_7th_Tyf",
+    "taxonomy/ssyk-code-2012": "8350",
+    "taxonomy/preferred-label": "Matroser och jungmän m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Har samordnings- och tillsynsansvar för verksamhet i Svenska kyrkan eller i annat trossamfund. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål.\r\n",
+    "taxonomy/id": "x9mo_1VH_Rps",
+    "taxonomy/ssyk-code-2012": "1540",
+    "taxonomy/preferred-label": "Chefer och ledare inom trossamfund"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ger individuell vård och omsorg till äldre i eget eller särskilt boende. Utför hälso- och sjukvårdsuppgifter efter instruktion och delegering t.ex. kvalificerad sårvård och kateterspolning. Ger stöd, assistans, omvårdnad och social service till barn, äldre och personer med funktionsnedsättning i deras vardagsliv. Ger stimulans och stöd till individen i aktiviteter och kontakter med omvärlden.\n\nHit hör inte\nHabiliteringsassistent (5330)\nHemvårdsassistent (3411)",
+    "taxonomy/id": "jY19_knH_MJp",
+    "taxonomy/ssyk-code-2012": "5321",
+    "taxonomy/preferred-label": "Undersköterskor, hemtjänst, hemsjukvård, äldreboende och habilitering"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar, planerar och samordnar reklamkampanjer och marknadsföringsstrategier. Samlar in, bearbetar och analyserar data om marknader. Gör prognoser om framtida marknader och trender samt ger råd om försäljningsstrategier. Bedömer marknaden för nya varor och tjänster. Identifierar och utvecklar marknadsmöjligheter för nya och befintliga varor och tjänster.\r\n",
+    "taxonomy/id": "WX67_Pfb_WMN",
+    "taxonomy/ssyk-code-2012": "2431",
+    "taxonomy/preferred-label": "Marknadsanalytiker och marknadsförare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bevakar och bereder marknads- och försäljningsärenden. Sköter administration för marknads- och försäljningsaktiviteter. Kontrollerar och redigerar texter. Bokar utrymme för annonser och kampanjer samt kontrollerar införande med avseende på tidpunkt, innehåll, plats, storlek och form. Sköter samordning mellan reklambyrå, tryckeri och medieföretag.",
+    "taxonomy/id": "p16X_44f_rwZ",
+    "taxonomy/ssyk-code-2012": "4114",
+    "taxonomy/preferred-label": "Marknads- och försäljningsassistenter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tar emot, kvalitetsbedömer, anpassar och justerar material inför tryckning.",
+    "taxonomy/id": "LeQV_umf_wUS",
+    "taxonomy/ssyk-code-2012": "7321",
+    "taxonomy/preferred-label": "Prepresstekniker"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar konstruktionsmetoder, produkter, tjänster och material inom byggnadsteknik samt väg- och vattenbyggnadsteknik. Leder och planerar projekterings- och konstruktionsarbete samt genomförande av bygg- och anläggningsprojekt. Ansvarar för besiktning och kontroller av byggande, material m.m. Utarbetar riktlinjer och metoder för kvalitetssäkring.\r\n\r\nHit hör inte\r\nYrken inom bygg och anläggning med arbetsuppgifter motsvarande ingenjör- eller teknikernivå (3112)",
+    "taxonomy/id": "XeBP_nMe_pXx",
+    "taxonomy/ssyk-code-2012": "2142",
+    "taxonomy/preferred-label": "Civilingenjörsyrken inom bygg och anläggning"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Sotar rökgasvägar i eldstäder och skorstenar. Rengör imkanaler och köksfläktar. Kontrollerar värmeanläggningar och gör täthetsprövningar och rökgasanalyser.",
+    "taxonomy/id": "SUfj_4D9_FNx",
+    "taxonomy/ssyk-code-2012": "7133",
+    "taxonomy/preferred-label": "Skorstensfejare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar maskiner som bearbetar, blandar och formar kemikalier och andra ämnen för att framställa farmaceutiska produkter och hygienartiklar.",
+    "taxonomy/id": "rxmK_wwM_1NA",
+    "taxonomy/ssyk-code-2012": "8131",
+    "taxonomy/preferred-label": "Maskinoperatörer, farmaceutiska produkter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Monterar i seriemässig tillverkning större och mindre komponenter till maskiner, motorer och fordon genom att t.ex. skruva, svetsa, löda, nita eller limma.\r\n\r\nHit hör inte\r\nMaskinmekaniker/Skogsmaskinmekaniker (7231)\r\nMaskinmekaniker, industri/varvsindustri (7233)\r\nMaskinmontör (7233)\r\n",
+    "taxonomy/id": "shkw_ojo_UL2",
+    "taxonomy/ssyk-code-2012": "8211",
+    "taxonomy/preferred-label": "Fordonsmontörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Undersöker miljön och utvecklar planer och lösningar för att skydda, bevara, återställa, minimera och förebygga skador på miljön. Undersöker, bedömer och rapporterar om byggnads- och konstruktionsprojekts påverkan på miljön. Inspekterar industriella och offentliga anläggningar och program för att utvärdera drifteffektivitet och garantera att miljöföreskrifterna följs.",
+    "taxonomy/id": "rE1E_m3d_cx1",
+    "taxonomy/ssyk-code-2012": "2183",
+    "taxonomy/preferred-label": "Specialister inom miljöskydd och miljöteknik"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Leder, planerar och genomför militära operationer nationellt och internationellt. Leder militära förband.\r\n",
+    "taxonomy/id": "KiVA_anS_RJh",
+    "taxonomy/ssyk-code-2012": "0110",
+    "taxonomy/preferred-label": "Officerare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Planerar, organiserar och leder fritidsverksamhet för barn, ungdomar och äldre på fritidsgårdar, föreningar, organisationer, företag, inom äldreomsorg eller församlingar.",
+    "taxonomy/id": "aA2Z_9XX_R1v",
+    "taxonomy/ssyk-code-2012": "3423",
+    "taxonomy/preferred-label": "Fritidsledare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat pedagogiskt arbete än inom 2320-2352. Exempel på arbetsuppgifter: Undervisar på musikskolor eller inom konst, musik, teater och dans. Planerar, genomför och utvärderar undervisning i svenska för invandrare.",
+    "taxonomy/id": "mcRJ_kq2_jFr",
+    "taxonomy/ssyk-code-2012": "2359",
+    "taxonomy/preferred-label": "Övriga pedagoger med teoretisk specialistkompetens"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bygger, underhåller och reparerar ledningsnät som består av luftledning eller jordkabel. Underhåller och reparerar ställverk och transformatorstationer. Besiktigar ställverk och åtgärdar fel i ledningsnätet.\r\n\r\nHit hör inte:\r\nIndustrielektriker (7412)\r\nInstallationselektriker (7411)\r\n",
+    "taxonomy/id": "MW1P_GNJ_4F9",
+    "taxonomy/ssyk-code-2012": "7413",
+    "taxonomy/replaced-by": [
+      {
+        "taxonomy/id": "MW1P_GNJ_4F9",
+        "taxonomy/definition": "Bygger, underhåller och reparerar ledningsnät som består av luftledning eller jordkabel. Underhåller och reparerar ställverk och transformatorstationer. Besiktigar ställverk och åtgärdar fel i ledningsnätet.\r\n\r\nHit hör inte:\r\nIndustrielektriker (7412)\r\nInstallationselektriker (7411)\r\n",
+        "taxonomy/type": "ssyk-level-4",
+        "taxonomy/preferred-label": "Distributionselektriker",
+        "taxonomy/deprecated": false
+      }
+    ],
+    "taxonomy/preferred-label": "Distributionselektriker",
+    "taxonomy/deprecated": false
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar maskiner som bleker, färgar, tvättar eller på annat sätt behandlar garner, tyger och textilprodukter. Kemtvättar textil, skinn eller läder.",
+    "taxonomy/id": "4DET_dLf_iB9",
+    "taxonomy/ssyk-code-2012": "8151",
+    "taxonomy/preferred-label": "Maskinoperatörer, blekning, färgning och tvättning"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat tekniskt arbete än inom 3111-3117. Exempel på arbetsuppgifter: Samordnar tillverkning av metall-, glas-, keramik-, pappers-, läder-, textil- och träprodukter. Utför konstruktions-, ritnings- och beräkningsarbete. Gör kvalitets- och produktkontroller.\r\n",
+    "taxonomy/id": "mis4_feV_uex",
+    "taxonomy/ssyk-code-2012": "3119",
+    "taxonomy/preferred-label": "Övriga ingenjörer och tekniker"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för informationsprogram och kampanjer samt förhandlar reklamkontrakt. Utformar riktlinjer, följer upp och utvärderar verksamhetens uppsatta mål inom information, reklam, kommunikation och PR. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.\r\n",
+    "taxonomy/id": "mpuA_s56_Hsy",
+    "taxonomy/ssyk-code-2012": "1240",
+    "taxonomy/preferred-label": "Informations-, kommunikations- och PR-chefer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Behandlar och vårdar patienter inom psykiatrisk vård på avdelning, mottagning, behandlingshem m.m.",
+    "taxonomy/id": "bEDv_SL7_VrL",
+    "taxonomy/ssyk-code-2012": "2225",
+    "taxonomy/preferred-label": "Psykiatrisjuksköterskor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför ambulanstransporter. Undersöker och behandlar patienten innan och under transport till sjukhus.",
+    "taxonomy/id": "3H17_ZZr_BEc",
+    "taxonomy/ssyk-code-2012": "5326",
+    "taxonomy/preferred-label": "Ambulanssjukvårdare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ansvarar för strategiska personalfrågor som personalplanering, rekrytering och personalutveckling. Ansvarar för lönepolicy och löneförhandlingar. Svarar för arbetsmiljö- och personalsociala frågor samt tolkning av arbetsrättsliga lagar och avtal. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål.",
+    "taxonomy/id": "mNoS_AN5_drn",
+    "taxonomy/ssyk-code-2012": "1220",
+    "taxonomy/preferred-label": "Personal- och HR-chefer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Kör buss, trådbuss eller spårvagn för att transportera passagerare. Kontrollerar biljetter och färdbevis samt ropar ut hållplatser. Ansvarar för passagerares säkerhet under färden.",
+    "taxonomy/id": "FiDm_2S8_gx7",
+    "taxonomy/ssyk-code-2012": "8331",
+    "taxonomy/preferred-label": "Buss- och spårvagnsförare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ger psykoterapeutisk eller psykoanalytisk behandling genom samtal med individer, familjer eller grupper. Undersöker psykiska problem, kartlägger hinder och möjligheter till lösningar.",
+    "taxonomy/id": "UUQi_UJ5_MSb",
+    "taxonomy/ssyk-code-2012": "2242",
+    "taxonomy/preferred-label": "Psykoterapeuter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Isolerar värme-, ventilations- och sanitetsanläggningar, pannor, cisterner och rörsystem. Skär ut och monterar ytbeklädnad som skydd för isolering. Monterar reglar på tak och husfasader och isolerar med t.ex. mineralull samt sprutar isoleringsmassa i väggar.",
+    "taxonomy/id": "cGxX_R9c_kW1",
+    "taxonomy/ssyk-code-2012": "7123",
+    "taxonomy/preferred-label": "Isoleringsmontörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bedriver avel, uppfödning och skötsel av lantbrukets husdjur för produktion av mjölk, kött, ägg m.m. Skor hästar. Underhåller ekonomibyggnader, maskiner och utrustning.",
+    "taxonomy/id": "KYmy_iqC_xiQ",
+    "taxonomy/ssyk-code-2012": "6121",
+    "taxonomy/preferred-label": "Uppfödare och skötare av lantbrukets husdjur"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar och tillämpar matematiska teorier, modeller och metoder. Utvecklar beräkningsmodeller och löser beräkningsproblem. Utformar och förvaltar premie-, pensions- och andra försäkringssystem m.m.\r\n\r\nHit hör inte\r\nUnderwriter (3321)\r\n",
+    "taxonomy/id": "ZA1N_Z2B_nFQ",
+    "taxonomy/ssyk-code-2012": "2121",
+    "taxonomy/preferred-label": "Matematiker och aktuarier"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar teorier, modeller och metoder som rör levande organismer och deras samspel med varandra och med miljön. Gör artbestämningar och undersöker arters utbredning, levnadsbetingelser och beteenden. Studerar processer och tekniker för agrikulturell och miljöbetingad användning. Utvecklar och kvalitetssäkrar botaniska och zoologiska analysmetoder.\r\n\r\nHit hör inte\r\nEkolog (2183)\r\n",
+    "taxonomy/id": "e9FK_VKh_ahW",
+    "taxonomy/ssyk-code-2012": "2132",
+    "taxonomy/preferred-label": "Växt- och djurbiologer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Installerar, reparerar och utför service på rör och annan utrustning för värme, vatten och sanitet i bostadshus och andra lokaler som sjukhus, affärshus och kontorslokaler. Installerar och reparerar rörsystem inom exempelvis industrin.",
+    "taxonomy/id": "fLKb_bJ3_69p",
+    "taxonomy/ssyk-code-2012": "7125",
+    "taxonomy/preferred-label": "VVS-montörer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Stoppar och klär möbler.",
+    "taxonomy/id": "vhUJ_LyD_XWc",
+    "taxonomy/ssyk-code-2012": "7533",
+    "taxonomy/preferred-label": "Tapetserare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Behandlar patienter och ger information om förebyggande åtgärder om tandhälsa. Undersöker munhåla samt tar saliv- och bakterieprov. Gör tester, kostutredningar, tar röntgenbilder och utför tandlossningsbehandlingar. Assisterar vid tandreglering. Ger smärtlindring, tar bort tandsten och andra beläggningar på tänderna.",
+    "taxonomy/id": "4F9o_Jzv_Pwz",
+    "taxonomy/ssyk-code-2012": "3250",
+    "taxonomy/preferred-label": "Tandhygienister"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Planerar, genomför och leder forskningsverksamhet. Medverkar i undervisning.\r\n\r\nHit hör inte\r\nForskarassistent utan uppgift att undervisa (ingår i yrke inom respektive inriktning)\r\n",
+    "taxonomy/id": "P7eS_nP8_3dy",
+    "taxonomy/ssyk-code-2012": "2313",
+    "taxonomy/preferred-label": "Forskarassistenter m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar maskiner som tillverkar påsar, kartonger, säckar, kuvert och andra produkter av papper, papp, kartong och liknande material.\t\r\n\t\r\nHit hör inte\r\nProcessoperatör, papper (8172)",
+    "taxonomy/id": "iZLB_KpD_LLo",
+    "taxonomy/ssyk-code-2012": "8143",
+    "taxonomy/preferred-label": "Maskinoperatörer, pappersvaruindustri"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Intervjuar personer och hanterar svaren för marknads-, samhälls- och opinionsundersökningar. \r\n",
+    "taxonomy/id": "83wV_GJa_vMd",
+    "taxonomy/ssyk-code-2012": "4226",
+    "taxonomy/preferred-label": "Marknadsundersökare och intervjuare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Övervakar, sköter och underhåller fastigheters inre och yttre miljö. Kontrollerar ventilations- och värmeanläggningar. Utför mindre reparationer och svarar för service till hyresgäster och besökare.",
+    "taxonomy/id": "df9D_e6y_61z",
+    "taxonomy/ssyk-code-2012": "5152",
+    "taxonomy/preferred-label": "Fastighetsskötare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Administrerar system, databaser och lokala nätverk och ger service till användare. Installerar och konfigurerar nya applikationer och distribuerar programuppdateringar till användare.",
+    "taxonomy/id": "MYAz_x9m_2LJ",
+    "taxonomy/ssyk-code-2012": "3513",
+    "taxonomy/preferred-label": "Systemadministratörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Genomför teoretisk och praktisk körkortsutbildning för motorfordon. Lär ut trafikregler, körteknik och trafiksäkerhet.",
+    "taxonomy/id": "yVZH_zHh_6fG",
+    "taxonomy/ssyk-code-2012": "3441",
+    "taxonomy/preferred-label": "Trafiklärare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför assisterande juridiskt arbete. Förbereder, granskar och bearbetar juridiska handlingar. Kallar parter till förhandlingar. Skickar förelägganden. Protokollför rättegångar och förhandlingar. Upprättar förteckningar över dödsbons tillgångar och skulder samt bistår vid arvskifte.\r\n",
+    "taxonomy/id": "zKvJ_GnC_Szx",
+    "taxonomy/ssyk-code-2012": "3342",
+    "taxonomy/preferred-label": "Domstols- och juristsekreterare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Assisterar tandläkare vid undersökning, behandling och operation av patient. Putsar och polerar tänder samt tar röntgenbilder. Planerar behandlingstider, för journaler, tar betalt och gör inköp. Rengör instrument och annan utrustning.",
+    "taxonomy/id": "5dxv_nVQ_N8o",
+    "taxonomy/ssyk-code-2012": "5350",
+    "taxonomy/preferred-label": "Tandsköterskor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar, leder, planerar och kontrollerar material- och informationsflöden och produktionsplanering. Styr tillverkningsverksamhet och bedömer kostnadseffektivitet. Beslutar tillsammans med marknadsorganisation och kund om tidsplan och produktionsvolym. Planerar och beslutar om leverantörs- och transportkedjan, samt anläggnings- och systemplaner.\n\nHit hör inte\nYrken inom logistik och produktionsplanering med arbetsuppgifter motsvarande ingenjör- eller teknikernivå (3111)",
+    "taxonomy/id": "xm5G_vGn_iyk",
+    "taxonomy/ssyk-code-2012": "2141",
+    "taxonomy/preferred-label": "Civilingenjörsyrken inom logistik och produktionsplanering"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Sköter, styr och övervakar anläggningar som krossar berg eller krossar, mal och anrikar malm.",
+    "taxonomy/id": "LEvM_7Hs_w8i",
+    "taxonomy/ssyk-code-2012": "8112",
+    "taxonomy/preferred-label": "Processoperatörer, stenkross- och malmförädling"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Vårdar, ger stöd och råd samt medverkar i rehabilitering av patienter inom psykiatrisk vård och missbruksvård.",
+    "taxonomy/id": "7fNG_sve_JWU",
+    "taxonomy/ssyk-code-2012": "5341",
+    "taxonomy/preferred-label": "Skötare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar maskiner som bereder och tillagar råvaror för färdigmat samt bereder kött och fisk genom kokning, torkning, saltning eller rökning.\n\nHit hör inte\nSlaktare (7611)\nCharkuterist (7611)",
+    "taxonomy/id": "gJtZ_EBc_n2z",
+    "taxonomy/ssyk-code-2012": "8161",
+    "taxonomy/preferred-label": "Maskinoperatörer, kött- och fiskberedningsindustri"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utreder individers behov av hjälp och stöd från kommunen t.ex. hemtjänst, personlig assistans eller särskilt boende m.m.",
+    "taxonomy/id": "5uP5_Ugw_aVE",
+    "taxonomy/ssyk-code-2012": "2663",
+    "taxonomy/preferred-label": "Biståndsbedömare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar teorier, modeller och metoder inom tillverkningsindustri t.ex. maskin- och fordonsteknik. Leder projekt-, projekterings- och konstruktionsarbete som avser fordon, komponenter, maskiner och annan mekanisk utrustning samt värme-, vatten-, sanitets-, ventilations-, och kylsystem. Ansvarar för besiktning och kontroller. Utarbetar riktlinjer och metoder för kvalitetssäkring.\r\n\r\nHit hör inte\r\nYrken inom maskinteknik med arbetsuppgifter motsvarande ingenjör- eller teknikernivå (3114)\r\n",
+    "taxonomy/id": "PRQn_9yw_NJA",
+    "taxonomy/ssyk-code-2012": "2144",
+    "taxonomy/preferred-label": "Civilingenjörsyrken inom maskinteknik"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat bygg- och anläggningsarbete än inom 7111-7116. Exempel på arbetsuppgifter: Lägger ner och sammanfogar rör av betong, metall eller plast. Utför olika arbetsuppgifter i samband med husbyggen och byggreparationer, t.ex. byggnadsträ- och betongarbete. Monterar fabrikstillverkade betongelement.\r\n\r\nHit hör inte\r\nAnläggningsarbetare (7114)\r\nTräarbetare/Snickare (7111)\r\n",
+    "taxonomy/id": "AD3U_cFH_rbe",
+    "taxonomy/ssyk-code-2012": "7119",
+    "taxonomy/preferred-label": "Övriga byggnads- och anläggningsarbetare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för verksamhet inom restaurang och kök. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.\r\n\r\nHit hör inte\r\nKöksmästare (3450)\r\nSouschef (3450)\r\n\r\n",
+    "taxonomy/id": "hZLv_S5f_jo2",
+    "taxonomy/ssyk-code-2012": "1720",
+    "taxonomy/preferred-label": "Restaurang- och kökschefer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier inom annan administrations- och serviceverksamhet på övriga stabs- och specialistfunktioner. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.",
+    "taxonomy/id": "uxst_tkg_zDh",
+    "taxonomy/ssyk-code-2012": "1290",
+    "taxonomy/preferred-label": "Övriga administrations- och servicechefer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Installerar och konfigurerar kommunikationsutrustning samt ansvarar för underhåll av denna utrustning, t. ex. brandväggar, routrar, switchar etc.",
+    "taxonomy/id": "VCpu_5EN_bBt",
+    "taxonomy/ssyk-code-2012": "3514",
+    "taxonomy/preferred-label": "Nätverks- och systemtekniker m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bakar pizzor och tillreder andra maträtter exempelvis på pizzeria eller gatukök.",
+    "taxonomy/id": "a8gg_ktU_w8V",
+    "taxonomy/ssyk-code-2012": "9411",
+    "taxonomy/preferred-label": "Pizzabagare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Planerar, utvecklar, genomför och utvärderar informations- och kommunikationsstrategier om företags eller organisations mål, policy, verksamhet, resultat och aktuella händelser. Utformar informationsinnehåll.",
+    "taxonomy/id": "k1Nx_auG_sNh",
+    "taxonomy/ssyk-code-2012": "2432",
+    "taxonomy/preferred-label": "Informatörer, kommunikatörer och PR-specialister"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tar emot besökande. Informerar och hänvisar till plats, lokal eller person. Hanterar in- och utpassering.",
+    "taxonomy/id": "ByrL_ANp_UwV",
+    "taxonomy/ssyk-code-2012": "4225",
+    "taxonomy/preferred-label": "Kontorsreceptionister"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Avlägsnar kött, fett och hår från hudar. Bereder skinn för vidare användning. Garvar hudar genom kalkhusbehandling och spaltning. Hanterar maskiner för att dela hudar samt färgar och mjukar upp skinn. Tillverkar och reparerar skor, väskor, sadeltyg m.m. Gör mönster för att skära till sko- och sadeldelar, väskor, sport- och andra läderartiklar. Syr läder för hand eller på maskin.",
+    "taxonomy/id": "vJQk_YvC_XB7",
+    "taxonomy/ssyk-code-2012": "7534",
+    "taxonomy/preferred-label": "Läderhantverkare och skomakare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Undervisar elever med behov av särskilt stöd i förskola och förskoleklass samt grund- och gymnasieskola. Anpassar undervisningen efter elevernas förutsättningar och använder speciella hjälpmedel och arbetsmetoder. Ger specialpedagogiskt stöd till lärare och utvecklar undervisningsmetodik. Utvärderar och inspekterar tillämpningen av skollag, läroplaner och förordningar.",
+    "taxonomy/id": "3FP7_4Eg_x8P",
+    "taxonomy/ssyk-code-2012": "2351",
+    "taxonomy/preferred-label": "Speciallärare och specialpedagoger m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Samordnar, leder, planerar och fördelar arbetet inom kontor och kundservice. Utbildar och instruerar personal.",
+    "taxonomy/id": "H2Zj_eL9_x28",
+    "taxonomy/ssyk-code-2012": "3341",
+    "taxonomy/preferred-label": "Gruppledare för kontorspersonal"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för hotell- och konferensverksamhet. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.",
+    "taxonomy/id": "eX3C_MtJ_nPA",
+    "taxonomy/ssyk-code-2012": "1710",
+    "taxonomy/preferred-label": "Hotell- och konferenschefer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Leder studiecirklar och kurser utanför det reguljära utbildningsväsendet. Exempel på arbetsuppgifter: Lär ut språk, datakunskap, dans, musik, slöjd och hantverkstekniker. Undervisar på utbildningsföretag i datakunskap, ledarskap m.m. Organiserar bl.a. fortbildning av anställda inom företag.",
+    "taxonomy/id": "1CX5_mZw_Vcq",
+    "taxonomy/ssyk-code-2012": "3449",
+    "taxonomy/preferred-label": "Övriga utbildare och instruktörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Underbehandlar och lackerar produkter av olika slag och material. Förser ytor med emalj eller annat ytlager.\r\n\r\nHit hör inte\r\nMålare (7131)\r\nTräförgyllare (7521)\r\nMaskinoperatör, ytbehandling (8121)\r\n",
+    "taxonomy/id": "dKUb_KBP_mw3",
+    "taxonomy/ssyk-code-2012": "7132",
+    "taxonomy/preferred-label": "Lackerare och industrimålare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Regisserar teater-, film-, TV- och radioproduktion m.m. Sätter upp föreställningar och leder repetitioner och inspelningar.",
+    "taxonomy/id": "rYSG_3WJ_LmC",
+    "taxonomy/ssyk-code-2012": "2654",
+    "taxonomy/preferred-label": "Regissörer och producenter av film, teater m.m."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för forsknings- och utvecklingsverksamhet. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål för forskning och utveckling. Ansvarar för utvecklingen av tekniska processer, produkter, kunskap eller materialanvändning. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.",
+    "taxonomy/id": "QG4f_MCh_vND",
+    "taxonomy/ssyk-code-2012": "1330",
+    "taxonomy/preferred-label": "Forsknings- och utvecklingschefer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tillverkar och monterar detaljer till konstruktioner av grovplåt. Tillverkar, monterar, uppför och reparerar tunga metallbalkar och plåtar till stålkonstruktioner och ställningar.",
+    "taxonomy/id": "TrwQ_RXT_W8a",
+    "taxonomy/ssyk-code-2012": "7215",
+    "taxonomy/preferred-label": "Stålkonstruktionsmontörer och grovplåtsslagare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Förbereder, arrangerar och utför uppgifter i samband med begravningsceremonier, jordfästningar, kremeringar och gravsättningar.",
+    "taxonomy/id": "R8bW_rsJ_b2G",
+    "taxonomy/ssyk-code-2012": "5161",
+    "taxonomy/preferred-label": "Begravnings- och krematoriepersonal"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Slaktar djur samt grov- eller finstyckar djurkroppar. Tillverkar charkuterier och andra köttvaror. Konserverar kött och andra livsmedel med hjälp av saltning, torkning och rökning.\r\n\r\nHit hör inte\r\nFärdigmatlagare (8161)\r\nCharkuteriarbetare, butik (5222)\r\nMaskinoperatör, kött- och fiskberedningsindustri (8161)",
+    "taxonomy/id": "QqHf_XKZ_eyy",
+    "taxonomy/ssyk-code-2012": "7611",
+    "taxonomy/preferred-label": "Slaktare och styckare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Kontrollerar att lagar och föreskrifter om miljö-, hälso- och djurskydd samt för livsmedel efterlevs. Gör utredningar, undersökningar, inspektioner och mätningar. Granskar olika verksamheter och arbetsrutiner ur miljösynpunkt samt utarbetar förbättringsförslag.",
+    "taxonomy/id": "puim_6PY_DGj",
+    "taxonomy/ssyk-code-2012": "2182",
+    "taxonomy/preferred-label": "Miljö- och hälsoskyddsinspektörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Planerar och organiserar fritidsaktiviteter för skolelever 6-12 år i fritidshem eller öppen fritidsverksamhet. Medverkar i pedagogisk verksamhet i skolklasser.",
+    "taxonomy/id": "CFW8_eBa_NaV",
+    "taxonomy/ssyk-code-2012": "2342",
+    "taxonomy/preferred-label": "Fritidspedagoger"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Designar, formger och utvecklar digital och elektronisk media. Skapar specialeffekter, animering och andra audiovisuella rörliga bilder för dataspel, film, video m.m. Fastställer mål och restriktioner för designuppdraget genom samråd med kunder, intressenter och den egna organisationen.\r\n",
+    "taxonomy/id": "Mbt6_3ko_DiD",
+    "taxonomy/ssyk-code-2012": "2173",
+    "taxonomy/preferred-label": "Designer inom spel och digitala medier"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Nedmonterar uttjänta fordon, maskiner, apparater m.m. för att återvinna delar och komponenter. Hämtar, tömmer och sorterar sopsäckar och kärl samt annat avfall och skrot. Sopar, spolar, plogar och sandar gator och vägar. Skottar snö samt röjer parker från löv.",
+    "taxonomy/id": "X7HR_rZK_4wj",
+    "taxonomy/ssyk-code-2012": "9610",
+    "taxonomy/preferred-label": "Renhållnings- och återvinningsarbetare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat design- och utvecklingsarbete än inom 2171-2173. Exempel på arbetsuppgifter: Designar och utvecklar mode-, kläd-, textil-, smyckes- och glasprodukter. Fastställer mål och restriktioner för designuppdraget genom samråd med kunder och intressenter.\r\n",
+    "taxonomy/id": "PF4H_kQD_zpL",
+    "taxonomy/ssyk-code-2012": "2179",
+    "taxonomy/preferred-label": "Övriga designer och formgivare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Installerar och servar kyl- och värmepumpsanläggningar samt tillhörande styr- och övervakningssystem.",
+    "taxonomy/id": "3UzE_P8A_9sS",
+    "taxonomy/ssyk-code-2012": "7126",
+    "taxonomy/preferred-label": "Kyl- och värmepumpstekniker m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Kontrollerar och säljer färdbevis. Ansvarar för passagerarnas säkerhet och bekvämlighet på tåg och spårvagnar. Serverar måltider och drycker samt säljer olika varor. Informerar om avgångstider, biljettpriser, linjesträckningar, restider m.m.",
+    "taxonomy/id": "s78G_Zp2_dkq",
+    "taxonomy/ssyk-code-2012": "5112",
+    "taxonomy/preferred-label": "Tågvärdar och ombordansvariga m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tillverkar, justerar och reparerar formverktyg för plast- eller metallprodukter samt klipp- och bockverktyg. Utför verktygsfräsning, verktygssvarvning och gnistbearbetning samt bänkarbete.\r\n",
+    "taxonomy/id": "MSnK_3Z8_4qA",
+    "taxonomy/ssyk-code-2012": "7222",
+    "taxonomy/preferred-label": "Verktygsmakare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Leder och fördelar arbete på arbetsplats. Bevakar att maskiner och material finns på plats och samordnar arbete med underentreprenörer. Har ansvar för att arbetet utförs enligt gällande ritningar och anvisningar och för att säkerhetsföreskrifter följs. Har visst personalansvar.",
+    "taxonomy/id": "w6ud_quG_dgh",
+    "taxonomy/ssyk-code-2012": "3121",
+    "taxonomy/preferred-label": "Arbetsledare inom bygg, anläggning och gruva"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför tekniskt arbete i samband med konstruktion, tillverkning, montering, underhåll och reparation av fordon, maskiner och annan mekanisk utrustning samt värme-, vatten-, sanitets-, ventilations- och kylsystem. Utför konstruktions-, ritnings- och beräkningsarbete. Organiserar, leder och samordnar det praktiska arbetet vid tillverkning av fordon, maskiner m.m. Provar och kontrollerar maskiner och andra mekaniska produkter.\r\n\r\nHit hör inte\r\nCivilingenjörsyrken inom maskinteknik (2144)\t",
+    "taxonomy/id": "K8yg_U4C_gkY",
+    "taxonomy/ssyk-code-2012": "3114",
+    "taxonomy/preferred-label": "Ingenjörer och tekniker inom maskinteknik"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Kontrollerar patienters kroppstemperatur, puls och blodtryck, tar prover och lägger om sår. Hjälper patienter med deras personliga hygien. Bäddar, delar ut mat och gör annat som ingår i den dagliga vården. Assisterar läkare och sjuksköterskor vid undersökningar och behandlingar. Tar prover, tar fram provsvar och journaler samt förbereder patienter för behandling. Plockar fram instrument inför undersökningar och ingrepp samt rengör och desinficerar dem.",
+    "taxonomy/id": "LP4Z_ABV_gRm",
+    "taxonomy/ssyk-code-2012": "5323",
+    "taxonomy/preferred-label": "Undersköterskor, vård- och specialavdelning och mottagning"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Säljer och förmedlar varor och tjänster per telefon till företag eller privatpersoner. Söker upp och värvar medlemmar eller bidragsgivare till organisationer.\r\n",
+    "taxonomy/id": "PxXc_16t_oZo",
+    "taxonomy/ssyk-code-2012": "5242",
+    "taxonomy/preferred-label": "Telefonförsäljare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Handlägger, utreder och informerar samt fattar beslut om olika socialförsäkringar.",
+    "taxonomy/id": "ZQiZ_6Kd_D3a",
+    "taxonomy/ssyk-code-2012": "3353",
+    "taxonomy/preferred-label": "Socialförsäkringshandläggare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tillverkar och reparerar möbler, modeller, båtar och andra träprodukter på hantverksmässigt sätt. Tillverkar, monterar och reparerar inredningar för exempelvis affärer, banker och restauranger.",
+    "taxonomy/id": "1Nwn_GYH_wkH",
+    "taxonomy/ssyk-code-2012": "7522",
+    "taxonomy/preferred-label": "Fin-, inrednings- och möbelsnickare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför operativt produktions-, informations- och materialplanering baserat på skattade volymer, faktiskt åtgång och lagerhållning. Granskar konstruktioner i samråd med konstruktör utifrån funktionella och bearbetningstekniska krav. Tidsätter operationer, kalkylerar arbets-, lager-, transport-, tjänste- och produktionskostnader.\n\nHit hör inte\nCivilingenjörsyrken inom logistik och produktionsplanering (2141)",
+    "taxonomy/id": "33Nt_DSs_YYA",
+    "taxonomy/ssyk-code-2012": "3111",
+    "taxonomy/preferred-label": "Ingenjörer och tekniker inom industri, logistik och produktionsplanering"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Säljer och serverar kaffebröd, kaffe och andra drycker samt bereder, säljer och serverar smörgåsar, sallader och andra smårätter på ett kafé eller i konditori. Tar betalt och ansvarar för kassa. \r\n\r\nHit hör inte\r\nBarista/Kaffebartender (5132)",
+    "taxonomy/id": "1wqU_Jhj_amb",
+    "taxonomy/ssyk-code-2012": "9413",
+    "taxonomy/preferred-label": "Kafé- och konditoribiträden"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Undersöker, diagnostiserar och behandlar patienter som har eller riskerar att få funktionsnedsättningar till följd av sjukdomar eller skador i olika organsystem, t.ex. andningsorgan, cirkulationssystem, nervsystem, rörelseorgan och psykisk ohälsa.",
+    "taxonomy/id": "s7vU_FhY_L5Z",
+    "taxonomy/ssyk-code-2012": "2272",
+    "taxonomy/preferred-label": "Fysioterapeuter och sjukgymnaster"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Säljer produkter och tjänster till exempelvis återförsäljare, grossister och företag genom uppsökande verksamhet eller från kontor. Ansvarar för produkt eller distrikt. Informerar om produkter och tjänster, utarbetar kundspecifika lösningar samt tar emot beställningar. Sköter kundregister och tar fram försäljningsstatistik.",
+    "taxonomy/id": "oXSW_fbY_XrY",
+    "taxonomy/ssyk-code-2012": "3322",
+    "taxonomy/preferred-label": "Företagssäljare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för verksamhet inom friskvård, sport och fritid. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.",
+    "taxonomy/id": "wby2_mwq_fWV",
+    "taxonomy/ssyk-code-2012": "1740",
+    "taxonomy/preferred-label": "Chefer inom friskvård, sport och fritid"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Patrullerar och bevakar fastigheter och områden. Kontrollerar tillträde till olika inrättningar och övervakar ordning vid offentliga evenemang m.m. Agerar vid larm och störningar, kontaktar vid behov t.ex. polis eller brandkår. Svarar för säkerhetskontroller vid flygplatser och i hamnar. Transporterar kontanter och andra värdeföremål. Skyddar vid behov enskilda personer.",
+    "taxonomy/id": "iqZh_3yX_i8n",
+    "taxonomy/ssyk-code-2012": "5413",
+    "taxonomy/preferred-label": "Väktare och ordningsvakter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tolkar lagar samt formulerar och granskar avtal och andra juridiska handlingar. Ser till att avtal och kontrakt är juridiskt bindande och följer de lagar och bestämmelser som finns på området. Företräder klienter i juridiska frågor och vid förhandlingar. Förbereder processer och företräder klient inför domstol. Utformar försäkringsvillkor.",
+    "taxonomy/id": "DZVN_v5g_Fco",
+    "taxonomy/ssyk-code-2012": "2614",
+    "taxonomy/preferred-label": "Affärs- och företagsjurister"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Installerar, kontrollerar, övervakar och utför service på medicinteknisk utrustning som används vid diagnosticering eller behandling av olika sjukdomar. Sköter och övervakar t.ex. hjärtlungmaskiner.",
+    "taxonomy/id": "GC7L_Yw7_Mfo",
+    "taxonomy/ssyk-code-2012": "3211",
+    "taxonomy/preferred-label": "Tekniker, bilddiagnostik och medicinteknisk utrustning"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bedriver avel, uppfödning och skötsel av sällskapsdjur.\r\n",
+    "taxonomy/id": "MSzH_F2n_Emb",
+    "taxonomy/ssyk-code-2012": "6122",
+    "taxonomy/preferred-label": "Uppfödare och skötare av sällskapsdjur"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Designar och formger tryckt publikation och media. Fastställer mål och restriktioner för designuppdraget genom samråd med kunder och intressenter.\r\n\r\nHit hör inte\r\nInformatör (2432)\r\n",
+    "taxonomy/id": "8Bmh_vtM_zts",
+    "taxonomy/ssyk-code-2012": "2172",
+    "taxonomy/preferred-label": "Grafiska formgivare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat maskinoperatörsarbete inom livsmedelsindustri m.m. än inom 8161-8163. Exempel på arbetsuppgifter: Styr och övervakar maskiner för framställning av t.ex. fruktkonserver, vin, kaffe och tobak.",
+    "taxonomy/id": "icae_Y69_H8E",
+    "taxonomy/ssyk-code-2012": "8169",
+    "taxonomy/preferred-label": "Övriga maskinoperatörer, livsmedelsindustri m.m."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tar emot och kopplar telefonsamtal. Ger upplysningar, tar emot meddelanden och lämnar besked. Sköter växel samt hänvisnings- och personsökningssystem.\r\n",
+    "taxonomy/id": "4aPu_2nd_8X6",
+    "taxonomy/ssyk-code-2012": "4223",
+    "taxonomy/preferred-label": "Telefonister"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar teorier, modeller och metoder inom farmakologi. Genomför försök, analyserar och värderar information om hur läkemedel och andra ämnen verkar i celler, organ, djur och människor, samt vilken effekt de har. Utvecklar och formar praktiska tillämpningar inom farmaci och medicin. Informerar, ger råd och utfärdar anvisningar om läkemedel.",
+    "taxonomy/id": "dsK3_hkt_zGy",
+    "taxonomy/ssyk-code-2012": "2133",
+    "taxonomy/preferred-label": "Farmakologer och biomedicinare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar anläggningar och maskiner som framställer och distribuerar elektricitet, ånga och hetvatten. Styr anläggningar för förbränning av avfall samt för upptagning, rening och distribution av vatten. Styr kyl- och ventilationsmaskineri.",
+    "taxonomy/id": "Cppd_9P7_HeR",
+    "taxonomy/ssyk-code-2012": "8191",
+    "taxonomy/preferred-label": "Drifttekniker vid värme- och vattenverk"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ansvarar för IT-säkerheten i företag och organisationer. Gör risk- och sårbarhetsanalyser. Utformar säkerhetslösningar och IT-säkerhetssystem utifrån verksamhetens behov.",
+    "taxonomy/id": "BAeH_eg8_T2d",
+    "taxonomy/ssyk-code-2012": "2516",
+    "taxonomy/preferred-label": "IT-säkerhetsspecialister"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Behandlar obalanser, spänningar och blockeringar i kroppen.\r\n\r\nHit hör inte\r\nMassör/ Massageterapeut (5143)\r\nFotterapeut/Fotvårdsspecialist (5144)\r\n",
+    "taxonomy/id": "F19Z_oB6_pg3",
+    "taxonomy/ssyk-code-2012": "3230",
+    "taxonomy/preferred-label": "Terapeuter inom alternativmedicin"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Undervisar på gymnasial nivå i teoretiska och praktisk-estetiska ämnen. Planerar, genomför och utvärderar undervisningen i enlighet med läro- och ämnesplaner. Utför bedömning och betygsättning.",
+    "taxonomy/id": "4KhP_FxL_uZ5",
+    "taxonomy/ssyk-code-2012": "2330",
+    "taxonomy/preferred-label": "Gymnasielärare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar anläggningar för tillverkning av pappersmassa och utvinning av biprodukter.",
+    "taxonomy/id": "4obu_LL6_RqJ",
+    "taxonomy/ssyk-code-2012": "8171",
+    "taxonomy/preferred-label": "Processoperatörer, pappersmassa"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar maskiner och utrustning som behandlar, sågar, skär och flisar trä för vidare användning. Sköter lagring, sortering och torkning av virke. Styr och övervakar maskiner och utrustning som tillverkar skiktträ, träfiber- och spånskivor. Defibrerar, limmar, pressar, torkar, stansar, sågar, sorterar etc.",
+    "taxonomy/id": "UdrS_qzV_P7i",
+    "taxonomy/ssyk-code-2012": "8173",
+    "taxonomy/preferred-label": "Operatörer inom sågverk, hyvleri och plywood m.m."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Undervisar på gymnasial och eftergymnasial nivå i yrkesämnen. Planerar, genomför och utvärderar undervisningen i enlighet med läro- och ämnesplaner. Utför bedömning och betygsättning.",
+    "taxonomy/id": "2x2V_UeL_6ke",
+    "taxonomy/ssyk-code-2012": "2320",
+    "taxonomy/preferred-label": "Lärare i yrkesämnen"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat juridiskt specialistarbete än inom 2611-2615. Exempel på arbetsuppgifter: Ansvarar för indrivning av skatter, böter och andra allmänna medel samt verkställande av domar och beslut i enskilda mål. Handlägger juridiska ärenden inom försvaret eller kyrkan. Tar fram föreskrifter och ger råd i hur man ska tolka miljölagar och förordningar. Genomför förhandlingar och utför juridisk rådgivning.",
+    "taxonomy/id": "br6a_VVS_V3y",
+    "taxonomy/ssyk-code-2012": "2619",
+    "taxonomy/preferred-label": "Övriga jurister"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Analyserar fel, underhåller och reparerar motorer till motorfordon och båtar. Reparerar och utför service på motorcyklar, personbilar, lastbilar, långtradare, trailrar, bussar, traktorer samt cyklar. Underhåller och reparerar lantbruks-, skogs-, entreprenads- och anläggningsmaskiner. Beställer, lagerhåller och säljer reservdelar och tillbehör.\r\n\r\nHit hör inte\r\nFlygmekaniker (7232)\r\nHelikoptermekaniker (7232)\r\nLokreparatör (7233)\r\nVagnreparatör, järnväg (7233)",
+    "taxonomy/id": "Lzpv_ofL_3H5",
+    "taxonomy/ssyk-code-2012": "7231",
+    "taxonomy/preferred-label": "Motorfordonsmekaniker och fordonsreparatörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar maskiner som blandar och valsar gummi eller som tillverkar olika produkter och detaljer av naturligt och syntetiskt gummi. Bygger upp eller regummerar gummidäck.\r\n\r\nHit hör inte\r\nDäckmontör/Däck- och hjulmekaniker (8213)",
+    "taxonomy/id": "ENV6_BNa_brP",
+    "taxonomy/ssyk-code-2012": "8141",
+    "taxonomy/preferred-label": "Maskinoperatörer, gummiindustri"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat specialistarbete för sjuksköterskor än inom 2221-2235. Till exempel inom ögonvård, onkologi m.m. Planerar och samordnar det praktiska vårdarbetet på kliniknivå och mellan olika huvudmän.",
+    "taxonomy/id": "6zAR_EHM_Kwj",
+    "taxonomy/ssyk-code-2012": "2239",
+    "taxonomy/preferred-label": "Övriga specialistsjuksköterskor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ansvarar samt formulerar mål och strategier för verksamhet inom bank, finansiella institut och försäkringsbolag. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.",
+    "taxonomy/id": "9Mn4_PNA_7Yz",
+    "taxonomy/ssyk-code-2012": "1610",
+    "taxonomy/preferred-label": "Chefer inom bank, finans och försäkring"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar teorier, modeller och metoder inom elektroteknik. Leder projekterings- och konstruktionsarbete som avser elektrotekniska produkter och anläggningar. Svarar för produktion och teknisk utveckling samt för provning och kontroller av elektrotekniska produkter och anläggningar. Undersöker och ger råd om elektrotekniska material, produkter eller processers tekniska aspekter.\r\n\r\nHit hör inte\r\nYrken inom elektroteknik med arbetsuppgifter motsvarande ingenjör- eller teknikernivå (3113)\r\n",
+    "taxonomy/id": "SPYW_7Z1_ShT",
+    "taxonomy/ssyk-code-2012": "2143",
+    "taxonomy/preferred-label": "Civilingenjörsyrken inom elektroteknik"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat bevaknings- och säkerhetsarbete än inom 5411-5414. Exempel på arbetsuppgifter: Bevakar stränder och simbassänger för att förhindra olyckor och rädda individer från att drunkna. Bistår personer i nöd till fjälls. Kontrollerar att parkeringsbestämmelser följs.",
+    "taxonomy/id": "ayQ4_G3W_A2w",
+    "taxonomy/ssyk-code-2012": "5419",
+    "taxonomy/preferred-label": "Övrig bevaknings- och säkerhetspersonal"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utreder brott tillsammans med polis, leder förundersökningar och beslutar om åtal. Beskriver brott, håller förhör och föreslår straff i rätten.",
+    "taxonomy/id": "6aak_8eh_iwT",
+    "taxonomy/ssyk-code-2012": "2613",
+    "taxonomy/preferred-label": "Åklagare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Övervakar och leder flygtrafik på start- och landningsbanor samt i luften. Ger instruktioner om startpunkt, färdväg, flyghöjd m.m.",
+    "taxonomy/id": "yct8_Pun_DWd",
+    "taxonomy/ssyk-code-2012": "3154",
+    "taxonomy/preferred-label": "Flygledare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Armerar och gjuter betongkonstruktioner såsom golv, väggar, valv, pelare och broar. Borrar och sågar hål i betongkonstruktioner.",
+    "taxonomy/id": "q2Ge_zrQ_zJb",
+    "taxonomy/ssyk-code-2012": "7113",
+    "taxonomy/preferred-label": "Betongarbetare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tar stillbilder och rörliga bilder för kommersiella, konstnärliga, industriella och vetenskapliga ändamål. Bearbetar bildkomposition. Sammanställer och redigerar inspelat material till färdigt program eller film.\r\n",
+    "taxonomy/id": "3J38_DNz_YKK",
+    "taxonomy/ssyk-code-2012": "3431",
+    "taxonomy/preferred-label": "Fotografer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Marknadsför och säljer försäkringar samt analyserar och ger råd om försäkringsbehov. Utreder risker för att kunna kontrollera och fastställa premier och försäkringsvillkor. Köper och säljer delar av försäkringar till andra försäkringsbolag.\r\n",
+    "taxonomy/id": "9dLz_BCK_oDA",
+    "taxonomy/ssyk-code-2012": "3321",
+    "taxonomy/preferred-label": "Försäkringssäljare och försäkringsrådgivare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar maskiner och utrustning som putsar, pläterar eller ytbehandlar metall eller metallföremål i syfte att öka motståndskraften mot frätning och förslitning, för dekorativa ändamål eller för att ge metall elektriska eller magnetiska egenskaper.\r\n\r\nHit hör inte\r\nLackerare (7132)\r\nTräförgyllare (7521)",
+    "taxonomy/id": "YiQw_N87_zLU",
+    "taxonomy/ssyk-code-2012": "8121",
+    "taxonomy/preferred-label": "Maskinoperatörer, ytbehandling"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för fastighetsförvaltning och fastighetsskötsel. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.\r\n",
+    "taxonomy/id": "4GAs_rKs_2Ne",
+    "taxonomy/ssyk-code-2012": "1350",
+    "taxonomy/preferred-label": "Fastighets- och förvaltningschefer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Undersöker, avsmakar och bedömer jordbruksprodukter, matvaror och drycker.",
+    "taxonomy/id": "dAu7_VyL_hsy",
+    "taxonomy/ssyk-code-2012": "7613",
+    "taxonomy/preferred-label": "Provsmakare och kvalitetsbedömare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för verksamhet inom bygg, anläggning och gruva. Ansvarar för budget, kalkylering, upphandling, inköp, tidsplan samt kontakter med beställare och myndigheter. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Har personalansvar.\r\n\r\nHit hör inte\r\nArbetsledare inom bygg, anläggning och gruva (3121)",
+    "taxonomy/id": "7mn2_kA9_ftp",
+    "taxonomy/ssyk-code-2012": "1360",
+    "taxonomy/preferred-label": "Driftchefer inom bygg, anläggning och gruva"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Undervisar i grundskolan. Planerar, genomför och utvärderar undervisningen i grundskola i enlighet med läro- och kursplaner. Utför bedömning och betygsättning.",
+    "taxonomy/id": "oQUQ_D11_HPx",
+    "taxonomy/ssyk-code-2012": "2341",
+    "taxonomy/preferred-label": "Grundskollärare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bedriver försök och ger råd och upplysningar om skogsbruk, jakt och naturvård. Deltar i produktutveckling, marknadsföring och försäljning. Inventerar viltbestånd och värderar skog samt utarbetar skogsbruksplaner, avverkningsplaner m.m. Bedriver yrkesmässig jakt på vilda djur och skadedjur.",
+    "taxonomy/id": "3LdB_WEJ_8Ms",
+    "taxonomy/ssyk-code-2012": "2135",
+    "taxonomy/preferred-label": "Specialister och rådgivare inom skogsbruk"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för verksamhet inom hälso- och sjukvård, inklusive tandvård. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.\r\n",
+    "taxonomy/id": "womV_SEj_CAH",
+    "taxonomy/ssyk-code-2012": "1510",
+    "taxonomy/preferred-label": "Chefer inom hälso- och sjukvård"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Applicerar manuellt färg eller lack på trä eller träbaserat skivmaterial.",
+    "taxonomy/id": "v7W3_cLQ_q2S",
+    "taxonomy/ssyk-code-2012": "7521",
+    "taxonomy/preferred-label": "Manuella ytbehandlare, trä"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Arbetar med förebyggande hälsovård inom skola. Följer elevernas hälsoutveckling genom regelbundna hälsokontroller.",
+    "taxonomy/id": "Bywn_Doc_3VF",
+    "taxonomy/ssyk-code-2012": "2233",
+    "taxonomy/preferred-label": "Skolsköterskor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Har ämnesansvar och övergripande ansvar för utbildnings- och forskningsverksamhet inom ämnet. Leder, genomför och utvecklar utbildning på alla nivåer inom högskola och universitet. Handleder forskarstuderande, leder forskargrupper och bedriver forskning. Utför sakkunniguppdrag.\r\n",
+    "taxonomy/id": "Gm5j_S2Y_aTB",
+    "taxonomy/ssyk-code-2012": "2311",
+    "taxonomy/preferred-label": "Professorer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar valsverk i vilket stål eller andra metaller bearbetas till ämnen eller färdiga produkter.",
+    "taxonomy/id": "m8TS_hdk_pSf",
+    "taxonomy/ssyk-code-2012": "8122",
+    "taxonomy/preferred-label": "Valsverksoperatörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Producerar och organiserar turist-, affärs-, grupp- och konferensresor. Arrangerar och samordnar konferenser, evenemang, tillställningar, fester och seminarier. Undersöker resmål. Förhandlar om pris och andra villkor samt skriver avtal. Sammanställer resekataloger, tidtabeller och broschyrer. \r\n\r\nHit hör inte\r\nResebyråchef (1790)\r\nResesäljare/Reseförsäljare/Resekonsulent (4221)\r\n",
+    "taxonomy/id": "48KE_fDE_ryL",
+    "taxonomy/ssyk-code-2012": "3332",
+    "taxonomy/preferred-label": "Evenemangs- och reseproducenter m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför registrering, avveckling och kontroll av affärshändelser inom värdepappers- och valutahandeln.",
+    "taxonomy/id": "MGk3_LvL_AU2",
+    "taxonomy/ssyk-code-2012": "4113",
+    "taxonomy/preferred-label": "Backofficepersonal m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Underhåller, övervakar och administrerar drift av Internet och interna webbplatser samt maskin- och programvara för webbservrar. Ansvarar för en webbplats övergripande struktur och innehåll.",
+    "taxonomy/id": "Fv7d_YhP_YmS",
+    "taxonomy/ssyk-code-2012": "3515",
+    "taxonomy/preferred-label": "Webbmaster och webbadministratörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Anlägger och underhåller parker, trädgårdar, kyrkogårdar och golfbanor m.m. Lägger plattor, bygger murar och trappor samt planterar växter och sår gräs. Sköter blommor, träd, buskar och andra växter.",
+    "taxonomy/id": "XBh3_Xrm_C4R",
+    "taxonomy/ssyk-code-2012": "6113",
+    "taxonomy/preferred-label": "Trädgårdsanläggare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier inom IT-verksamhet. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål för IT-verksamheten. Ansvarar för anskaffning, utveckling, underhåll och användning av IT-system. Ansvarar för IT-säkerhet. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.",
+    "taxonomy/id": "eWiB_mGP_MjE",
+    "taxonomy/ssyk-code-2012": "1310",
+    "taxonomy/preferred-label": "IT-chefer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Köper in varor och tjänster. Planerar och utreder inköpsbehov och tar in anbud och offerter. Upprätthåller och söker nya kontakter med leverantör. Gör sammanställningar och kalkyler, förhandlar om pris och leveransvillkor samt fattar beslut och skriver kontrakt och sluter avtal.",
+    "taxonomy/id": "85cq_6uK_4cK",
+    "taxonomy/ssyk-code-2012": "3323",
+    "taxonomy/preferred-label": "Inköpare och upphandlare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bedriver växtodling. Odlar och skördar jordbruksväxter som t.ex. spannmål, olje- och vallväxter, sockerbetor samt potatis och andra köksväxter på friland. Odlar frukt och bär. Underhåller ekonomibyggnader, maskiner och utrustning.",
+    "taxonomy/id": "k3R3_UkC_nK2",
+    "taxonomy/ssyk-code-2012": "6111",
+    "taxonomy/preferred-label": "Odlare av jordbruksväxter, frukt och bär"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Samlar lokala, nationella och internationella nyheter med hjälp av intervjuer, undersökningar och observationer för tidningar, TV, radio och andra media. Redigerar artiklar och inslag. Granskar och bevakar uppgifter av allmänintresse. Undersöker och rapporterar om utvecklingen inom speciella områden, såsom medicin, vetenskap och teknik. Skriver ledare och kommentarer samt gör inslag om aktuella ämnen och uttrycker en tidnings, radio- eller TV-kanals åsikt.",
+    "taxonomy/id": "SgNH_hag_n9D",
+    "taxonomy/ssyk-code-2012": "2642",
+    "taxonomy/preferred-label": "Journalister m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Söver eller lokalbedövar patienter som ska opereras. Övervakar, bedömer och säkerställer god andning och cirkulation hos patienten under operation.\r\n",
+    "taxonomy/id": "nrVt_xUL_KdQ",
+    "taxonomy/ssyk-code-2012": "2223",
+    "taxonomy/preferred-label": "Anestesisjuksköterskor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Förtecknar, sorterar och tar fram arkivhandlingar. Biträder vid katalogisering och registrering av böcker och annat publicerat material. Ordnar och lånar ut böcker, tidskrifter m.m. Biträder vid informationssökning. Sköter bild- och ljudanläggningar. Biträder vid registrering, skötsel och utställning av museiföremål.",
+    "taxonomy/id": "TQkt_eeK_eNp",
+    "taxonomy/ssyk-code-2012": "4410",
+    "taxonomy/preferred-label": "Arkiv- och biblioteksassistenter m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Informerar, ger råd om och undervisar i närings- och kostfrågor. Utreder patienters sjukdomsbild och matvanor samt utarbetar kostförslag. Medverkar i forsknings- och utvecklingsprojekt kring kost och hälsa.",
+    "taxonomy/id": "Pq5C_SPC_bRA",
+    "taxonomy/ssyk-code-2012": "2282",
+    "taxonomy/preferred-label": "Dietister"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat kontorsarbete än inom 4111-4117 Exempel på arbetsuppgifter: Sköter löpande ärenden inom administration. Kontrollerar, kompletterar, registrerar, besvarar förfrågningar m.m. Skriver protokoll, brev, tabeller och andra dokument. Gör uträkningar och avstämningar.",
+    "taxonomy/id": "eQ4M_CNm_ozj",
+    "taxonomy/ssyk-code-2012": "4119",
+    "taxonomy/preferred-label": "Övriga kontorsassistenter och sekreterare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för verksamhet inom annan utbildningsform än läroplanstyrd verksamhet. Planerar och ansvarar för utbildningsprogram. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.",
+    "taxonomy/id": "g6eC_Fwu_B3J",
+    "taxonomy/ssyk-code-2012": "1490",
+    "taxonomy/preferred-label": "Övriga chefer inom utbildning"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Upprätthåller ordningen på allmän plats. Ingriper vid lagöverträdelser samt utreder brott. Etablerar kontakter och inhämtar information från olika källor för att förebygga brott. Övervakar och dirigerar trafik.",
+    "taxonomy/id": "rNcE_Zno_pD8",
+    "taxonomy/ssyk-code-2012": "3360",
+    "taxonomy/preferred-label": "Poliser"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Kör skogsmaskiner i samband med gallring och slutavverkning av skog. Kör och sköter jordbruksmaskiner exempelvis i samband med plöjning, harvning, sådd och skörd.",
+    "taxonomy/id": "KwVo_sQu_G2e",
+    "taxonomy/ssyk-code-2012": "8341",
+    "taxonomy/preferred-label": "Förare av jordbruks- och skogsmaskiner"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Odlar och inplanterar fisk och skaldjur.",
+    "taxonomy/id": "c8r8_e4L_gwj",
+    "taxonomy/ssyk-code-2012": "6221",
+    "taxonomy/preferred-label": "Fiskodlare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Sätter i seriemässig tillverkning samman komponenter av trä till olika produkter som t.ex. möbler.\r\n\r\nHit hör inte\r\nMaskinsnickare (7523)\r\n",
+    "taxonomy/id": "8ddv_P8e_iYz",
+    "taxonomy/ssyk-code-2012": "8214",
+    "taxonomy/preferred-label": "Montörer, träprodukter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför golvbeläggningar av textil, plast, linoleum, kork och parkett. Ytbehandlar trägolv.",
+    "taxonomy/id": "V79C_DD2_3Gj",
+    "taxonomy/ssyk-code-2012": "7122",
+    "taxonomy/preferred-label": "Golvläggare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Röjer, river och hanterar material på byggarbetsplatser. Assisterar vid maskinellt schaktarbete på bygg- och anläggningsarbeten. Lastar, lossar och behandlar torv.\r\n\r\nHit hör inte\r\nAnläggningsarbetare (7114)\r\nGrävlastarförare, anläggning (8342)\r\nTrädgårdsanläggare/Trädgårdsanläggningsarbetare (6113)\r\nTräarbetare/Snickare (7111)",
+    "taxonomy/id": "iHrC_aRv_fVm",
+    "taxonomy/ssyk-code-2012": "9310",
+    "taxonomy/preferred-label": "Grovarbetare inom bygg och anläggning"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Behandlar och vårdar samt ansvarar för den medicinska omvårdnaden och läkemedelshantering.",
+    "taxonomy/id": "Z8ci_bBE_tmx",
+    "taxonomy/ssyk-code-2012": "2221",
+    "taxonomy/preferred-label": "Grundutbildade sjuksköterskor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Samordnar och bevakar order och leveranser genom kontakter med leverantörer, kunder, interna avdelningar, transportföretag, speditörer m.fl.",
+    "taxonomy/id": "8A1f_sxQ_adT",
+    "taxonomy/ssyk-code-2012": "3324",
+    "taxonomy/preferred-label": "Ordersamordnare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier inom inköps-, logistik- och transportverksamhet. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål för inköp, lagring, transporter och distribution. Deltar i förhandlingar med leverantörer, ansvarar för lagerhållning och lagerutnyttjande, svarar för lasthantering. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.",
+    "taxonomy/id": "nNxJ_YWy_vR2",
+    "taxonomy/ssyk-code-2012": "1320",
+    "taxonomy/preferred-label": "Inköps-, logistik- och transportchefer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Registrerar, sammanställer och bearbetar data om företags eller organisations ekonomiska transaktioner. Kontrollerar och upprättar underlag för exempelvis fakturor. Sköter och bokför in- och utbetalningar. Informerar om resultat. Sköter momshantering och sammanställer material inför skattedeklarationen.",
+    "taxonomy/id": "ij8k_EwC_zyB",
+    "taxonomy/ssyk-code-2012": "4111",
+    "taxonomy/preferred-label": "Ekonomiassistenter m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Gestaltar roller i teater-, film-, TV- och radioproduktion m.m. Läser och reciterar litterära verk.",
+    "taxonomy/id": "iBUL_s38_izZ",
+    "taxonomy/ssyk-code-2012": "2655",
+    "taxonomy/preferred-label": "Skådespelare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Navigerar och styr flygplan, helikoptrar och andra luftfartyg. Ansvarar för flygning, passagerare och last. Övervakar styr- och navigeringssystem.",
+    "taxonomy/id": "7n3y_FTE_qSe",
+    "taxonomy/ssyk-code-2012": "3153",
+    "taxonomy/preferred-label": "Piloter m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för försäljnings- och marknadsverksamhet. Beslutar om ramar för prissättning, rabatt- och leveransvillkor, försäljningsbudget, specialkampanjer m.m. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål inom försäljning och marknad. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.\r\n\r\nHit hör inte\r\nButikschef (1730)\r\nSäljande butikschef (5222)\r\nAvdelningschef, butik (5222)\r\n",
+    "taxonomy/id": "Pz9M_srJ_Lc9",
+    "taxonomy/ssyk-code-2012": "1250",
+    "taxonomy/preferred-label": "Försäljnings- och marknadschefer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ansvarar, samordnar och leder daglig drift på lager eller terminal.\r\n",
+    "taxonomy/id": "WhBn_FAp_ZNW",
+    "taxonomy/ssyk-code-2012": "4321",
+    "taxonomy/preferred-label": "Arbetsledare inom lager och terminal"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tar fram förslag till modeller, tillverkar mallar och mönster. Skär ut plaggdelar och andra detaljer i tyg, skinn och andra material för tillverkning av kläder och andra konfektionsprodukter. Designar och syr klädesplagg efter kunders önskemål. Ändrar och lagar kläder av tyg och pälsskinn.",
+    "taxonomy/id": "mwVN_oEH_g9k",
+    "taxonomy/ssyk-code-2012": "7531",
+    "taxonomy/preferred-label": "Skräddare och ateljésömmerskor m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Undervisar samt deltar i utvecklingen av grund- och forskarutbildning. Handleder och examinerar studerande inom grundutbildning. Handleder doktorander. Deltar i internt ledningsarbete. Planerar och genomför forskningsverksamhet.",
+    "taxonomy/id": "cYCo_PxY_zQd",
+    "taxonomy/ssyk-code-2012": "2312",
+    "taxonomy/preferred-label": "Universitets- och högskolelektorer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar maskiner som blandar, gjuter, formar, armerar och svetsar plastämnen och plastkompositer till olika produkter och detaljer. Bygger båtskrov m.m. i plast.\r\n\r\nHit hör inte\r\nMontör, gummi- och plastprodukter (8213)\t\r\n",
+    "taxonomy/id": "yPQ4_EaN_Dtj",
+    "taxonomy/ssyk-code-2012": "8142",
+    "taxonomy/preferred-label": "Maskinoperatörer, plastindustri"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ger råd och upplysningar samt besvarar frågor om ett företags eller organisations produkter, tjänster eller policy.\r\n \r\nHit hör inte\r\nTelefonist (4223)\r\nHelpdesktekniker, IT/Supporttekniker, IT (3512)\r\n",
+    "taxonomy/id": "pwRH_MT1_8nR",
+    "taxonomy/ssyk-code-2012": "4222",
+    "taxonomy/preferred-label": "Kundtjänstpersonal"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Undersöker, utreder, diagnostiserar och behandlar människors psykiska funktioner, besvär och sjukdomar. Ger råd och vägledning i konfliktlösning. Ger stöd vid organisationsförändringar, ledarskapsutveckling och personalförsörjning m.m. Utvecklar teorier, modeller och metoder inom psykologi och psykoanalys.\r\n",
+    "taxonomy/id": "VYeq_GDF_a2g",
+    "taxonomy/ssyk-code-2012": "2241",
+    "taxonomy/preferred-label": "Psykologer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bearbetar och analyserar insamlade data om luftströmmar, lufttryck, temperatur, fuktighet, fysiska och kemiska förändringar hos föroreningar och andra fenomen. Förbereder och rapporterar kort- eller långsikta väderprognoser. Gör utredningar om atmosfären och klimatet.\r\n\r\nHit hör inte\r\nMeteorologassistent (3216)\r\nVäderobservatörer (9629)\r\n",
+    "taxonomy/id": "LP8B_auW_wMp",
+    "taxonomy/ssyk-code-2012": "2112",
+    "taxonomy/preferred-label": "Meteorologer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bereder, expedierar, marknadsför och kvalitetskontrollerar läkemedel inom exempelvis apotek, läkemedelsindustri och sjukhus. Ger råd om läkemedel och hälsa.",
+    "taxonomy/id": "XjcN_5LT_bWx",
+    "taxonomy/ssyk-code-2012": "3213",
+    "taxonomy/preferred-label": "Receptarier"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Framför lok, motorvagnar, pendeltåg, tunnelbana och växlingslok i person- och godstrafik.",
+    "taxonomy/id": "UGgc_Vm9_Bog",
+    "taxonomy/ssyk-code-2012": "8311",
+    "taxonomy/preferred-label": "Lokförare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Studerar människors kultur och livsbetingelser med hjälp av fynd och föremål från forntida boplatser, gravar m.m. Leder och organiserar arkeologiska utgrävningar. Studerar och tolkar urkunder, sociala samt rumsliga fenomen. Utvecklar teorier, modeller och metoder, bl.a. för att tolka och beskriva händelser, kulturella och ekonomiska förhållanden. Genomför experiment, analyserar och värderar data. Undersöker sociala strukturer och beteenden hos olika grupper i samhället, föreslår och värderar utfallet av socialpolitiska åtgärder och utvecklar teorier och modeller för politiska system och institutioner.",
+    "taxonomy/id": "sXgV_QFg_vpb",
+    "taxonomy/ssyk-code-2012": "2623",
+    "taxonomy/preferred-label": "Arkeologer och specialister inom humaniora m.m."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Undersöker patienter inom sin specialistkompetens, ställer diagnoser och gör behandlingsplaner. Utför operationer och andra behandlingar, utvecklar teorier och metoder m.m.",
+    "taxonomy/id": "nu7c_QuB_KVQ",
+    "taxonomy/ssyk-code-2012": "2211",
+    "taxonomy/preferred-label": "Specialistläkare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Forskar inom ett ämnesområde. Medverkar i undervisning inom grundutbildning.\r\n\r\nHit hör inte\r\nDoktorand som bedriver sitt forskningsarbete utanför högskolan (ingår i yrke inom respektive inriktning)\r\n",
+    "taxonomy/id": "NNK9_F1o_pK5",
+    "taxonomy/ssyk-code-2012": "2314",
+    "taxonomy/preferred-label": "Doktorander"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Skördar grönsaker, frukt och bär. Röjer, gräver, planterar, rensar, gallrar, stackar m.m., med hjälp av handredskap och handverktyg. Rengör stallar och ladugårdar.",
+    "taxonomy/id": "1EBv_UzM_ozQ",
+    "taxonomy/ssyk-code-2012": "9210",
+    "taxonomy/preferred-label": "Bärplockare och plantörer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Skär till och monterar glas i fönster, dörrar och ramar. Monterar inredningar, tak och fasader av glas. Monterar vindrutor och rutor i olika typer av fordon. Ramar in konst.",
+    "taxonomy/id": "J17g_Q2a_2u1",
+    "taxonomy/ssyk-code-2012": "7124",
+    "taxonomy/preferred-label": "Glastekniker"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Monterar tak- och fasadbeklädnader av plåt. Tillverkar och monterar plåtdetaljer efter ritningar eller egna måttagningar. Utför underhållskontroller av tidigare utförda plåtarbeten på tak och fasader. Installerar ventilationssystem i byggnader. Monterar ventilationskanaler med tillhörande fläktar och aggregat, utför service och reparerar systemen. Kontrollerar till- och frånluftsventilation.",
+    "taxonomy/id": "bXfo_4hb_SXx",
+    "taxonomy/ssyk-code-2012": "7213",
+    "taxonomy/preferred-label": "Byggnads- och ventilationsplåtslagare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Packar, lastar och lossar gods, möbler, maskiner och andra artiklar. Tankar flygplan och hanterar bagage. Fyller på och staplar varor.\n \nHit hör inte\nGodshanterare, truckförare (8344)",
+    "taxonomy/id": "bwnk_nv2_1cR",
+    "taxonomy/ssyk-code-2012": "9332",
+    "taxonomy/preferred-label": "Ramppersonal, flyttkarlar och varupåfyllare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Forskar inom, tillverkar, kontrollerar, marknadsför och säljer läkemedel inom exempelvis apotek, läkemedelsindustri och sjukhus. Informerar allmänheten och vårdpersonal om läkemedlets effekter och användning.\r\n",
+    "taxonomy/id": "TMsM_oNw_j6z",
+    "taxonomy/ssyk-code-2012": "2281",
+    "taxonomy/preferred-label": "Apotekare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Planerar, utreder och handlägger ärenden inom offentlig sektor, företag och organisationer. Utarbetar rapporter, utredningar m.m. Utformar direktiv och förordningar samt utövar tillsyn.",
+    "taxonomy/id": "vPP6_rsw_dck",
+    "taxonomy/ssyk-code-2012": "2422",
+    "taxonomy/preferred-label": "Planerare och utredare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Köper och säljer för kunders räkning valuta, aktier, optioner, obligationer, stadsskuldväxlar och andra värdepapper.",
+    "taxonomy/id": "aQpg_E2T_cWq",
+    "taxonomy/ssyk-code-2012": "3311",
+    "taxonomy/preferred-label": "Mäklare inom finans"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Organiserar för kunders räkning godstransporter och förhandlar om fraktavtal. Upprättar handlingar samt tecknar försäkringar. Beräknar utförselavgifter, tull- och införselavgifter, skatter m.m. Förmedlar lastutrymme i fartyg och andra transportmedel. Utreder reklamations- och skadeärenden. \r\n\r\nHit hör inte\r\nLogistiker (2141)\r\nSpeditionsassistent (4323)\r\nTransportledare (4323)\r\n",
+    "taxonomy/id": "AuTi_FEo_j3R",
+    "taxonomy/ssyk-code-2012": "3331",
+    "taxonomy/preferred-label": "Speditörer och transportmäklare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Förvaltar, köper samt säljer aktier, obligationer och andra värdepapper. Sätter upp finansiella mål och utvecklar strategier för att nå dem. Förvaltar fonder. Övervakar resultat från investeringar, granskar och reviderar investeringsplaner utifrån behov och förändringar på marknaden.\r\n\r\nHit hör inte\r\nMäklare inom finans (3311)\r\n",
+    "taxonomy/id": "Bbkh_nrm_2J8",
+    "taxonomy/ssyk-code-2012": "2414",
+    "taxonomy/preferred-label": "Traders och fondförvaltare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Syr segel, kapell, tält, ryggsäckar, bilklädslar m.m. i textil eller liknande material. Monterar och syr exempelvis paraplyer och lampskärmar. Broderar för hand dekorationer på kläder och andra produkter.",
+    "taxonomy/id": "UZBj_yDX_Ctp",
+    "taxonomy/ssyk-code-2012": "7532",
+    "taxonomy/preferred-label": "Sömmare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Spränger malm från gruva och berg vid anläggningsarbeten.",
+    "taxonomy/id": "sX9n_CWa_KVC",
+    "taxonomy/ssyk-code-2012": "8115",
+    "taxonomy/preferred-label": "Bergsprängare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat specialistarbete inom IT än inom 2511-2516. Exempel på arbetsuppgifter: Planerar och lägger upp strategier för hur informationsteknik eller datateknik ska användas på ett företag eller i en organisation. Forskar inom IT.\r\n",
+    "taxonomy/id": "UxT1_tPF_Kbg",
+    "taxonomy/ssyk-code-2012": "2519",
+    "taxonomy/preferred-label": "Övriga IT-specialister"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar maskiner som krossar, maler, blandar och på andra sätt bearbetar säd, kryddor och liknande råvaror för konsumtion eller djurfoder. Styr och övervakar maskiner och linjer som bereder deg samt formar och bakar bröd, bakverk, pasta, choklad och konfektyr.\n\nHit hör inte\nBagare/Konditor (7612)",
+    "taxonomy/id": "kF59_fge_kts",
+    "taxonomy/ssyk-code-2012": "8163",
+    "taxonomy/preferred-label": "Maskinoperatörer, kvarn-, bageri- och konfektyrindustri"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Portionerar mat, tar emot betalning i kassa samt plockar disk och diskar inom restaurang eller storkök. Förbereder mat, sköljer, skalar och hackar grönsaker. Deltar i enklare matlagning. Ansvarar för frukostservering.",
+    "taxonomy/id": "tPox_ie4_X9X",
+    "taxonomy/ssyk-code-2012": "9412",
+    "taxonomy/preferred-label": "Restaurang- och köksbiträden m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ger information om samhällets olika möjligheter att ge hjälp och stöd till människor i behov av råd, stöd och hjälp. Undersöker olika lösningar för att förbättra hjälpsökandes livssituation.",
+    "taxonomy/id": "dJXy_Rpq_a2u",
+    "taxonomy/ssyk-code-2012": "2662",
+    "taxonomy/preferred-label": "Kuratorer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför löneberedningsrutiner och löpande lönearbete. Hanterar anställningsformer och tillämpning av arbetsrätt och avtal i löneberedning, löneformer och lönedelar. Sammanställer underlag för statistik, pensions- och försäkringsärenden.",
+    "taxonomy/id": "L7eh_ihX_vM5",
+    "taxonomy/ssyk-code-2012": "4112",
+    "taxonomy/preferred-label": "Löne- och personaladministratörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Inspekterar arbetsplatser för att kontrollera att arbetsmiljölagen och gällande föreskrifter följs. Kartlägger och analyserar arbetsmiljö för att garantera och stärka hälsosamma arbetsförhållanden. Mäter hälsorisker och utreder arbetsskador. Informerar om risker samt föreslår och genomför lösningar för att förebygga sjukdom eller skada.",
+    "taxonomy/id": "Uw64_cuc_U3H",
+    "taxonomy/ssyk-code-2012": "2181",
+    "taxonomy/preferred-label": "Arbetsmiljöingenjörer, yrkes- och miljöhygieniker"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Monterar och demonterar byggnadsställningar på byggarbetsplatser.\r\n",
+    "taxonomy/id": "Y4j1_P17_wVA",
+    "taxonomy/ssyk-code-2012": "7116",
+    "taxonomy/preferred-label": "Ställningsbyggare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Analyserar bolagens ekonomi, ekonomiska förutsättningar och framtidsutsikter samt affärsmöjligheter. Utvecklar finans- och investeringsstrategier för kunder. Ger råd till enskilda personer, företag och organisationer inom sparande, investeringar och försäkring samt vid köp och försäljning av värdepapper. Analyserar och utvärderar placeringsalternativ, aktier eller obligationer samt arbetar med portföljförvaltning. Lämnar råd och handlägger skatteärenden, bolagsbildning, köp och försäljning av exempelvis fast egendom. \r\n\r\nHit hör inte\r\nMäklare inom finans (3311)",
+    "taxonomy/id": "pTr9_RBT_9ur",
+    "taxonomy/ssyk-code-2012": "2413",
+    "taxonomy/preferred-label": "Finansanalytiker och investeringsrådgivare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Kör maskiner för grävning, schaktning och lastning av till exempel jord, sten, grus och sand samt för beläggning av asfalt, betong m.m. Sköter och övervakar mudderverk och pålmaskiner. Kör maskiner för gatusopning och snöröjning samt is- och pistmaskiner.",
+    "taxonomy/id": "3ZtN_hhA_SM7",
+    "taxonomy/ssyk-code-2012": "8342",
+    "taxonomy/preferred-label": "Anläggningsmaskinförare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Gör synundersökningar, ordinerar och provar ut glasögon, kontaktlinser och synhjälpmedel. Reparerar glasögon. Säljer glasögon, kontaktlinser och andra synhjälpmedel.",
+    "taxonomy/id": "PUhV_DVQ_MM6",
+    "taxonomy/ssyk-code-2012": "2284",
+    "taxonomy/preferred-label": "Optiker"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utreder individers, familjers och gruppers sociala och ekonomiska problem eller samlevnadsproblem. Kartlägger hjälpbehov och insatser, ger råd och stöd samt utövar tillsyn. Gör utredningar om umgängesrätt vid vårdnadstvist.",
+    "taxonomy/id": "pok1_ipJ_yzD",
+    "taxonomy/ssyk-code-2012": "2661",
+    "taxonomy/preferred-label": "Socialsekreterare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tolkar lagar och avtal. Bereder, föredrar och handlägger ärenden och mål samt bestämmer rättegångsordning. Dömer mål i allmän domstol, förvaltningsdomstol eller specialdomstol. Skriver domar och beslut.\r\n",
+    "taxonomy/id": "qsJJ_EYo_fzA",
+    "taxonomy/ssyk-code-2012": "2612",
+    "taxonomy/preferred-label": "Domare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bedriver havs-, kust- och insjöfiske. Underhåller båtar och redskap.",
+    "taxonomy/id": "Lm3Z_gek_GYc",
+    "taxonomy/ssyk-code-2012": "6222",
+    "taxonomy/preferred-label": "Fiskare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar teorier, modeller och metoder samt utformar praktiska tillämpningar inom kemi. Leder experiment, analyserar och värderar data i laboratoriemiljö. Informerar, ger råd samt utfärdar anvisningar och tillstånd. Utvecklar och provar kemiska produkter och processer. Tar fram dokumentation och handlägger registreringsärenden.\r\n \r\nHit hör inte\r\nApotekare/Farmacevt (2281) \r\nFarmakolog (2133)\r\nKemiingenjör (2145)\r\nLaboratorieingenjör, kemi (3215)\r\nToxikolog (2131)\r\n",
+    "taxonomy/id": "eofS_oZs_RZi",
+    "taxonomy/ssyk-code-2012": "2113",
+    "taxonomy/preferred-label": "Kemister"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Klipper, behandlar och vårdar hår med hjälp av t. ex. sax, klippmaskin och kniv. Utför kemiska behandlingar som permanent, färgning och blekning. Gör håruppsättningar, läggningar och hårförlängningar. Tillverkar och provar ut peruker och tupéer. ",
+    "taxonomy/id": "LyBp_bY6_bZK",
+    "taxonomy/ssyk-code-2012": "5141",
+    "taxonomy/preferred-label": "Frisörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Masserar kroppens mjukdelsvävnader för att motverka spänningar och andra lindriga besvär. Behandlar specifika besvär med hjälp av massageterapeutiska metoder. Ger även behandling i förebyggande syfte.\r\n",
+    "taxonomy/id": "uxHV_KXc_PKD",
+    "taxonomy/ssyk-code-2012": "5143",
+    "taxonomy/preferred-label": "Massörer och massageterapeuter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Ansvarar för och leder dagligt arbete i kök i en restaurang eller på ett fartyg. Skapar rätter samt planerar matsedel och menyer.",
+    "taxonomy/id": "XGyi_i4B_ME7",
+    "taxonomy/ssyk-code-2012": "3451",
+    "taxonomy/preferred-label": "Köksmästare och souschefer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Biträder optiker med kundkontakter och allmän rådgivning om glasögon och kontaktlinser. Genomför efter optikerns ordination teknisk anpassning av glasögon. Lämnar ut och justerar iordningställda glasögon och kontaktlinser samt ger instruktioner om hantering av linserna.\r\n",
+    "taxonomy/id": "AQrL_tTu_Wbg",
+    "taxonomy/ssyk-code-2012": "5224",
+    "taxonomy/preferred-label": "Optikerassistenter"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar metoder och produkter inom gruvteknik och metallurgi. Svarar för produktion och teknisk utveckling vid utvinning av metaller, olja och gas eller vid framställning av metaller, legeringar och metallurgiska produkter. Ansvarar för kvalitets- och produktkontroller.\n\nHit hör inte\nYrken inom gruvteknik och metallurgi med arbetsuppgifter motsvarande ingenjör- eller teknikernivå (3116)",
+    "taxonomy/id": "rwpH_6RA_XTT",
+    "taxonomy/ssyk-code-2012": "2146",
+    "taxonomy/preferred-label": "Civilingenjörsyrken inom gruvteknik och metallurgi"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat arbete inom drift- och processövervakning än inom 8191-8193. Exempel på arbetsuppgifter: Styr och övervakar industrirobotar.",
+    "taxonomy/id": "7Zqy_hSM_Fig",
+    "taxonomy/ssyk-code-2012": "8199",
+    "taxonomy/preferred-label": "Övriga drifttekniker och processövervakare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tolkar lagar och avtal som företrädare för t.ex. myndigheter, kommuner och organisationer. Bevakar ny lagstiftning. Ser till att den lagstiftning som finns på området följs. Skriver föreskrifter och allmänna råd utifrån de lagtexter som finns. Svarar på remisser.",
+    "taxonomy/id": "JfYV_ZGg_6rm",
+    "taxonomy/ssyk-code-2012": "2615",
+    "taxonomy/preferred-label": "Förvaltnings- och organisationsjurister"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Granskar deklarationer, köpebrev och andra dokument för att bestämma skatter m.m. Kontrollerar inbetalningar av bl.a. mervärdesskatt och arbetsgivaravgifter.",
+    "taxonomy/id": "4W6S_1kA_nrv",
+    "taxonomy/ssyk-code-2012": "3352",
+    "taxonomy/preferred-label": "Skattehandläggare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Installerar och programmerar utrustning för ljus, ljud och scenmaskineri. Svarar för och sköter ljussättning. Ansvarar för sceners byggnad, funktion och tekniska utrustning samt underhåll. Planerar och genomför föreställningar med artister inom scenkonsten. Bygger, skiftar och river dekor.",
+    "taxonomy/id": "4BsK_q2C_sCL",
+    "taxonomy/ssyk-code-2012": "3522",
+    "taxonomy/preferred-label": "Ljus-, ljud- och scentekniker"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför experiment, analys- och kontrollarbete vid kemiskt och fysikaliskt industri- eller forskningslaboratorium. Kontrollerar, testar och analyserar råvaror och produkter. Assisterar vid utformning och utförande av experiment. \r\n\r\nHit hör inte\r\nBiomedicinsk analytiker (3212)\r\nCivilingenjörsyrken inom kemi (2145)\r\nIngenjörsyrken inom kemi (3115)\r\nKemitekniker (3115)\r\nLaboratoriebiträde (5349)\r\n",
+    "taxonomy/id": "bExu_8gk_azk",
+    "taxonomy/ssyk-code-2012": "3215",
+    "taxonomy/preferred-label": "Laboratorieingenjörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Sköter och aktiverar barn vid förskola, familjedaghem, förskoleklass och fritidshem.\r\n\r\nHit hör inte\r\nBarnflicka/Barnvakt (9119)\r\nBarnsjuksköterska (2232)\r\nBarnsköterska (5325)",
+    "taxonomy/id": "Hi9c_iTe_gHH",
+    "taxonomy/ssyk-code-2012": "5311",
+    "taxonomy/preferred-label": "Barnskötare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Planerar och organiserar biblioteksverksamhet. Bedömer, köper in och klassificerar böcker, tidskrifter och andra typer av publicerat material. Erbjuder fördjupad litteratur- och informationsförmedling samt vägleder bibliotekets användare i informationssökning. Söker, bearbetar och presenterar information. Samlar in, undersöker, bedömer och ordnar handlingar. Värderar och bedömer vilken information som ska sparas för framtiden.",
+    "taxonomy/id": "wVfo_Njx_1rB",
+    "taxonomy/ssyk-code-2012": "2622",
+    "taxonomy/preferred-label": "Bibliotekarier och arkivarier"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Svetsar och löder samman metalldelar i samband med tillverkning, montering och reparation av metallprodukter. Utför specialiserat svetsningsarbete på röranläggningar. Skär ut detaljer i olika metalliska material och kapar exempelvis grovplåtar, balkar och skrot med skärbrännare eller skärmaskin.\r\n\r\nHit hör inte\r\nSvetsoperatör/Automatsvetsare (7223)",
+    "taxonomy/id": "wQ1E_Bzk_ZyA",
+    "taxonomy/ssyk-code-2012": "7212",
+    "taxonomy/preferred-label": "Svetsare och gasskärare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Arbetar under vatten med anläggningsbyggnader och reparationer av t.ex. broar, hamnar, farleder och kraftverk. Borrar, spränger, bygger formar, armerar, gjuter och utför andra anläggningsarbeten under vatten. Söker och bärgar vrakgods m.m. Inspekterar och gör mindre reparationer på fartyg.\r\n\r\nHit hör inte\r\nDykinstruktör (3422)\r\nRäddningsdykare (5411)\r\n",
+    "taxonomy/id": "DPPw_4wa_AsH",
+    "taxonomy/ssyk-code-2012": "7115",
+    "taxonomy/preferred-label": "Anläggningsdykare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Sköter och övervakar maskiner som binder böcker, broschyrer, tidskrifter m.m. Utför hantverksmässig bokbindning med hjälp av skärmaskiner och pappersklippare.",
+    "taxonomy/id": "mPzg_93F_QEv",
+    "taxonomy/ssyk-code-2012": "7323",
+    "taxonomy/preferred-label": "Bokbindare m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål och strategier för verksamhet inom äldreomsorg. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Svarar för budget samt fördelar resurserna inom verksamheten. Har personalansvar.\r\n",
+    "taxonomy/id": "coyZ_Cyv_Srw",
+    "taxonomy/ssyk-code-2012": "1530",
+    "taxonomy/preferred-label": "Chefer inom äldreomsorg"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Styr och övervakar anläggningar som tillverkar papper, papp m.m. av pappersmassa. Sköter maskiner för efterbehandling av papper eller kartong.",
+    "taxonomy/id": "1G6H_AuG_qyy",
+    "taxonomy/ssyk-code-2012": "8172",
+    "taxonomy/preferred-label": "Processoperatörer, papper"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Medverkar vid rehabilitering och omhändertagande av arbetsrelaterade sjukdomar inom företagshälsovården. Förebygger sjukdomar och arbetsskador.\r\n",
+    "taxonomy/id": "6Fu3_qQA_9DK",
+    "taxonomy/ssyk-code-2012": "2234",
+    "taxonomy/preferred-label": "Företagssköterskor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tar emot, checkar in och checkar ut gäster på hotell, konferensanläggning, vandrarhem eller campingplats m.m. Informerar om bl.a. anläggningens service samt sevärdheter och nöjesevenemang. Gör i ordning konferenslokaler och ansvarar för att den tekniska utrustningen fungerar och att förtäring serveras enligt beställningen.",
+    "taxonomy/id": "bYde_Frc_xcB",
+    "taxonomy/ssyk-code-2012": "4224",
+    "taxonomy/preferred-label": "Hotellreceptionister m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat undervisningsarbete inom högskola och universitet än inom 2311-2314. Exempel på arbetsuppgifter: Undervisar, handleder samt examinerar inom grundutbildningen. Deltar i utvecklingen av utbildningen inom området.\r\n",
+    "taxonomy/id": "RPBE_x5M_cXX",
+    "taxonomy/ssyk-code-2012": "2319",
+    "taxonomy/preferred-label": "Övriga universitets- och högskolelärare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Kontrollerar att produkter och verksamhet uppfyller kvalitets- och säkerhetskrav. Analyserar risker i produktion. Besiktigar fordon, fartyg och luftfartyg. Svarar för tillsyn av trafik- och flygskolor. Utfärdar föreskrifter och certifikat. Verkar för att farligt gods transporteras på ett säkert sätt.",
+    "taxonomy/id": "nuXg_Wjc_JPd",
+    "taxonomy/ssyk-code-2012": "3354",
+    "taxonomy/preferred-label": "Säkerhetsinspektörer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Släcker bränder och gör räddningsinsatser vid exempelvis trafikolyckor. Förebygger, hindrar och begränsar skador på människor, egendom eller i miljön vid olyckshändelser. Bearbetar skador när olja, farliga kemikalier och andra skadliga ämnen läckt ut. Informerar om brandskydd.",
+    "taxonomy/id": "ug5y_o6z_U3L",
+    "taxonomy/ssyk-code-2012": "5411",
+    "taxonomy/preferred-label": "Brandmän"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Installerar och reparerar data- och telenät samt larm och signalsystem. Installerar, reparerar och utför service på hemelektronik.\n\nHit hör inte\nDistributionselektriker (7413)\nIndustrielektriker (7412)\nInstallationselektriker (7411)",
+    "taxonomy/id": "fWrt_sLg_koW",
+    "taxonomy/ssyk-code-2012": "7420",
+    "taxonomy/preferred-label": "Elektronikreparatörer och kommunikationselektriker m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Leder det diakonala arbetet. Håller stödjande samtal med ungdomar och äldre. Gör hembesök hos äldre och sjuka. Leder och organiserar de som arbetar frivilligt inom kyrka och församling. Bygger nätverk med andra institutioner som polis och socialtjänst. Assisterar prästen i gudstjänst vid nattvard eller förbön.",
+    "taxonomy/id": "wzeq_No2_LF1",
+    "taxonomy/ssyk-code-2012": "2672",
+    "taxonomy/preferred-label": "Diakoner"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formulerar och ansvarar för mål för strategisk planering och policy inom förvaltnings- och planeringsverksamhet inom organisation eller företag. Utformar riktlinjer, följer upp och utvärderar verksamheten mot uppsatta mål. Har personalansvar.",
+    "taxonomy/id": "X1Ac_Y9P_PJo",
+    "taxonomy/ssyk-code-2012": "1230",
+    "taxonomy/preferred-label": "Förvaltnings- och planeringschefer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Planerar och organiserar verksamhet på museer och konstgallerier samt ordnar utställningar och visar samlingar. Samlar in, undersöker, bedömer, klassificerar och dokumenterar miljöer eller föremål av kulturhistoriskt värde. Vårdar, förmedlar kunskap och ger råd om föremål.",
+    "taxonomy/id": "Qbvf_6nd_Esn",
+    "taxonomy/ssyk-code-2012": "2621",
+    "taxonomy/preferred-label": "Museiintendenter m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Översätter text eller tal från ett språk till ett annat. Språkgranskar texter. Utarbetar lexikon. Utvecklar teorier och modeller om språks uppbyggnad och egenskaper. Undersöker och beskriver ett språks ursprung och utvecklingen av dess ordförråd, grammatik och syntax.",
+    "taxonomy/id": "PQDm_Z63_zst",
+    "taxonomy/ssyk-code-2012": "2643",
+    "taxonomy/preferred-label": "Översättare, tolkar och lingvister m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar teorier, modeller, begrepp och metoder samt tillämpar vetenskaplig kunskap inom geologi, geofysik, hydrologi m.m. Undersöker och kartlägger berggrunden, de lösa jordlagren och grundvattnet. Undersöker, beräknar och forskar kring vattenföring, vattenstånd, isförhållanden, vågor m.m. \r\n\r\nHit hör inte:\r\nGeologassistent (3215)\r\nGeotekniker (2146)\r\n",
+    "taxonomy/id": "V7Yz_4WV_g4z",
+    "taxonomy/ssyk-code-2012": "2114",
+    "taxonomy/preferred-label": "Geologer och geofysiker m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Planerar, utvecklar, dokumenterar och genomför tester på olika nivåer, från enskilda programvaror till hela system. Verifierar att program och system fungerar enligt användarkrav, fastställda riktlinjer och regelverk.",
+    "taxonomy/id": "D9SL_mtn_vGM",
+    "taxonomy/ssyk-code-2012": "2514",
+    "taxonomy/preferred-label": "Systemtestare och testledare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Marknadsför, säljer och informerar om tjänster och produkter på exempelvis mässor, köpcentra och butiker. Visar kläder för återförsäljare, press och allmänhet på modevisningar. Poserar för exempelvis reklambilder eller tidningsreportage. Poserar för målare, skulptörer och konstskolor.",
+    "taxonomy/id": "NCeZ_rSk_B4D",
+    "taxonomy/ssyk-code-2012": "5241",
+    "taxonomy/preferred-label": "Eventsäljare och butiksdemonstratörer m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utvecklar och tillämpar statistiska teorier, modeller och metoder. Planerar, utvecklar, bearbetar, framställer, analyserar och presenterar statistiska undersökningar. Gör prognoser. Bearbetar administrativa uppgifter till statistik.\r\n",
+    "taxonomy/id": "jv1x_tpK_32p",
+    "taxonomy/ssyk-code-2012": "2122",
+    "taxonomy/preferred-label": "Statistiker"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat specialistarbete inom hälso- och sjukvård än inom 2241-2284. Exempel på arbetsuppgifter: Behandlar, rehabiliterar och arbetar förebyggande med hjälp av bild-, dans- och musikterapi. Diagnostiserar och behandlar sjukdomstillstånd och skador i fot och vrist.",
+    "taxonomy/id": "vTgW_pnr_QMp",
+    "taxonomy/ssyk-code-2012": "2289",
+    "taxonomy/preferred-label": "Övriga specialister inom hälso- och sjukvård"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat process- och maskinoperatörsarbete. Exempel på arbetsuppgifter: Styr och övervakar ugnar och andra anläggningar för tillverkning av glasmassa, glasprodukter, linser samt keramiska produkter som t.ex. kakel, keramik och tegel.",
+    "taxonomy/id": "hxm6_xkr_dHm",
+    "taxonomy/ssyk-code-2012": "8189",
+    "taxonomy/preferred-label": "Övriga process- och maskinoperatörer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Bedriver trädgårdsodling. Odlar och skördar köksväxter i växthus samt plantskoleväxter, prydnadsväxter och svamp. Sår, förökar, planterar, gallrar och beskär trädgårdsväxter. Bearbetar jorden, gödslar och rensar ogräs.",
+    "taxonomy/id": "2xQ4_4kh_kTZ",
+    "taxonomy/ssyk-code-2012": "6112",
+    "taxonomy/preferred-label": "Trädgårdsodlare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Formar järn eller stål med hjälp av hammare eller press inom verkstads- och byggnadssmide, stålverk och plåtslagerier. Tillverkar konstruktions-, inrednings- och utsmyckningsdetaljer i samband med byggnation eller renoveringsarbeten.",
+    "taxonomy/id": "q8Ho_3Xw_sHq",
+    "taxonomy/ssyk-code-2012": "7221",
+    "taxonomy/preferred-label": "Smeder"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Lagar, lägger upp och garnerar mat inom hotell- och restaurangnäringen, inom storkök, provkök, på ett fartyg eller i en butik.",
+    "taxonomy/id": "BStc_SJh_DKG",
+    "taxonomy/ssyk-code-2012": "5120",
+    "taxonomy/preferred-label": "Kockar och kallskänkor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tar fram strategier för utveckling av IT-system. Ansvarar för företags och organisationers IT-struktur och ser till att IT används på ett effektivt sätt. Ansvarar för att den tekniska arkitekturen understödjer verksamhetens behov och krav.",
+    "taxonomy/id": "UXKZ_3zZ_ipB",
+    "taxonomy/ssyk-code-2012": "2511",
+    "taxonomy/preferred-label": "Systemanalytiker och IT-arkitekter m.fl."
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Utför annat ekonomiskt specialistarbete än inom 2411-2415. Exempel på arbetsuppgifter: Budget- och skuldrådgivning, fastighetsvärdering m.m.\r\n\r\nHit hör inte\r\nFastighetsmäklare (3334)\r\n",
+    "taxonomy/id": "Y6yY_SuR_hVh",
+    "taxonomy/ssyk-code-2012": "2419",
+    "taxonomy/preferred-label": "Övriga ekonomer"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tolkar lagar och avtal. Förbereder processer och företräder part vid tvist och förhandling. För parts talan i domstol. Ger råd och upprättar juridiska handlingar.",
+    "taxonomy/id": "q8wL_kdi_WaW",
+    "taxonomy/ssyk-code-2012": "2611",
+    "taxonomy/preferred-label": "Advokater"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Använder truck eller liknande fordon som transporterar, lyfter, lastar, lossar och staplar gods.\r\n\r\nHit hör inte\r\nHamnarbetare/Stuveriarbetare (9331)\r\nLagerarbetare (4322)\r\nTeleskoptruckförare, anläggning (8342)\r\nTerminalarbetare (4322)\r\n",
+    "taxonomy/id": "MrcX_RDn_N53",
+    "taxonomy/ssyk-code-2012": "8344",
+    "taxonomy/preferred-label": "Truckförare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Undersöker patienter, ställer diagnoser och gör behandlingsplaner. Utför operationer och andra behandlingar, utvecklar teorier och metoder m.m.\r\n",
+    "taxonomy/id": "gXqW_s5Q_ZjN",
+    "taxonomy/ssyk-code-2012": "2219",
+    "taxonomy/preferred-label": "Övriga läkare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Sätter i seriemässig tillverkning samman el- och teleutrustning genom att t.ex. skruva, löda och svetsa.\r\n\r\nHit hör inte\r\nElektromekaniker (7412)\r\nElektronikmontör (7420)\r\nInstallationselektriker (7411)\r\nLinjemontör, elkraft (7413)",
+    "taxonomy/id": "SgAJ_DW2_FN5",
+    "taxonomy/ssyk-code-2012": "8212",
+    "taxonomy/preferred-label": "Montörer, elektrisk och elektronisk utrustning"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Samordnar och leder arbetet i en operationssal och ansvarar för omvårdnad av patienter. Ställer i ordning och kontrollerar medicinteknisk apparatur och utrustning samt ansvarar för hygien och aseptik.",
+    "taxonomy/id": "cuaN_Rj5_YCc",
+    "taxonomy/ssyk-code-2012": "2231",
+    "taxonomy/preferred-label": "Operationssjuksköterskor"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Samordnar och övervakar person- och godstrafik vid t.ex. lokaltrafikföretag, åkerier, godsterminal, grosshandel och industriföretag. Utarbetar och justerar transportscheman. Ansvarar för tågtrafik inom ett geografiskt område samt dirigerar tågtrafik enligt säkerhetsbestämmelser och tidtabell. Lägger växlar och ställer signaler med hjälp av ställverk. Övervakar trafik på flygplatser samt registrerar starter och landningar. Beräknar ankomsttider och svarar för behandling av gods vid flygterminal. Anvisar kajplats åt fartyg och tillhandahåller utrustning.\r\n \r\nHit hör inte\r\nLogistiker (2141)\r\nSpeditör (3331)\r\nTrafikinformatör (4222)\r\n",
+    "taxonomy/id": "957L_kZK_rHZ",
+    "taxonomy/ssyk-code-2012": "4323",
+    "taxonomy/preferred-label": "Transportledare och transportsamordnare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Gjuter föremål i olika material på hantverksmässigt sätt. Tillverkar gjutformar och gjutkärnor.\r\n\r\nHit hör inte\r\nMaskinformare, gjuteri (8129)\r\nMaskinkärnmakare (8129)\r\n",
+    "taxonomy/id": "J9Vz_JxJ_Bji",
+    "taxonomy/ssyk-code-2012": "7211",
+    "taxonomy/preferred-label": "Gjutare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Förebygger, diagnostiserar och behandlar sjukdomar och skador i munhåla och käksystem. Undersöker och följer upp utveckling och tillväxt av tänder och käkar. Lägger upp preventions- och behandlingsplaner, lagar tänder, behandlar tandställningsfel samt utför tandoperationer. Informerar, ger råd och utfärdar anvisningar om egenbehandling och preventiv tandvård. Utvecklar teorier och metoder inom tandläkarvetenskapen.",
+    "taxonomy/id": "HPxT_fQJ_zwT",
+    "taxonomy/ssyk-code-2012": "2260",
+    "taxonomy/preferred-label": "Tandläkare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Tränar och tävlar inom olika idrottsgrenar och idrottsevenemang, som medlemmar i lag eller individuellt.",
+    "taxonomy/id": "AwXA_EM4_71n",
+    "taxonomy/ssyk-code-2012": "3421",
+    "taxonomy/preferred-label": "Professionella idrottsutövare"
+  },
+  {
+    "taxonomy/type": "ssyk-level-4",
+    "taxonomy/definition": "Planerar, leder och organiserar friskvårdsinsatser. Utreder behovet av friskvård samt utformar policy och planer för hälsofrämjande insatser i företag och organisationer.",
+    "taxonomy/id": "FpPP_jqK_xzT",
+    "taxonomy/ssyk-code-2012": "3424",
+    "taxonomy/preferred-label": "Friskvårdskonsulenter och hälsopedagoger m.fl."
+  }
+]

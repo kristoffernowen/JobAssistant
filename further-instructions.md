@@ -92,3 +92,8 @@ Sammanfattning - Allt genomfört enligt planen:
     🎯 Uppdaterade endpoints:
     • /ads - returnerar nya fält
     • /ads/filter?location=X&occupationField=Y&numberOfAds=10 - filtrerar på occupationField istället för category
+
+### Använd Job search api
+
+Jag ser att det finns flera olika apier jag kan använda från Arbetsförmedlingen. Lägg till en endpoint som anropar Job Search API på https://jobsearch.api.jobtechdev.se/. Använd parametrar
+published-after format YYYY-mm-ddTHH:MM:SS, occupation-group array[string], municipality array[string].
