@@ -37,6 +37,7 @@ var ads = app.MapGroup("/ads");
 ads.MapGetAdsByFilter();
 ads.MapGetAds();
 ads.MapSearchAds();
+ads.MapSearchAdsSessions();
 
 app.Run();
 

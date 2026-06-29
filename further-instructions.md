@@ -97,3 +97,36 @@ Sammanfattning - Allt genomfört enligt planen:
 
 Jag ser att det finns flera olika apier jag kan använda från Arbetsförmedlingen. Lägg till en endpoint som anropar Job Search API på https://jobsearch.api.jobtechdev.se/. Använd parametrar
 published-after format YYYY-mm-ddTHH:MM:SS, occupation-group array[string], municipality array[string].
+
+Bygg enligt job-search-api-suggestions.md
+
+### Continue with option B (2026-06-29)
+
+Mål:
+
+- Behåll GET /ads/search för stateless sökning.
+- Lägg till sessionsflöde med explicit sessionId.
+
+Implementerat:
+
+1. POST /ads/sessions/search
+   - Tar sökparametrar (publishedAfter obligatorisk, publishedBefore optional, municipality/occupationGroup där minst en krävs, keyword optional, maxLimit optional).
+   - Hämtar data från AF JobSearch.
+   - Sparar resultat i in-memory session.
+   - Returnerar sessionId, expiresAtUtc, ads och messages.
+
+2. POST /ads/sessions/{sessionId}/refine
+   - Tar filterobjekt (initialt keyword + maxLimit).
+   - Kör filter mot sparade session-data (ingen ny AF-call).
+   - Returnerar sessionId, expiresAtUtc, ads och messages.
+
+Beslut och regler:
+
+- Session identifieras med servergenererat sessionId (inte "latest active").
+- In-memory session med sliding expiration.
+- Sliding expiration betyder att sessionens utgångstid flyttas fram varje gång sessionen används.
+  Exempel: 20 min sliding expiration ger ny utgångstid +20 min vid varje refine-anrop.
+- Hårt maxtak för sessionsflödet: 50 annonser.
+- Om fler än 50 träffar finns klipps listan och messages innehåller information om att maxgräns aktiverats.
+- maxLimit i request är optional, men sessionsflödet returnerar aldrig mer än 50.
+- 404 vid saknad/utgången session.

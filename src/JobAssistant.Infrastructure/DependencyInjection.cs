@@ -19,8 +19,11 @@ public static class DependencyInjection
         services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(connectionString));
 
+        services.AddMemoryCache();
+
         services.AddSingleton<ILocationConceptMapper, VastmanlandLocationConceptMapper>();
         services.AddSingleton<ITaxonomyConceptValidator, FileBasedTaxonomyConceptValidator>();
+        services.AddSingleton<ISearchAdsSessionStore, InMemorySearchAdsSessionStore>();
 
         services.AddHttpClient<IJobSearchClient, JobSearchClient>(client =>
         {

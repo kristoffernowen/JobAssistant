@@ -241,3 +241,14 @@ keyword-match görs case-insensitive substring på description.text.
 10. DI och nya kontrakt kopplade i API/Application/Infrastructure.
 11. Tester tillagda för /ads/search (validering, tom lista, keyword-filter och fältmappning).
 12. Verifierat lokalt med dotnet test: alla tester gröna.
+
+## Continue with option B
+
+POST create/search-session returnerar sessionId + expiresAt.
+POST refine tar sessionId + filterobjekt.
+TTL på session (t.ex. 20 min), gärna sliding expiration.
+404 eller 410 om session saknas/har gått ut.
+
+FilterObject
+MustContain: string?
+MustNotContain: string?
