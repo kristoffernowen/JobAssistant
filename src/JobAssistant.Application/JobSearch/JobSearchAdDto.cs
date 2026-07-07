@@ -1,3 +1,4 @@
+using System.Text.Json;
 using System.Text.Json.Serialization;
 
 namespace JobAssistant.Application.JobSearch;
@@ -27,6 +28,15 @@ public sealed class JobSearchAdDto
 
     [JsonPropertyName("occupation_group")]
     public JobSearchOccupationGroupDto? OccupationGroup { get; set; }
+
+    [JsonPropertyName("occupation")]
+    public JsonElement Occupation { get; set; }
+
+    [JsonPropertyName("must_have")]
+    public JsonElement MustHave { get; set; }
+
+    [JsonPropertyName("nice_to_have")]
+    public JsonElement NiceToHave { get; set; }
 }
 
 public sealed class JobSearchDescriptionDto

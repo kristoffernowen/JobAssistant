@@ -130,3 +130,67 @@ Beslut och regler:
 - Om fler än 50 träffar finns klipps listan och messages innehåller information om att maxgräns aktiverats.
 - maxLimit i request är optional, men sessionsflödet returnerar aldrig mer än 50.
 - 404 vid saknad/utgången session.
+
+### Develop refine filter 2026-07-07
+
+Uppdatera sessions refine RefineSearchAdsSessionRequest.
+Låt den innehålla
+
+- List<string> MustContain
+- List<string> MustNotContain
+
+Bygg en handler, valfritt namn, utanför själva endpoint men i SearchAds mappen, som sköter att filtrera sessions listan på annonser, utifrån filtret i RefineSearchAdsSessionRequest. Returnera sedan resultatet i endpointen som nu.
+
+MustContain kräver att alla ord finns. Annars ska annonsen exkluderas.
+MustNotContain kräver att inget av orden får finnas. Alltså, finns ett av ord så ska annonsen exkluderas.
+Använd som sökfält:
+
+- headline
+- description
+- occupation
+- must_have
+- nice_to_have
+  Sök underliggande objekt också.
+  Ignorera tomma söktermer och trimma whitespace i början och slutet på varje sökterm.
+  Matchning görs som skiftlägesokänslig substring.
+  Null eller tomma annonsfält räknas som ingen text i just det fältet.
+  En sökterm är en träff om den finns i minst ett av de genomsökta fälten.
+
+Klart, jag har byggt enligt instruktionerna från 2026-07-07.
+
+Genomfört:
+
+Uppdaterat refine-request till de nya fälten:
+SearchAdsSessionsContracts.cs
+RefineSearchAdsSessionRequest innehåller nu MustContain och MustNotContain.
+Lagt till separat handler i SearchAds-mappen för refine-filtrering:
+SearchAdsSessionRefineHandler.cs
+Regler som implementerats:
+MustContain: alla termer måste finnas (AND).
+MustNotContain: ingen term får finnas.
+Matchning: skiftlägesokänslig substring.
+Tomma listor: ingen extra filtrering.
+Tomma söktermer ignoreras, whitespace trimmas.
+Null/empty fält i annons räknas som icke-träff i det fältet.
+Sökning görs i:
+headline
+description.text
+occupation (inklusive underliggande objekt)
+must_have (inklusive underliggande objekt)
+nice_to_have (inklusive underliggande objekt)
+Kopplat endpointen till nya handlern:
+SearchAdsSessionsEndpoint.cs
+/ads/sessions/{sessionId}/refine använder nu nya filterflödet.
+Utökat DTO för att kunna söka i underliggande objekt:
+JobSearchAdDto.cs
+Lade till occupation, must_have och nice_to_have som JsonElement.
+Uppdaterat och utökat tester för nya refine-regler:
+SearchAdsSessionsEndpointTests.cs
+Verifiering:
+
+dotnet test tests/JobAssistant.Api.Tests/JobAssistant.Api.Tests.csproj passerar.
+dotnet test (hela lösningen) passerar.
+Totalt: 17 tester gröna, 0 fel.
+
+Också: Lägg till antal annonsträffar i messages i response och flytta messages
+före ads.

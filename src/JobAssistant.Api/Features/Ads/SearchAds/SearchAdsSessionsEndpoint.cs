@@ -49,14 +49,14 @@ public static class SearchAdsSessionsEndpoint
 
                 var wasHardCapped = filteredAds.Count > SearchAdsCommon.SessionHardCap;
                 var session = sessionStore.CreateSession(cappedAds, wasHardCapped);
-
-                var messages = BuildMessages(session.WasHardCapped, request.MaxLimit);
+                var ads = SearchAdsCommon.MapToSearchItems(session.Ads);
+                var messages = BuildMessages(session.WasHardCapped, request.MaxLimit, ads.Count);
 
                 return Results.Ok(new SearchAdsSessionResponse(
                     session.SessionId,
                     session.ExpiresAtUtc,
-                    SearchAdsCommon.MapToSearchItems(session.Ads),
-                    messages));
+                    messages,
+                    ads));
             })
             .WithName("CreateSearchAdsSession")
             .WithSummary("Create an in-memory search session from AF JobSearch results.");
@@ -78,31 +78,21 @@ public static class SearchAdsSessionsEndpoint
                         });
                 }
 
-                if (request.MaxLimit is <= 0)
-                {
-                    throw new ValidationException(
-                        "Validation failed.",
-                        new Dictionary<string, string[]>
-                        {
-                            ["maxLimit"] = ["MaxLimit must be greater than zero."]
-                        });
-                }
-
                 var session = sessionStore.GetSession(sessionId);
-                var requestedLimit = request.MaxLimit ?? SearchAdsCommon.SessionHardCap;
-                var effectiveLimit = Math.Min(requestedLimit, SearchAdsCommon.SessionHardCap);
-
-                var refinedAds = SearchAdsCommon.ApplyKeywordFilter(session.Ads, request.Keyword)
-                    .Take(effectiveLimit)
+                var refinedAds = SearchAdsSessionRefineHandler.Apply(session.Ads, request)
+                    .Take(SearchAdsCommon.SessionHardCap)
                     .ToList();
 
-                var messages = BuildMessages(session.WasHardCapped, request.MaxLimit);
+                var wasHardCappedInRefine = session.WasHardCapped
+                    && refinedAds.Count == SearchAdsCommon.SessionHardCap;
+                var ads = SearchAdsCommon.MapToSearchItems(refinedAds);
+                var messages = BuildMessages(wasHardCappedInRefine, requestedMaxLimit: null, ads.Count);
 
                 return Results.Ok(new SearchAdsSessionResponse(
                     session.SessionId,
                     session.ExpiresAtUtc,
-                    SearchAdsCommon.MapToSearchItems(refinedAds),
-                    messages));
+                    messages,
+                    ads));
             })
             .WithName("RefineSearchAdsSession")
             .WithSummary("Refine a previously created in-memory search session.");
@@ -110,9 +100,12 @@ public static class SearchAdsSessionsEndpoint
         return group;
     }
 
-    private static List<string> BuildMessages(bool wasHardCapped, int? requestedMaxLimit)
+    private static List<string> BuildMessages(bool wasHardCapped, int? requestedMaxLimit, int hitCount)
     {
-        var messages = new List<string>();
+        var messages = new List<string>
+        {
+            $"Träffar: {hitCount} annonser."
+        };
 
         if (wasHardCapped)
         {

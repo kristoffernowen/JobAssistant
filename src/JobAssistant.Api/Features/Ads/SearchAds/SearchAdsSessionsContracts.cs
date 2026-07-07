@@ -9,11 +9,11 @@ public sealed record CreateSearchAdsSessionRequest(
     int? MaxLimit);
 
 public sealed record RefineSearchAdsSessionRequest(
-    string? Keyword,
-    int? MaxLimit);
+    List<string>? MustContain,
+    List<string>? MustNotContain);
 
 public sealed record SearchAdsSessionResponse(
     string SessionId,
     DateTime ExpiresAtUtc,
-    List<SearchAdItem> Ads,
-    List<string> Messages);
+    List<string> Messages,
+    List<SearchAdItem> Ads);
