@@ -1,0 +1,44 @@
+using JobAssistant.Api.ErrorHandling;
+using JobAssistant.Api.Features.Ads.GetAds;
+using JobAssistant.Api.Features.Ads.GetAdsByFilter;
+using JobAssistant.Api.Features.Ads.LoadJobStreamAds;
+using JobAssistant.Api.Features.Ads.SearchAds;
+using JobAssistant.Api.Features.Users.AddSkillsOnUser;
+using JobAssistant.Api.Features.Users.CreateUser;
+using JobAssistant.Infrastructure;
+
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddOpenApi();
+builder.Services.AddProblemDetails();
+builder.Services.AddExceptionHandler<ApiExceptionHandler>();
+builder.Services.AddInfrastructure(builder.Configuration);
+
+var app = builder.Build();
+
+if (app.Environment.IsDevelopment())
+{
+    app.MapOpenApi();
+}
+
+app.UseExceptionHandler();
+app.UseHttpsRedirection();
+
+app.MapGet("/health", () => Results.Ok(new { status = "ok" }));
+
+var users = app.MapGroup("/users");
+users.MapCreateUser();
+users.MapAddSkillsOnUser();
+
+var jobStreamAds = app.MapGroup("/jobstream-ads");
+jobStreamAds.MapLoadJobStreamAds();
+
+var ads = app.MapGroup("/ads");
+ads.MapGetAdsByFilter();
+ads.MapGetAds();
+ads.MapSearchAds();
+ads.MapSearchAdsSessions();
+
+app.Run();
+
+public partial class Program;

@@ -1,0 +1,2032 @@
+[
+  {
+    "taxonomy/lau-2-code-2015": "0880",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Kalmar",
+    "taxonomy/id": "Pnmg_SgP_uHQ",
+    "taxonomy/preferred-label": "Kalmar"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0662",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Gislaved",
+    "taxonomy/id": "cNQx_Yqi_83Q",
+    "taxonomy/preferred-label": "Gislaved"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0765",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Älmhult",
+    "taxonomy/id": "EK6X_wZq_CQ8",
+    "taxonomy/preferred-label": "Älmhult"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1480",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Göteborg",
+    "taxonomy/id": "PVZL_BQT_XtL",
+    "taxonomy/preferred-label": "Göteborg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1283",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Helsingborg",
+    "taxonomy/id": "qj3q_oXH_MGR",
+    "taxonomy/preferred-label": "Helsingborg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1444",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Grästorp",
+    "taxonomy/id": "ZNZy_Hh5_gSW",
+    "taxonomy/preferred-label": "Grästorp"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2181",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Sandviken",
+    "taxonomy/id": "BbdN_xLB_k6s",
+    "taxonomy/preferred-label": "Sandviken"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0163",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Sollentuna",
+    "taxonomy/id": "Z5Cq_SgB_dsB",
+    "taxonomy/preferred-label": "Sollentuna"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1261",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Kävlinge",
+    "taxonomy/id": "5ohg_WJU_Ktn",
+    "taxonomy/preferred-label": "Kävlinge"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1315",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Hylte",
+    "taxonomy/id": "3XMe_nGt_RcU",
+    "taxonomy/preferred-label": "Hylte"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1214",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Svalöv",
+    "taxonomy/id": "2r6J_g2w_qp5",
+    "taxonomy/preferred-label": "Svalöv"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1270",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Tomelilla",
+    "taxonomy/id": "UMev_wGs_9bg",
+    "taxonomy/preferred-label": "Tomelilla"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0780",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Växjö",
+    "taxonomy/id": "mmot_H3A_auW",
+    "taxonomy/preferred-label": "Växjö"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1487",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Vänersborg",
+    "taxonomy/id": "THif_q6H_MjG",
+    "taxonomy/preferred-label": "Vänersborg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1282",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Landskrona",
+    "taxonomy/id": "Yt5s_Vf9_rds",
+    "taxonomy/preferred-label": "Landskrona"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2510",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Jokkmokk",
+    "taxonomy/id": "mp6j_2b6_1bz",
+    "taxonomy/preferred-label": "Jokkmokk"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1486",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Strömstad",
+    "taxonomy/id": "PAxT_FLT_3Kq",
+    "taxonomy/preferred-label": "Strömstad"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0126",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Huddinge",
+    "taxonomy/id": "g1Gc_aXK_EKu",
+    "taxonomy/preferred-label": "Huddinge"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1860",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Laxå",
+    "taxonomy/id": "oYEQ_m8Q_unY",
+    "taxonomy/preferred-label": "Laxå"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1442",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Vårgårda",
+    "taxonomy/id": "NfFx_5jj_ogg",
+    "taxonomy/preferred-label": "Vårgårda"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1082",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Karlshamn",
+    "taxonomy/id": "HtGW_WgR_dpE",
+    "taxonomy/preferred-label": "Karlshamn"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1907",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Surahammar",
+    "taxonomy/id": "jfD3_Hdg_UhT",
+    "taxonomy/preferred-label": "Surahammar"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1783",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Hagfors",
+    "taxonomy/id": "qk9a_g5U_sAH",
+    "taxonomy/preferred-label": "Hagfors"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1765",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Årjäng",
+    "taxonomy/id": "ymBu_aFc_QJA",
+    "taxonomy/preferred-label": "Årjäng"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0482",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Flen",
+    "taxonomy/id": "P8yp_WT9_Bks",
+    "taxonomy/preferred-label": "Flen"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0767",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Markaryd",
+    "taxonomy/id": "ZhVf_yL5_Q5g",
+    "taxonomy/preferred-label": "Markaryd"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1766",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Sunne",
+    "taxonomy/id": "oqNH_cnJ_Tdi",
+    "taxonomy/preferred-label": "Sunne"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1438",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Dals-Ed",
+    "taxonomy/id": "NMc9_oEm_yxy",
+    "taxonomy/preferred-label": "Dals-Ed"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0428",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Vingåker",
+    "taxonomy/id": "rut9_f5W_kTX",
+    "taxonomy/preferred-label": "Vingåker"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2062",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Mora",
+    "taxonomy/id": "UGcC_kYx_fTs",
+    "taxonomy/preferred-label": "Mora"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0160",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Täby",
+    "taxonomy/id": "onpA_B5a_zfv",
+    "taxonomy/preferred-label": "Täby"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2182",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Söderhamn",
+    "taxonomy/id": "JauG_nz5_7mu",
+    "taxonomy/preferred-label": "Söderhamn"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1273",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Osby",
+    "taxonomy/id": "najS_Lvy_mDD",
+    "taxonomy/preferred-label": "Osby"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0125",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ekerö",
+    "taxonomy/id": "magF_Gon_YL2",
+    "taxonomy/preferred-label": "Ekerö"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0685",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Vetlanda",
+    "taxonomy/id": "xJqx_SLC_415",
+    "taxonomy/preferred-label": "Vetlanda"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0882",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Oskarshamn",
+    "taxonomy/id": "tUP8_hRE_NcF",
+    "taxonomy/preferred-label": "Oskarshamn"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1263",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Svedala",
+    "taxonomy/id": "n6r4_fjK_kRr",
+    "taxonomy/preferred-label": "Svedala"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1861",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Hallsberg",
+    "taxonomy/id": "Ak9V_rby_yYS",
+    "taxonomy/preferred-label": "Hallsberg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0319",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Älvkarleby",
+    "taxonomy/id": "cbyw_9aK_Cni",
+    "taxonomy/preferred-label": "Älvkarleby"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1490",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Borås",
+    "taxonomy/id": "TpRZ_bFL_jhL",
+    "taxonomy/preferred-label": "Borås"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0481",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Oxelösund",
+    "taxonomy/id": "72XK_mUU_CAH",
+    "taxonomy/preferred-label": "Oxelösund"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0581",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Norrköping",
+    "taxonomy/id": "SYty_Yho_JAF",
+    "taxonomy/preferred-label": "Norrköping"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1284",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Höganäs",
+    "taxonomy/id": "8QQ6_e95_a1d",
+    "taxonomy/preferred-label": "Höganäs"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0821",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Högsby",
+    "taxonomy/id": "WPDh_pMr_RLZ",
+    "taxonomy/preferred-label": "Högsby"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0360",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Tierp",
+    "taxonomy/id": "K8A2_JBa_e6e",
+    "taxonomy/preferred-label": "Tierp"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1730",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Eda",
+    "taxonomy/id": "N5HQ_hfp_7Rm",
+    "taxonomy/preferred-label": "Eda"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0186",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Lidingö",
+    "taxonomy/id": "FBbF_mda_TYD",
+    "taxonomy/preferred-label": "Lidingö"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1383",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Varberg",
+    "taxonomy/id": "AkUx_yAq_kGr",
+    "taxonomy/preferred-label": "Varberg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1862",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Degerfors",
+    "taxonomy/id": "pvzC_muj_rcq",
+    "taxonomy/preferred-label": "Degerfors"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1981",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Sala",
+    "taxonomy/id": "dAen_yTK_tqz",
+    "taxonomy/preferred-label": "Sala"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2421",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Storuman",
+    "taxonomy/id": "gQgT_BAk_fMu",
+    "taxonomy/preferred-label": "Storuman"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1380",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Halmstad",
+    "taxonomy/id": "kUQB_KdK_kAh",
+    "taxonomy/preferred-label": "Halmstad"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2460",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Vännäs",
+    "taxonomy/id": "utQc_6xq_Dfm",
+    "taxonomy/preferred-label": "Vännäs"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2581",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Piteå",
+    "taxonomy/id": "umej_bP2_PpK",
+    "taxonomy/preferred-label": "Piteå"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2183",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Bollnäs",
+    "taxonomy/id": "KxjG_ig5_exF",
+    "taxonomy/preferred-label": "Bollnäs"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1880",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Örebro",
+    "taxonomy/id": "kuMn_feU_hXx",
+    "taxonomy/preferred-label": "Örebro"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2080",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Falun",
+    "taxonomy/id": "N1wJ_Cuu_7Cs",
+    "taxonomy/preferred-label": "Falun"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0139",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Upplands-Bro",
+    "taxonomy/id": "w6yq_CGR_Fiv",
+    "taxonomy/preferred-label": "Upplands-Bro"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2082",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Säter",
+    "taxonomy/id": "c3Zx_jBf_CqF",
+    "taxonomy/preferred-label": "Säter"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2026",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Gagnef",
+    "taxonomy/id": "Nn7p_W3Z_y68",
+    "taxonomy/preferred-label": "Gagnef"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2425",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Dorotea",
+    "taxonomy/id": "tSkf_Tbn_rHk",
+    "taxonomy/preferred-label": "Dorotea"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0187",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Vaxholm",
+    "taxonomy/id": "9aAJ_j6L_DST",
+    "taxonomy/preferred-label": "Vaxholm"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0686",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Eksjö",
+    "taxonomy/id": "VacK_WF6_XVg",
+    "taxonomy/preferred-label": "Eksjö"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1257",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Örkelljunga",
+    "taxonomy/id": "nBTS_Nge_dVH",
+    "taxonomy/preferred-label": "Örkelljunga"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0584",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Vadstena",
+    "taxonomy/id": "VcCU_Y86_eKU",
+    "taxonomy/preferred-label": "Vadstena"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1427",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Sotenäs",
+    "taxonomy/id": "aKkp_sEX_cVM",
+    "taxonomy/preferred-label": "Sotenäs"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1462",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Lilla Edet",
+    "taxonomy/id": "YQcE_SNB_Tv3",
+    "taxonomy/preferred-label": "Lilla Edet"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2104",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Hofors",
+    "taxonomy/id": "yuNd_3bg_ttc",
+    "taxonomy/preferred-label": "Hofors"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1264",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Skurup",
+    "taxonomy/id": "oezL_78x_r89",
+    "taxonomy/preferred-label": "Skurup"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0683",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Värnamo",
+    "taxonomy/id": "6bS8_fzf_xpW",
+    "taxonomy/preferred-label": "Värnamo"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1814",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Lekeberg",
+    "taxonomy/id": "yaHU_E7z_YnE",
+    "taxonomy/preferred-label": "Lekeberg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2582",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Boden",
+    "taxonomy/id": "y4NQ_tnB_eVd",
+    "taxonomy/preferred-label": "Boden"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0642",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Mullsjö",
+    "taxonomy/id": "smXg_BXp_jTW",
+    "taxonomy/preferred-label": "Mullsjö"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1460",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Bengtsfors",
+    "taxonomy/id": "hejM_Jct_XJk",
+    "taxonomy/preferred-label": "Bengtsfors"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0586",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Mjölby",
+    "taxonomy/id": "stqv_JGB_x8A",
+    "taxonomy/preferred-label": "Mjölby"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0862",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Emmaboda",
+    "taxonomy/id": "1koj_6Bg_8K6",
+    "taxonomy/preferred-label": "Emmaboda"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1421",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Orust",
+    "taxonomy/id": "tmAp_ykH_N6k",
+    "taxonomy/preferred-label": "Orust"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0881",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Nybro",
+    "taxonomy/id": "xk68_bJa_6Fh",
+    "taxonomy/preferred-label": "Nybro"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1737",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Torsby",
+    "taxonomy/id": "hQdb_zn9_Sok",
+    "taxonomy/preferred-label": "Torsby"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2081",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Borlänge",
+    "taxonomy/id": "cpya_jJg_pGp",
+    "taxonomy/preferred-label": "Borlänge"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1452",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Tranemo",
+    "taxonomy/id": "SEje_LdC_9qN",
+    "taxonomy/preferred-label": "Tranemo"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0162",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Danderyd",
+    "taxonomy/id": "E4CV_a5E_ucX",
+    "taxonomy/preferred-label": "Danderyd"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1761",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Hammarö",
+    "taxonomy/id": "x5qW_BXr_aut",
+    "taxonomy/preferred-label": "Hammarö"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1419",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Tjörn",
+    "taxonomy/id": "TbL3_HmF_gnx",
+    "taxonomy/preferred-label": "Tjörn"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1262",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Lomma",
+    "taxonomy/id": "naG4_AUS_z2v",
+    "taxonomy/preferred-label": "Lomma"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1960",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Kungsör",
+    "taxonomy/id": "Fac5_h7a_UoM",
+    "taxonomy/preferred-label": "Kungsör"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2583",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Haparanda",
+    "taxonomy/id": "tfRE_hXa_eq7",
+    "taxonomy/preferred-label": "Haparanda"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1083",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Sölvesborg",
+    "taxonomy/id": "EVPy_phD_8Vf",
+    "taxonomy/preferred-label": "Sölvesborg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2518",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Övertorneå",
+    "taxonomy/id": "ehMP_onv_Chk",
+    "taxonomy/preferred-label": "Övertorneå"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2403",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Bjurholm",
+    "taxonomy/id": "vQkf_tw2_CmR",
+    "taxonomy/preferred-label": "Bjurholm"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1864",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ljusnarsberg",
+    "taxonomy/id": "eF2n_714_hSU",
+    "taxonomy/preferred-label": "Ljusnarsberg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1465",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Svenljunga",
+    "taxonomy/id": "rZWC_pXf_ySZ",
+    "taxonomy/preferred-label": "Svenljunga"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0140",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Nykvarn",
+    "taxonomy/id": "mBKv_q3B_SK8",
+    "taxonomy/preferred-label": "Nykvarn"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0192",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Nynäshamn",
+    "taxonomy/id": "37UU_T7x_oxG",
+    "taxonomy/preferred-label": "Nynäshamn"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0513",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Kinda",
+    "taxonomy/id": "U4XJ_hYF_FBA",
+    "taxonomy/preferred-label": "Kinda"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0488",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Trosa",
+    "taxonomy/id": "rjzu_nQn_mCK",
+    "taxonomy/preferred-label": "Trosa"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1435",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Tanum",
+    "taxonomy/id": "qffn_qY4_DLk",
+    "taxonomy/preferred-label": "Tanum"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0763",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Tingsryd",
+    "taxonomy/id": "qz8Q_kDz_N2Y",
+    "taxonomy/preferred-label": "Tingsryd"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1277",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Åstorp",
+    "taxonomy/id": "tEv6_ktG_QQb",
+    "taxonomy/preferred-label": "Åstorp"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1471",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Götene",
+    "taxonomy/id": "txzq_PQY_FGi",
+    "taxonomy/preferred-label": "Götene"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0480",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Nyköping",
+    "taxonomy/id": "KzvD_ePV_DKQ",
+    "taxonomy/preferred-label": "Nyköping"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2523",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Gällivare",
+    "taxonomy/id": "6R2u_zkb_uoS",
+    "taxonomy/preferred-label": "Gällivare"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1488",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Trollhättan",
+    "taxonomy/id": "CSy8_41F_YvX",
+    "taxonomy/preferred-label": "Trollhättan"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2401",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Nordmaling",
+    "taxonomy/id": "wMab_4Zs_wpM",
+    "taxonomy/preferred-label": "Nordmaling"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0764",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Alvesta",
+    "taxonomy/id": "MMph_wmN_esc",
+    "taxonomy/preferred-label": "Alvesta"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0761",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Lessebo",
+    "taxonomy/id": "nXZy_1Jd_D8X",
+    "taxonomy/preferred-label": "Lessebo"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0665",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Vaggeryd",
+    "taxonomy/id": "zFup_umX_LVv",
+    "taxonomy/preferred-label": "Vaggeryd"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0181",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Södertälje",
+    "taxonomy/id": "g6hK_M1o_hiU",
+    "taxonomy/preferred-label": "Södertälje"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2560",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Älvsbyn",
+    "taxonomy/id": "14WF_zh1_W3y",
+    "taxonomy/preferred-label": "Älvsbyn"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1233",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Vellinge",
+    "taxonomy/id": "Tcog_5sH_b46",
+    "taxonomy/preferred-label": "Vellinge"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2380",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Östersund",
+    "taxonomy/id": "Vt7P_856_WZS",
+    "taxonomy/preferred-label": "Östersund"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1081",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ronneby",
+    "taxonomy/id": "vH8x_gVz_z7R",
+    "taxonomy/preferred-label": "Ronneby"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1286",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ystad",
+    "taxonomy/id": "hdYk_hnP_uju",
+    "taxonomy/preferred-label": "Ystad"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0883",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Västervik",
+    "taxonomy/id": "t7H4_S2P_3Fw",
+    "taxonomy/preferred-label": "Västervik"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0560",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Boxholm",
+    "taxonomy/id": "e5LB_m9V_TnT",
+    "taxonomy/preferred-label": "Boxholm"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2161",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ljusdal",
+    "taxonomy/id": "63iQ_V6F_REB",
+    "taxonomy/preferred-label": "Ljusdal"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2283",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Sollefteå",
+    "taxonomy/id": "v5y4_YPe_TMZ",
+    "taxonomy/preferred-label": "Sollefteå"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1764",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Grums",
+    "taxonomy/id": "PSNt_P95_x6q",
+    "taxonomy/preferred-label": "Grums"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0509",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ödeshög",
+    "taxonomy/id": "Fu8g_29u_3xF",
+    "taxonomy/preferred-label": "Ödeshög"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1473",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Töreboda",
+    "taxonomy/id": "a15F_gAH_pn6",
+    "taxonomy/preferred-label": "Töreboda"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2031",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Rättvik",
+    "taxonomy/id": "Jy3D_2ux_dg8",
+    "taxonomy/preferred-label": "Rättvik"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0580",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Linköping",
+    "taxonomy/id": "bm2x_1mr_Qhx",
+    "taxonomy/preferred-label": "Linköping"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0114",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Upplands Väsby",
+    "taxonomy/id": "XWKY_c49_5nv",
+    "taxonomy/preferred-label": "Upplands Väsby"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1472",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Tibro",
+    "taxonomy/id": "aLFZ_NHw_atB",
+    "taxonomy/preferred-label": "Tibro"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1499",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Falköping",
+    "taxonomy/id": "ZySF_gif_zE4",
+    "taxonomy/preferred-label": "Falköping"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1984",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Arboga",
+    "taxonomy/id": "Jkyb_5MQ_7pB",
+    "taxonomy/preferred-label": "Arboga"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1493",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Mariestad",
+    "taxonomy/id": "Lzpu_thX_Wpa",
+    "taxonomy/preferred-label": "Mariestad"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1885",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Lindesberg",
+    "taxonomy/id": "JQE9_189_Ska",
+    "taxonomy/preferred-label": "Lindesberg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2284",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Örnsköldsvik",
+    "taxonomy/id": "zBmE_n6s_MnQ",
+    "taxonomy/preferred-label": "Örnsköldsvik"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0562",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Finspång",
+    "taxonomy/id": "dMFe_J6W_iJv",
+    "taxonomy/preferred-label": "Finspång"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0687",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Tranås",
+    "taxonomy/id": "Namm_SpC_RPG",
+    "taxonomy/preferred-label": "Tranås"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1278",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Båstad",
+    "taxonomy/id": "i8vK_odq_6ar",
+    "taxonomy/preferred-label": "Båstad"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0563",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Valdemarsvik",
+    "taxonomy/id": "Sb3D_iGB_aXu",
+    "taxonomy/preferred-label": "Valdemarsvik"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0582",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Söderköping",
+    "taxonomy/id": "Pcv9_yYh_Uw8",
+    "taxonomy/preferred-label": "Söderköping"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0760",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Uppvidinge",
+    "taxonomy/id": "78cu_S5T_Pgp",
+    "taxonomy/preferred-label": "Uppvidinge"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2513",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Överkalix",
+    "taxonomy/id": "n5Sq_xxo_QWL",
+    "taxonomy/preferred-label": "Överkalix"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0128",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Salem",
+    "taxonomy/id": "4KBw_CPU_VQv",
+    "taxonomy/preferred-label": "Salem"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2121",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ovanåker",
+    "taxonomy/id": "JPSe_mUQ_NDs",
+    "taxonomy/preferred-label": "Ovanåker"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2023",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Malung-Sälen",
+    "taxonomy/id": "FPCd_poj_3tq",
+    "taxonomy/preferred-label": "Malung-Sälen"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2422",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Sorsele",
+    "taxonomy/id": "VM7L_yJK_Doo",
+    "taxonomy/preferred-label": "Sorsele"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2514",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Kalix",
+    "taxonomy/id": "cUyN_C9V_HLU",
+    "taxonomy/preferred-label": "Kalix"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1290",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Kristianstad",
+    "taxonomy/id": "vrvW_sr8_1en",
+    "taxonomy/preferred-label": "Kristianstad"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0117",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Österåker",
+    "taxonomy/id": "8gKt_ZsV_PGj",
+    "taxonomy/preferred-label": "Österåker"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0136",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Haninge",
+    "taxonomy/id": "Q7gp_9dT_k2F",
+    "taxonomy/preferred-label": "Haninge"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0382",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Östhammar",
+    "taxonomy/id": "VE3L_3Ei_XbG",
+    "taxonomy/preferred-label": "Östhammar"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2463",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Åsele",
+    "taxonomy/id": "xLdL_tMA_JJv",
+    "taxonomy/preferred-label": "Åsele"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1285",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Eslöv",
+    "taxonomy/id": "gfCw_egj_1M4",
+    "taxonomy/preferred-label": "Eslöv"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0884",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Vimmerby",
+    "taxonomy/id": "a7hJ_zwv_2FR",
+    "taxonomy/preferred-label": "Vimmerby"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1482",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Kungälv",
+    "taxonomy/id": "ZkZf_HbK_Mcr",
+    "taxonomy/preferred-label": "Kungälv"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1292",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ängelholm",
+    "taxonomy/id": "pCuv_P5A_9oh",
+    "taxonomy/preferred-label": "Ängelholm"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2029",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Leksand",
+    "taxonomy/id": "7Zsu_ant_gcn",
+    "taxonomy/preferred-label": "Leksand"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0182",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Nacka",
+    "taxonomy/id": "aYA7_PpG_BqP",
+    "taxonomy/preferred-label": "Nacka"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1463",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Mark",
+    "taxonomy/id": "7HAb_9or_eFM",
+    "taxonomy/preferred-label": "Mark"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1494",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Lidköping",
+    "taxonomy/id": "FN1Y_asc_D8y",
+    "taxonomy/preferred-label": "Lidköping"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1715",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Kil",
+    "taxonomy/id": "ocMw_Rz5_B1L",
+    "taxonomy/preferred-label": "Kil"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2482",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Skellefteå",
+    "taxonomy/id": "kicB_LgH_2Dk",
+    "taxonomy/preferred-label": "Skellefteå"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1863",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Hällefors",
+    "taxonomy/id": "sCbY_r36_xhs",
+    "taxonomy/preferred-label": "Hällefors"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1882",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Askersund",
+    "taxonomy/id": "dbF7_Ecz_CWF",
+    "taxonomy/preferred-label": "Askersund"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2282",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Kramfors",
+    "taxonomy/id": "yR8g_7Jz_HBZ",
+    "taxonomy/preferred-label": "Kramfors"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2085",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ludvika",
+    "taxonomy/id": "Ny2b_2bo_7EL",
+    "taxonomy/preferred-label": "Ludvika"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2101",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ockelbo",
+    "taxonomy/id": "GEvW_wKy_A9H",
+    "taxonomy/preferred-label": "Ockelbo"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2505",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Arvidsjaur",
+    "taxonomy/id": "A5WX_XVo_Zt6",
+    "taxonomy/preferred-label": "Arvidsjaur"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1265",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Sjöbo",
+    "taxonomy/id": "P3Cs_1ZP_9XB",
+    "taxonomy/preferred-label": "Sjöbo"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1881",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Kumla",
+    "taxonomy/id": "viCA_36P_pQp",
+    "taxonomy/preferred-label": "Kumla"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0120",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Värmdö",
+    "taxonomy/id": "15nx_Vut_GrH",
+    "taxonomy/preferred-label": "Värmdö"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0138",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Tyresö",
+    "taxonomy/id": "sTPc_k2B_SqV",
+    "taxonomy/preferred-label": "Tyresö"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1439",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Färgelanda",
+    "taxonomy/id": "kCHb_icw_W5E",
+    "taxonomy/preferred-label": "Färgelanda"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1785",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Säffle",
+    "taxonomy/id": "wmxQ_Guc_dsy",
+    "taxonomy/preferred-label": "Säffle"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2361",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Härjedalen",
+    "taxonomy/id": "j35Q_VKL_NiM",
+    "taxonomy/preferred-label": "Härjedalen"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0483",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Katrineholm",
+    "taxonomy/id": "snx9_qVD_Dr1",
+    "taxonomy/preferred-label": "Katrineholm"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0781",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ljungby",
+    "taxonomy/id": "GzKo_S48_QCm",
+    "taxonomy/preferred-label": "Ljungby"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0127",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Botkyrka",
+    "taxonomy/id": "CCVZ_JA7_d3y",
+    "taxonomy/preferred-label": "Botkyrka"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2462",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Vilhelmina",
+    "taxonomy/id": "tUnW_mFo_Hvi",
+    "taxonomy/preferred-label": "Vilhelmina"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2305",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Bräcke",
+    "taxonomy/id": "eNSc_Nj1_CDP",
+    "taxonomy/preferred-label": "Bräcke"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1441",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Lerum",
+    "taxonomy/id": "yHV7_2Y6_zQx",
+    "taxonomy/preferred-label": "Lerum"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0305",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Håbo",
+    "taxonomy/id": "Bbs5_JUs_Qh5",
+    "taxonomy/preferred-label": "Håbo"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0184",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Solna",
+    "taxonomy/id": "zHxw_uJZ_NJ8",
+    "taxonomy/preferred-label": "Solna"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1281",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Lund",
+    "taxonomy/id": "muSY_tsR_vDZ",
+    "taxonomy/preferred-label": "Lund"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2084",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Avesta",
+    "taxonomy/id": "Szbq_2fg_ydQ",
+    "taxonomy/preferred-label": "Avesta"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1382",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Falkenberg",
+    "taxonomy/id": "qaJg_wMR_C8T",
+    "taxonomy/preferred-label": "Falkenberg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0684",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Sävsjö",
+    "taxonomy/id": "L1cX_MjM_y8W",
+    "taxonomy/preferred-label": "Sävsjö"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1760",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Storfors",
+    "taxonomy/id": "mPt5_3QD_LTM",
+    "taxonomy/preferred-label": "Storfors"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2083",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Hedemora",
+    "taxonomy/id": "DE9u_V4K_Z1S",
+    "taxonomy/preferred-label": "Hedemora"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1782",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Filipstad",
+    "taxonomy/id": "UXir_vKD_FuW",
+    "taxonomy/preferred-label": "Filipstad"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0512",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ydre",
+    "taxonomy/id": "vRRz_nLT_vYv",
+    "taxonomy/preferred-label": "Ydre"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1230",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Staffanstorp",
+    "taxonomy/id": "vBrj_bov_KEX",
+    "taxonomy/preferred-label": "Staffanstorp"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1466",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Herrljunga",
+    "taxonomy/id": "J116_VFs_cg6",
+    "taxonomy/preferred-label": "Herrljunga"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1401",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Härryda",
+    "taxonomy/id": "dzWW_R3G_6Eh",
+    "taxonomy/preferred-label": "Härryda"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0861",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Mönsterås",
+    "taxonomy/id": "8eEp_iz4_cNN",
+    "taxonomy/preferred-label": "Mönsterås"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0188",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Norrtälje",
+    "taxonomy/id": "btgf_fS7_sKG",
+    "taxonomy/preferred-label": "Norrtälje"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1484",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Lysekil",
+    "taxonomy/id": "z2cX_rjC_zFo",
+    "taxonomy/preferred-label": "Lysekil"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2580",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Luleå",
+    "taxonomy/id": "CXbY_gui_14v",
+    "taxonomy/preferred-label": "Luleå"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2481",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Lycksele",
+    "taxonomy/id": "7rpN_naz_3Uz",
+    "taxonomy/preferred-label": "Lycksele"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1266",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Hörby",
+    "taxonomy/id": "autr_KMa_cfp",
+    "taxonomy/preferred-label": "Hörby"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0380",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Uppsala",
+    "taxonomy/id": "otaF_bQY_4ZD",
+    "taxonomy/preferred-label": "Uppsala"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1447",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Gullspång",
+    "taxonomy/id": "roiB_uVV_4Cj",
+    "taxonomy/preferred-label": "Gullspång"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1287",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Trelleborg",
+    "taxonomy/id": "STvk_dra_M1X",
+    "taxonomy/preferred-label": "Trelleborg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1275",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Perstorp",
+    "taxonomy/id": "BN7r_iPV_F9p",
+    "taxonomy/preferred-label": "Perstorp"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0980",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Gotland",
+    "taxonomy/id": "Ft9P_E8F_VLJ",
+    "taxonomy/preferred-label": "Gotland"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0885",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Borgholm",
+    "taxonomy/id": "LY9i_qNL_kXf",
+    "taxonomy/preferred-label": "Borgholm"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0860",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Hultsfred",
+    "taxonomy/id": "AEQD_1RT_vM9",
+    "taxonomy/preferred-label": "Hultsfred"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1498",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Tidaholm",
+    "taxonomy/id": "Zsf5_vpP_Bs4",
+    "taxonomy/preferred-label": "Tidaholm"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2281",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Sundsvall",
+    "taxonomy/id": "dJbx_FWY_tK6",
+    "taxonomy/preferred-label": "Sundsvall"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1497",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Hjo",
+    "taxonomy/id": "YbFS_34r_K2v",
+    "taxonomy/preferred-label": "Hjo"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2313",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Strömsund",
+    "taxonomy/id": "ppjq_Eci_Wz9",
+    "taxonomy/preferred-label": "Strömsund"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1489",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Alingsås",
+    "taxonomy/id": "UQ75_1eU_jaC",
+    "taxonomy/preferred-label": "Alingsås"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0123",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Järfälla",
+    "taxonomy/id": "qm5H_jsD_fUF",
+    "taxonomy/preferred-label": "Järfälla"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0180",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Stockholm",
+    "taxonomy/id": "AvNB_uwa_6n6",
+    "taxonomy/preferred-label": "Stockholm"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0191",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Sigtuna",
+    "taxonomy/id": "8ryy_X54_xJj",
+    "taxonomy/preferred-label": "Sigtuna"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1781",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Kristinehamn",
+    "taxonomy/id": "SVQS_uwJ_m2B",
+    "taxonomy/preferred-label": "Kristinehamn"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1415",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Stenungsund",
+    "taxonomy/id": "wHrG_FBH_hoD",
+    "taxonomy/preferred-label": "Stenungsund"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1962",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Norberg",
+    "taxonomy/id": "jbVe_Cps_vtd",
+    "taxonomy/preferred-label": "Norberg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2303",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ragunda",
+    "taxonomy/id": "Voto_egJ_FZP",
+    "taxonomy/preferred-label": "Ragunda"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1884",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Nora",
+    "taxonomy/id": "WFXN_hsU_gmx",
+    "taxonomy/preferred-label": "Nora"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1407",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Öckerö",
+    "taxonomy/id": "Zjiv_rhk_oJK",
+    "taxonomy/preferred-label": "Öckerö"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0484",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Eskilstuna",
+    "taxonomy/id": "kMxr_NiX_YrU",
+    "taxonomy/preferred-label": "Eskilstuna"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1384",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Kungsbacka",
+    "taxonomy/id": "3JKV_KSK_x6z",
+    "taxonomy/preferred-label": "Kungsbacka"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0840",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Mörbylånga",
+    "taxonomy/id": "Muim_EAi_EFp",
+    "taxonomy/preferred-label": "Mörbylånga"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0834",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Torsås",
+    "taxonomy/id": "wYFb_q7w_Nnh",
+    "taxonomy/preferred-label": "Torsås"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0381",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Enköping",
+    "taxonomy/id": "HGwg_unG_TsG",
+    "taxonomy/preferred-label": "Enköping"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1280",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Malmö",
+    "taxonomy/id": "oYPt_yRA_Smm",
+    "taxonomy/preferred-label": "Malmö"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0461",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Gnesta",
+    "taxonomy/id": "os8Y_RUo_U3u",
+    "taxonomy/preferred-label": "Gnesta"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2326",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Berg",
+    "taxonomy/id": "gRNJ_hVW_Gpg",
+    "taxonomy/preferred-label": "Berg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2480",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Umeå",
+    "taxonomy/id": "QiGt_BLu_amP",
+    "taxonomy/preferred-label": "Umeå"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0604",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Aneby",
+    "taxonomy/id": "y9HE_XD7_WaD",
+    "taxonomy/preferred-label": "Aneby"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2132",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Nordanstig",
+    "taxonomy/id": "fFeF_RCz_Tm5",
+    "taxonomy/preferred-label": "Nordanstig"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2061",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Smedjebacken",
+    "taxonomy/id": "5zZX_8FH_Sbq",
+    "taxonomy/preferred-label": "Smedjebacken"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0561",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Åtvidaberg",
+    "taxonomy/id": "bFWo_FRJ_x2T",
+    "taxonomy/preferred-label": "Åtvidaberg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2034",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Orsa",
+    "taxonomy/id": "CRyF_5Jg_4ht",
+    "taxonomy/preferred-label": "Orsa"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1481",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Mölndal",
+    "taxonomy/id": "mc45_ki9_Bv3",
+    "taxonomy/preferred-label": "Mölndal"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0583",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Motala",
+    "taxonomy/id": "E1MC_1uG_phm",
+    "taxonomy/preferred-label": "Motala"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0617",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Gnosjö",
+    "taxonomy/id": "91VR_Hxi_GN4",
+    "taxonomy/preferred-label": "Gnosjö"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1762",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Munkfors",
+    "taxonomy/id": "x73h_7rW_mXN",
+    "taxonomy/preferred-label": "Munkfors"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1293",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Hässleholm",
+    "taxonomy/id": "bP5q_53x_aqJ",
+    "taxonomy/preferred-label": "Hässleholm"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1485",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Uddevalla",
+    "taxonomy/id": "xQc2_SzA_rHK",
+    "taxonomy/preferred-label": "Uddevalla"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2409",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Robertsfors",
+    "taxonomy/id": "p8Mv_377_bxp",
+    "taxonomy/preferred-label": "Robertsfors"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0183",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Sundbyberg",
+    "taxonomy/id": "UTJZ_zHH_mJm",
+    "taxonomy/preferred-label": "Sundbyberg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2180",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Gävle",
+    "taxonomy/id": "qk8Y_2b6_82D",
+    "taxonomy/preferred-label": "Gävle"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1961",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Hallstahammar",
+    "taxonomy/id": "oXYf_HmD_ddE",
+    "taxonomy/preferred-label": "Hallstahammar"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1443",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Bollebygd",
+    "taxonomy/id": "ypAQ_vTD_KLU",
+    "taxonomy/preferred-label": "Bollebygd"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1291",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Simrishamn",
+    "taxonomy/id": "dLxo_EpC_oPe",
+    "taxonomy/preferred-label": "Simrishamn"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0486",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Strängnäs",
+    "taxonomy/id": "shnD_RiE_RKL",
+    "taxonomy/preferred-label": "Strängnäs"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1495",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Skara",
+    "taxonomy/id": "k1SK_gxg_dW4",
+    "taxonomy/preferred-label": "Skara"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2021",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Vansbro",
+    "taxonomy/id": "4eS9_HX1_M7V",
+    "taxonomy/preferred-label": "Vansbro"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1982",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Fagersta",
+    "taxonomy/id": "7D9G_yrX_AGJ",
+    "taxonomy/preferred-label": "Fagersta"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2260",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ånge",
+    "taxonomy/id": "swVa_cyS_EMN",
+    "taxonomy/preferred-label": "Ånge"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1980",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Västerås",
+    "taxonomy/id": "8deT_FRF_2SP",
+    "taxonomy/preferred-label": "Västerås"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2039",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Älvdalen",
+    "taxonomy/id": "cZtt_qGo_oBr",
+    "taxonomy/preferred-label": "Älvdalen"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1461",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Mellerud",
+    "taxonomy/id": "tt1B_7rH_vhG",
+    "taxonomy/preferred-label": "Mellerud"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1272",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Bromölla",
+    "taxonomy/id": "WMNK_PXa_Khm",
+    "taxonomy/preferred-label": "Bromölla"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0115",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Vallentuna",
+    "taxonomy/id": "K4az_Bm6_hRV",
+    "taxonomy/preferred-label": "Vallentuna"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2584",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Kiruna",
+    "taxonomy/id": "biN6_UiL_Qob",
+    "taxonomy/preferred-label": "Kiruna"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1492",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Åmål",
+    "taxonomy/id": "M1UC_Cnf_r7g",
+    "taxonomy/preferred-label": "Åmål"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1763",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Forshaga",
+    "taxonomy/id": "xnEt_JN3_GkA",
+    "taxonomy/preferred-label": "Forshaga"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1470",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Vara",
+    "taxonomy/id": "fbHM_yhA_BqS",
+    "taxonomy/preferred-label": "Vara"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2506",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Arjeplog",
+    "taxonomy/id": "vkQW_GB6_MNk",
+    "taxonomy/preferred-label": "Arjeplog"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1256",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Östra Göinge",
+    "taxonomy/id": "LTt7_CGG_RUf",
+    "taxonomy/preferred-label": "Östra Göinge"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0331",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Heby",
+    "taxonomy/id": "sD2e_1Tr_4WZ",
+    "taxonomy/preferred-label": "Heby"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0643",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Habo",
+    "taxonomy/id": "9zQB_3vU_BQA",
+    "taxonomy/preferred-label": "Habo"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1446",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Karlsborg",
+    "taxonomy/id": "e413_94L_hdh",
+    "taxonomy/preferred-label": "Karlsborg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0682",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Nässjö",
+    "taxonomy/id": "KfXT_ySA_do2",
+    "taxonomy/preferred-label": "Nässjö"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1276",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Klippan",
+    "taxonomy/id": "JARU_FAY_hTS",
+    "taxonomy/preferred-label": "Klippan"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2521",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Pajala",
+    "taxonomy/id": "dHMF_72G_4NM",
+    "taxonomy/preferred-label": "Pajala"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2417",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Norsjö",
+    "taxonomy/id": "XmpG_vPQ_K7T",
+    "taxonomy/preferred-label": "Norsjö"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1231",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Burlöv",
+    "taxonomy/id": "64g5_Lio_aMU",
+    "taxonomy/preferred-label": "Burlöv"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0680",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Jönköping",
+    "taxonomy/id": "KURg_KJF_Lwc",
+    "taxonomy/preferred-label": "Jönköping"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1402",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Partille",
+    "taxonomy/id": "CCiR_sXa_BVW",
+    "taxonomy/preferred-label": "Partille"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1983",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Köping",
+    "taxonomy/id": "4Taz_AuG_tSm",
+    "taxonomy/preferred-label": "Köping"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2321",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Åre",
+    "taxonomy/id": "D7ax_CXP_6r1",
+    "taxonomy/preferred-label": "Åre"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2280",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Härnösand",
+    "taxonomy/id": "uYRx_AdM_r4A",
+    "taxonomy/preferred-label": "Härnösand"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1780",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Karlstad",
+    "taxonomy/id": "hRDj_PoV_sFU",
+    "taxonomy/preferred-label": "Karlstad"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1080",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Karlskrona",
+    "taxonomy/id": "YSt4_bAa_ccs",
+    "taxonomy/preferred-label": "Karlskrona"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1784",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Arvika",
+    "taxonomy/id": "yGue_F32_wev",
+    "taxonomy/preferred-label": "Arvika"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1491",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ulricehamn",
+    "taxonomy/id": "an4a_8t2_Zpd",
+    "taxonomy/preferred-label": "Ulricehamn"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1496",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Skövde",
+    "taxonomy/id": "fqAy_4ji_Lz2",
+    "taxonomy/preferred-label": "Skövde"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1267",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Höör",
+    "taxonomy/id": "N29z_AqQ_Ppc",
+    "taxonomy/preferred-label": "Höör"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2404",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Vindeln",
+    "taxonomy/id": "izT6_zWu_tta",
+    "taxonomy/preferred-label": "Vindeln"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1060",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Olofström",
+    "taxonomy/id": "1gEC_kvM_TXK",
+    "taxonomy/preferred-label": "Olofström"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1440",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Ale",
+    "taxonomy/id": "17Ug_Btv_mBr",
+    "taxonomy/preferred-label": "Ale"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1430",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Munkedal",
+    "taxonomy/id": "96Dh_3sQ_RFb",
+    "taxonomy/preferred-label": "Munkedal"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1904",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Skinnskatteberg",
+    "taxonomy/id": "Nufj_vmt_VrH",
+    "taxonomy/preferred-label": "Skinnskatteberg"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1445",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Essunga",
+    "taxonomy/id": "ZzEA_2Fg_Pt2",
+    "taxonomy/preferred-label": "Essunga"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2184",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Hudiksvall",
+    "taxonomy/id": "Utks_mwF_axY",
+    "taxonomy/preferred-label": "Hudiksvall"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2418",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Malå",
+    "taxonomy/id": "7sHJ_YCE_5Zv",
+    "taxonomy/preferred-label": "Malå"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2262",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Timrå",
+    "taxonomy/id": "oJ8D_rq6_kjt",
+    "taxonomy/preferred-label": "Timrå"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "2309",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Krokom",
+    "taxonomy/id": "yurW_aLE_4ga",
+    "taxonomy/preferred-label": "Krokom"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1381",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Laholm",
+    "taxonomy/id": "c1iL_rqh_Zja",
+    "taxonomy/preferred-label": "Laholm"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "0330",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Knivsta",
+    "taxonomy/id": "KALq_sG6_VrW",
+    "taxonomy/preferred-label": "Knivsta"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1260",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Bjuv",
+    "taxonomy/id": "waQp_FjW_qhF",
+    "taxonomy/preferred-label": "Bjuv"
+  },
+  {
+    "taxonomy/lau-2-code-2015": "1883",
+    "taxonomy/type": "municipality",
+    "taxonomy/definition": "Karlskoga",
+    "taxonomy/id": "wgJm_upX_z5W",
+    "taxonomy/preferred-label": "Karlskoga"
+  }
+]

@@ -157,6 +157,192 @@ Record AddSkillsOnUserResponse(List<string> Skills, string UserName);
 - 404 User not found
 - 500 Unexpected server error
 
+## AdsSearch - Sök annonser direkt från AF Job Search (stateless)
+
+GET /ads/search
+
+Endpointen anropar AF Job Search API i realtid och filtrerar sedan en gång till internt.
+Annonser sparas inte i egen databas i detta steg.
+
+### Query parameters
+
+- publishedAfter (required, format YYYY-MM-DDTHH:MM:SS eller ISO datetime)
+- publishedBefore (optional)
+- municipality (optional, repeatable, concept id)
+- occupationGroup (optional, repeatable, concept id)
+- keyword (optional, måste finnas i description.text, case-insensitive)
+- maxLimit (optional, 1-100)
+
+Rules:
+
+- publishedAfter är obligatorisk.
+- Minst en av municipality eller occupationGroup måste skickas.
+- municipality och occupationGroup valideras mot taxonomy-filer i JobAssistant.Api/Data/Taxonomy.
+
+### Outbound request to JobSearch
+
+The API calls:
+
+GET https://jobsearch.api.jobtechdev.se/search
+
+with query params:
+
+- published-after
+- published-before (optional)
+- municipality (repeatable)
+- occupation-group (repeatable)
+- sort=pubdate-desc
+- limit (optional)
+
+Header:
+
+- Accept: application/json
+
+### Response
+
+Record SearchAdsResponse(List<SearchAdItem> Ads);
+
+Record SearchAdItem(
+string Title,
+string Location,
+string OccupationGroup,
+string Id,
+string? WebpageUrl
+);
+
+#### Example JSON response (200)
+
+```json
+{
+  "ads": [
+    {
+      "title": "Backend Developer",
+      "location": "Västerås",
+      "occupationGroup": "Mjukvaru- och systemutvecklare m.fl.",
+      "id": "ad-1",
+      "webpageUrl": "https://example.com/ad-1"
+    }
+  ]
+}
+```
+
+No matches returns 200 with an empty list:
+
+```json
+{
+  "ads": []
+}
+```
+
+### Errors (ProblemDetails)
+
+- 400 Validation failed (missing publishedAfter, missing municipality/occupationGroup, invalid concept ids, invalid maxLimit)
+- 429 Rate limit exceeded from JobSearch (mapped from upstream)
+- 502 JobSearch call failed or returned invalid data
+- 500 Unexpected server error
+
+## AdsSearch Session - Tvåstegsflöde med in-memory session
+
+Detta flöde bygger vidare på AdsSearch men sparar första resultatet i en kortlivad server-side session.
+Session identifieras med ett explicit sessionId som returneras från API:t.
+
+### 1) Create search session
+
+POST /ads/sessions/search
+
+Skapar en session från JobSearch-resultat och returnerar sessionId.
+
+#### Request (JSON)
+
+Record CreateSearchAdsSessionRequest(
+DateTime? PublishedAfter,
+DateTime? PublishedBefore,
+List<string>? Municipality,
+List<string>? OccupationGroup,
+string? Keyword,
+int? MaxLimit
+);
+
+Rules:
+
+- PublishedAfter är obligatorisk.
+- Minst en av Municipality eller OccupationGroup måste skickas.
+- Taxonomy concept ids valideras mot statiska filer.
+- MaxLimit är optional.
+- Hårt systemtak i sessionsflödet: max 50 annonser.
+
+#### Response (JSON)
+
+Record SearchAdsSessionResponse(
+string SessionId,
+DateTime ExpiresAtUtc,
+List<SearchAdItem> Ads,
+List<string> Messages
+);
+
+Messages används för informationsmeddelanden, till exempel när maxgräns 50 annonser klipper resultat.
+
+#### Example JSON response (200)
+
+```json
+{
+  "sessionId": "d36ebf20e8e041f2be8df307413b0a0f",
+  "expiresAtUtc": "2026-06-29T12:30:00Z",
+  "ads": [
+    {
+      "title": "Backend Developer",
+      "location": "Västerås",
+      "occupationGroup": "Mjukvaru- och systemutvecklare m.fl.",
+      "id": "ad-1",
+      "webpageUrl": "https://example.com/ad-1"
+    }
+  ],
+  "messages": []
+}
+```
+
+### 2) Refine existing session
+
+POST /ads/sessions/{sessionId}/refine
+
+Applicerar nya interna filter mot redan sparad session-data utan nytt anrop mot AF.
+
+#### Request (JSON)
+
+Record RefineSearchAdsSessionRequest(
+string? Keyword,
+int? MaxLimit
+);
+
+Rules:
+
+- SessionId krävs i route.
+- MaxLimit är optional men måste vara > 0 om satt.
+- Hårt systemtak i sessionsflödet: max 50 annonser.
+
+#### Response (JSON)
+
+Record SearchAdsSessionResponse(
+string SessionId,
+DateTime ExpiresAtUtc,
+List<SearchAdItem> Ads,
+List<string> Messages
+);
+
+### Session behavior
+
+- Session lagras i in-memory cache.
+- Sliding expiration används (20 minuter): varje användning av sessionen flyttar fram utgångstiden.
+- Om session saknas eller har gått ut returneras 404 Not found.
+
+### Errors (ProblemDetails)
+
+- 400 Validation failed (invalid request body, invalid sessionId/maxLimit)
+- 404 Resource not found (session not found or expired)
+- 429 Rate limit exceeded from JobSearch (mapped from upstream in create step)
+- 502 JobSearch call failed or returned invalid data (in create step)
+- 500 Unexpected server error
+
 ## JobStreamAds - Läsa nya annonser från JobStream
 
 POST (is POST right here?) This will become something scheduled in the future, but for now,

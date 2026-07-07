@@ -31,3 +31,7 @@ Användare skapas med username. Låt det vara case insensitive. Det bör räcka 
 används ändå strings i request, där jag manuellt skriver in skills och location. Mer om det längre fram.
 JobStream finns här https://jobstream.api.jobtechdev.se/ Har du möjlighet att läsa det du behöver för att konfigurera api anropet, eller behöver jag hitta den info själv?
 Gör exempel hämtningar utifrån Location Västmanland alla orter. Bygg funktionalitet för att översätta ortsnamn i Västmanland till de koncept id som jobstream använder.
+
+# Git
+
+Detta projekt är kopplat till ett git repo. Huvudbranch är main. Skapa en develop branch där du bygger enligt leveransordningen i implementation-brief. Du kan utifrån bestpractice avgöra hur ofta du ska commita delsteg. När varje leveranssteg är klart vill jag dock ha en commit med ett namn som visar att ett större steg är klart, t ex Delivery 1 ready.
